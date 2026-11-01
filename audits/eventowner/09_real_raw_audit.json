@@ -1,0 +1,58 @@
+{
+  "windows": 72,
+  "pairs": 144,
+  "recordings": 9,
+  "rooms": 9,
+  "manifest_frozen_hash_matches": true,
+  "source_hash_checks": {
+    "fold3_room12_mix001_audio": true,
+    "fold3_room12_mix001_video": true,
+    "fold3_room13_mix001_audio": true,
+    "fold3_room13_mix001_video": true,
+    "fold3_room14_mix001_audio": true,
+    "fold3_room14_mix001_video": true,
+    "fold3_room21_mix013_audio": true,
+    "fold3_room21_mix013_video": true,
+    "fold3_room22_mix001_audio": true,
+    "fold3_room22_mix001_video": true,
+    "fold3_room4_mix001_audio": true,
+    "fold3_room4_mix001_video": true,
+    "fold3_room6_mix001_audio": true,
+    "fold3_room6_mix001_video": true,
+    "fold3_room7_mix001_audio": true,
+    "fold3_room7_mix001_video": true,
+    "fold3_room9_mix001_audio": true,
+    "fold3_room9_mix001_video": true
+  },
+  "methods": {
+    "temporal": {
+      "matched_vs_shuffle_ranking": 0.5555555555555556,
+      "recording_cluster_interval": [
+        0.4583333333333333,
+        0.6527777777777778
+      ]
+    },
+    "pooled_spatial": {
+      "matched_vs_shuffle_ranking": 0.7777777777777778,
+      "recording_cluster_interval": [
+        0.6111111111111112,
+        0.9305555555555556
+      ]
+    },
+    "broadband_joint": {
+      "matched_vs_shuffle_ranking": 0.6527777777777778,
+      "recording_cluster_interval": [
+        0.5,
+        0.8055555555555556
+      ]
+    },
+    "factorized_joint": {
+      "matched_vs_shuffle_ranking": 0.625,
+      "recording_cluster_interval": [
+        0.4861111111111111,
+        0.75
+      ]
+    }
+  },
+  "interpretation": "Exploratory mismatched-recording comparison, with no real ownership gold labels and prior room exposure. Factorized interval includes chance and pooled spatial reference performs better. Not real causal attribution or transfer."
+}

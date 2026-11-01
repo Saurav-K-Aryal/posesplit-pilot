@@ -1,0 +1,18 @@
+{
+  "temporal": {
+    "threshold": 0.955362491568422,
+    "development_balanced_accuracy": 0.5166666666666666
+  },
+  "pooled_spatial": {
+    "threshold": 0.8582560248371859,
+    "development_balanced_accuracy": 0.5416666666666666
+  },
+  "broadband_joint": {
+    "threshold": 0.33497288378045253,
+    "development_balanced_accuracy": 0.8
+  },
+  "factorized_joint": {
+    "threshold": 0.8626517440752381,
+    "development_balanced_accuracy": 0.8291666666666666
+  }
+}

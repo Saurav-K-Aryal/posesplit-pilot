@@ -1,0 +1,1874 @@
+[
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.31960658933273034,
+      "pooled_spatial": 0.07191491676943501,
+      "broadband_joint": 0.15880581138911398,
+      "factorized_joint": 0.19067151878459698
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.1645295333574384,
+      "pooled_spatial": 0.06690264393907973,
+      "broadband_joint": 0.12886497637180871,
+      "factorized_joint": 0.17916632749560515
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.040629935582786124,
+      "pooled_spatial": -0.2662038631706304,
+      "broadband_joint": 0.13867975814917272,
+      "factorized_joint": 0.23183425318329
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.26128246277327993,
+      "pooled_spatial": 0.21381729211624237,
+      "broadband_joint": 0.08259403918575235,
+      "factorized_joint": 0.15686758553767588
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.14238691423115554,
+      "pooled_spatial": 0.14632804346332612,
+      "broadband_joint": 0.14753456300388135,
+      "factorized_joint": 0.24050295907076216
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.3262299822425686,
+      "pooled_spatial": 0.05988056116843045,
+      "broadband_joint": 0.1968403552466252,
+      "factorized_joint": 0.30406471206001573
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": 0.02476950411887893,
+      "pooled_spatial": -0.33320241033410325,
+      "broadband_joint": 0.2002754159558221,
+      "factorized_joint": 0.2730877355825889
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.28244184565408453,
+      "pooled_spatial": 0.14459398510291505,
+      "broadband_joint": 0.18016526217228498,
+      "factorized_joint": 0.27512020527966186
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.041500576540646185,
+      "pooled_spatial": -0.254390323265429,
+      "broadband_joint": 0.18073349655832874,
+      "factorized_joint": 0.26869637951926445
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.13109103700753075,
+      "pooled_spatial": 0.0012561452843529476,
+      "broadband_joint": 0.14397360434981135,
+      "factorized_joint": 0.24914325245852365
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.11399672219195686,
+      "pooled_spatial": 0.05405691668254493,
+      "broadband_joint": 0.17658457646976333,
+      "factorized_joint": 0.28660870315221426
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.007457312404944771,
+      "pooled_spatial": 0.15615679405120003,
+      "broadband_joint": 0.2090959646268677,
+      "factorized_joint": 0.3305320258211966
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": 0.08209077355718274,
+      "pooled_spatial": -0.012207760141139341,
+      "broadband_joint": 0.15522262581756285,
+      "factorized_joint": 0.2901840250491428
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.07766766142406924,
+      "pooled_spatial": 0.26449865957984764,
+      "broadband_joint": 0.2177171381243814,
+      "factorized_joint": 0.33060360496640545
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.09760344442220098,
+      "pooled_spatial": -0.34549154392041986,
+      "broadband_joint": 0.13513325844409943,
+      "factorized_joint": 0.22130765124701618
+    }
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.28984032621473743,
+      "pooled_spatial": 0.1875114666685013,
+      "broadband_joint": 0.1610015992571217,
+      "factorized_joint": 0.21445232337471615
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.03595995436925503,
+      "pooled_spatial": -0.12250920633236133,
+      "broadband_joint": 0.19303819824855836,
+      "factorized_joint": 0.24871443147949798
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.018588409617193723,
+      "pooled_spatial": -0.17197748814890543,
+      "broadband_joint": 0.29803487995394706,
+      "factorized_joint": 0.4748842404611301
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.08590381050437096,
+      "pooled_spatial": 0.720858155362604,
+      "broadband_joint": 0.2703160403669869,
+      "factorized_joint": 0.3250052403418813
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.27248895086989555,
+      "pooled_spatial": -0.0359967063520439,
+      "broadband_joint": 0.2103472146925109,
+      "factorized_joint": 0.31508057643983145
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.3012357943929495,
+      "pooled_spatial": 0.6800899695496846,
+      "broadband_joint": 0.3198402150571369,
+      "factorized_joint": 0.49304115773179624
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.16364234075290598,
+      "pooled_spatial": -0.3904640529176614,
+      "broadband_joint": 0.24333749254278245,
+      "factorized_joint": 0.3302614778411706
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.04285724499518774,
+      "pooled_spatial": 0.7241515486103564,
+      "broadband_joint": 0.2823867694093857,
+      "factorized_joint": 0.4123048275553216
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.10581074803169857,
+      "pooled_spatial": -0.38168370089061654,
+      "broadband_joint": 0.10058664293160748,
+      "factorized_joint": 0.23230613305464767
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.06444572804432602,
+      "pooled_spatial": 0.3343990266028595,
+      "broadband_joint": 0.23075656191098876,
+      "factorized_joint": 0.35731348389180595
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.1896610342180666,
+      "pooled_spatial": -0.24871034999340125,
+      "broadband_joint": 0.1804618298719202,
+      "factorized_joint": 0.2467377161984907
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.18498609605997426,
+      "pooled_spatial": 0.8451718091763161,
+      "broadband_joint": 0.454648747727433,
+      "factorized_joint": 0.5426419637206177
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.032257584149618546,
+      "pooled_spatial": -0.44313671139975086,
+      "broadband_joint": 0.09958704196317655,
+      "factorized_joint": 0.17598287644273908
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": 0.042540540781942145,
+      "pooled_spatial": 0.8017407288498839,
+      "broadband_joint": 0.26215015766177574,
+      "factorized_joint": 0.33475867067630516
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.03195845162198755,
+      "pooled_spatial": -0.4699844583274201,
+      "broadband_joint": 0.1382123389993154,
+      "factorized_joint": 0.22250475254769697
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room13_mix001",
+    "scores": {
+      "temporal": -0.3475698136566807,
+      "pooled_spatial": 0.7426026200187297,
+      "broadband_joint": 0.23607141039655638,
+      "factorized_joint": 0.27222124115490276
+    }
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.1791408400189022,
+      "pooled_spatial": -0.062257478199413414,
+      "broadband_joint": 0.21360634177565307,
+      "factorized_joint": 0.2782254292654823
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.08630534808871251,
+      "pooled_spatial": 0.7321543300601006,
+      "broadband_joint": 0.2985613978127748,
+      "factorized_joint": 0.3875565937358097
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.18522858419471946,
+      "pooled_spatial": -0.18075089174869566,
+      "broadband_joint": 0.04119458478313563,
+      "factorized_joint": 0.07880113575352794
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.07703331386000481,
+      "pooled_spatial": 0.10783694111977105,
+      "broadband_joint": 0.16639356666939092,
+      "factorized_joint": 0.23419920562659474
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.13217347016316333,
+      "pooled_spatial": -0.47612398980510096,
+      "broadband_joint": 0.10079406912879843,
+      "factorized_joint": 0.1688781794542329
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.04905741970741615,
+      "pooled_spatial": 0.09705109277394527,
+      "broadband_joint": 0.20755010083434416,
+      "factorized_joint": 0.2727110414084035
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.18161813553191822,
+      "pooled_spatial": -0.4227564192767702,
+      "broadband_joint": 0.11572463312314982,
+      "factorized_joint": 0.20040933237568176
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.07742384045416906,
+      "pooled_spatial": 0.07956937710427099,
+      "broadband_joint": 0.17511328053609823,
+      "factorized_joint": 0.2597547096256551
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.01041751205909929,
+      "pooled_spatial": -0.5076211182225703,
+      "broadband_joint": 0.11006650797377017,
+      "factorized_joint": 0.15208407553253406
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.046216572013541825,
+      "pooled_spatial": 0.06257015544541034,
+      "broadband_joint": 0.15830564291948113,
+      "factorized_joint": 0.23093175839929259
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.08304609760513258,
+      "pooled_spatial": -0.4875067520576681,
+      "broadband_joint": 0.12099963351267923,
+      "factorized_joint": 0.1580957143419938
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.034932450602996885,
+      "pooled_spatial": 0.3172014566454238,
+      "broadband_joint": 0.14378835003686197,
+      "factorized_joint": 0.21862358177099778
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.16040557527806862,
+      "pooled_spatial": -0.2877773028077224,
+      "broadband_joint": 0.10376434549874382,
+      "factorized_joint": 0.14466463056243206
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": 0.0679354908664955,
+      "pooled_spatial": 0.07059239312752216,
+      "broadband_joint": 0.15597163057245106,
+      "factorized_joint": 0.246641457836706
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.020329409666884513,
+      "pooled_spatial": -0.3682047499969312,
+      "broadband_joint": 0.15112937080202976,
+      "factorized_joint": 0.21249434470464398
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room14_mix001",
+    "scores": {
+      "temporal": -0.10288821190608573,
+      "pooled_spatial": 0.014952787566951748,
+      "broadband_joint": 0.11437169486117205,
+      "factorized_joint": 0.20711928463766255
+    }
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.26739669693847357,
+      "pooled_spatial": -0.5145081059578915,
+      "broadband_joint": 0.15436233743685418,
+      "factorized_joint": 0.21965451010585535
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.2920757026210264,
+      "pooled_spatial": 0.7910166222186664,
+      "broadband_joint": 0.17459663259082547,
+      "factorized_joint": 0.2447474662547031
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.0015902113117489025,
+      "pooled_spatial": 0.6387473206201654,
+      "broadband_joint": 0.16290017497357678,
+      "factorized_joint": 0.20952693248367327
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.0456610382563938,
+      "pooled_spatial": 0.22278670740526532,
+      "broadband_joint": 0.25525522431443304,
+      "factorized_joint": 0.37830884919979874
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.19965010302396685,
+      "pooled_spatial": 0.1302805552286454,
+      "broadband_joint": 0.14496000241830015,
+      "factorized_joint": 0.14739715411098475
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.0653481950651377,
+      "pooled_spatial": -0.7309614634199636,
+      "broadband_joint": 0.1457913876005158,
+      "factorized_joint": 0.19892302730883182
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.08823255601552538,
+      "pooled_spatial": -0.08947713178719036,
+      "broadband_joint": 0.2642742634446683,
+      "factorized_joint": 0.32276410263213523
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.18216373433438787,
+      "pooled_spatial": -0.16436225915679892,
+      "broadband_joint": 0.19384306157718556,
+      "factorized_joint": 0.2613361531593582
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.733041815193412,
+      "pooled_spatial": -0.7516900888538572,
+      "broadband_joint": 0.23671067152969272,
+      "factorized_joint": 0.45652572576378564
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.4147262931033808,
+      "pooled_spatial": -0.33305907819179403,
+      "broadband_joint": 0.16144301383031856,
+      "factorized_joint": 0.23030989411335448
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.11545928643843593,
+      "pooled_spatial": -0.15208701013950263,
+      "broadband_joint": 0.2297958585293783,
+      "factorized_joint": 0.305012905154714
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.27413186825056296,
+      "pooled_spatial": -0.6979704831440979,
+      "broadband_joint": 0.14938277344456835,
+      "factorized_joint": 0.1841967638602214
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.11796899600969542,
+      "pooled_spatial": 0.010797309070166348,
+      "broadband_joint": 0.29171667955126224,
+      "factorized_joint": 0.2936934793854924
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": 0.235849745349088,
+      "pooled_spatial": 0.19463974932593248,
+      "broadband_joint": 0.16310662178295965,
+      "factorized_joint": 0.24993631680483763
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.043525455711364444,
+      "pooled_spatial": 0.41150099389264955,
+      "broadband_joint": 0.2795227854450506,
+      "factorized_joint": 0.34836721917742164
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room21_mix013",
+    "scores": {
+      "temporal": -0.38490803227438364,
+      "pooled_spatial": 0.49741524510176993,
+      "broadband_joint": 0.18987451423687854,
+      "factorized_joint": 0.2611748732573408
+    }
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.3220900324412443,
+      "pooled_spatial": -0.6223285296696776,
+      "broadband_joint": 0.19021279214258893,
+      "factorized_joint": 0.32350827823479056
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.3127118835263203,
+      "pooled_spatial": 0.147256236220474,
+      "broadband_joint": 0.11389155916147922,
+      "factorized_joint": 0.21543119832086205
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.10717480349441069,
+      "pooled_spatial": 0.22174376839949567,
+      "broadband_joint": 0.15656317991345373,
+      "factorized_joint": 0.2344335701009441
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.2099193863802556,
+      "pooled_spatial": 0.07572044881820783,
+      "broadband_joint": 0.1358512129532322,
+      "factorized_joint": 0.2129784729440611
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.18371123966006253,
+      "pooled_spatial": -0.10349072578094713,
+      "broadband_joint": 0.12773121875221796,
+      "factorized_joint": 0.3370938628851042
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.15917810425191506,
+      "pooled_spatial": 0.7983126627838123,
+      "broadband_joint": 0.18007962536060534,
+      "factorized_joint": 0.24905896529768146
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.3244828710522905,
+      "pooled_spatial": -0.4312187354667279,
+      "broadband_joint": 0.09908555348366362,
+      "factorized_joint": 0.11844123447028057
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.33283945898798356,
+      "pooled_spatial": -0.4670226691054699,
+      "broadband_joint": 0.05181723087429495,
+      "factorized_joint": 0.10406478569853217
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.12575050469051238,
+      "pooled_spatial": -0.5092272137910283,
+      "broadband_joint": 0.07669998583613657,
+      "factorized_joint": 0.13426956021571412
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.19768063909541447,
+      "pooled_spatial": 0.787747248254763,
+      "broadband_joint": 0.1832324795764562,
+      "factorized_joint": 0.26569716825780326
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.13919924894362368,
+      "pooled_spatial": -0.1949522717436293,
+      "broadband_joint": 0.09144694615467538,
+      "factorized_joint": 0.1466390561183513
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.1940498453830467,
+      "pooled_spatial": 0.7442970049361485,
+      "broadband_joint": 0.0826214022828318,
+      "factorized_joint": 0.12806103416988662
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.1879268561124203,
+      "pooled_spatial": -0.25768404828009395,
+      "broadband_joint": 0.03812702274492816,
+      "factorized_joint": 0.058180976995640905
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": 0.05216179642414796,
+      "pooled_spatial": 0.9160351818824808,
+      "broadband_joint": 0.5397285081887402,
+      "factorized_joint": 0.5725238169926402
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.2147347235386487,
+      "pooled_spatial": 0.6081314976697967,
+      "broadband_joint": 0.025229021256446462,
+      "factorized_joint": 0.03177290987989777
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room22_mix001",
+    "scores": {
+      "temporal": -0.25817966833150746,
+      "pooled_spatial": 0.8730869854627701,
+      "broadband_joint": 0.14906623191394588,
+      "factorized_joint": 0.22324395715053677
+    }
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.5547505392839089,
+      "pooled_spatial": 0.3394625332097278,
+      "broadband_joint": 0.13638856164542806,
+      "factorized_joint": 0.15694382733735568
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.4076436670787337,
+      "pooled_spatial": 0.10605120084546205,
+      "broadband_joint": 0.37275665608393044,
+      "factorized_joint": 0.3997456327996085
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.016568775721130108,
+      "pooled_spatial": -0.4507276620493723,
+      "broadband_joint": 0.09649698052584105,
+      "factorized_joint": 0.18741015093113603
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.41655994252811424,
+      "pooled_spatial": 0.0545522477255015,
+      "broadband_joint": 0.3179671546900864,
+      "factorized_joint": 0.3736599901149953
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.019949690739161852,
+      "pooled_spatial": -0.3438896924693894,
+      "broadband_joint": 0.08717055941805912,
+      "factorized_joint": 0.1515751952349566
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.390432377542775,
+      "pooled_spatial": 0.23918730775759015,
+      "broadband_joint": 0.2924190597513169,
+      "factorized_joint": 0.38996194895578973
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.10373655108045693,
+      "pooled_spatial": -0.16460841929726572,
+      "broadband_joint": 0.13301417614033265,
+      "factorized_joint": 0.1837026838858331
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.0002195458441147451,
+      "pooled_spatial": 0.3341487642029767,
+      "broadband_joint": 0.20647477197669578,
+      "factorized_joint": 0.31013782802377
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.18912456474027683,
+      "pooled_spatial": -0.30704202385296137,
+      "broadband_joint": 0.10002638377617976,
+      "factorized_joint": 0.2289612312361606
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.1044659908577562,
+      "pooled_spatial": 0.45571090088287686,
+      "broadband_joint": 0.12927477753282549,
+      "factorized_joint": 0.2503506816175104
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.09984118731010527,
+      "pooled_spatial": 0.44650862987248646,
+      "broadband_joint": 0.22318574011648032,
+      "factorized_joint": 0.3052266225409769
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.31480608283875094,
+      "pooled_spatial": -0.1269206208775727,
+      "broadband_joint": 0.106340173163643,
+      "factorized_joint": 0.13545400632984658
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.03420965084752309,
+      "pooled_spatial": -0.3068510681847575,
+      "broadband_joint": 0.13866668350785888,
+      "factorized_joint": 0.19897038802522135
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": 0.08207784893698943,
+      "pooled_spatial": -0.07892675750689435,
+      "broadband_joint": 0.073979286877042,
+      "factorized_joint": 0.12334605537420665
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.09675552855424725,
+      "pooled_spatial": -0.21860660792753417,
+      "broadband_joint": 0.16842554760341813,
+      "factorized_joint": 0.24541233333362064
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room4_mix001",
+    "scores": {
+      "temporal": -0.06083143537860801,
+      "pooled_spatial": -0.47283368672447723,
+      "broadband_joint": 0.1253964137759882,
+      "factorized_joint": 0.26456213436645726
+    }
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.01338240193187382,
+      "pooled_spatial": -0.15867482056332685,
+      "broadband_joint": 0.16417121014644898,
+      "factorized_joint": 0.23871652066019244
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.15448055322694063,
+      "pooled_spatial": 0.6823753576113751,
+      "broadband_joint": 0.31913354209118727,
+      "factorized_joint": 0.4443299962610939
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.0994595491004817,
+      "pooled_spatial": -0.5943439197907397,
+      "broadband_joint": 0.32232725633116766,
+      "factorized_joint": 0.39166067287824335
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.17908054496374404,
+      "pooled_spatial": 0.14837826063409953,
+      "broadband_joint": 0.2168909037158929,
+      "factorized_joint": 0.3264365764977538
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.059653361786679085,
+      "pooled_spatial": 0.13749530276324592,
+      "broadband_joint": 0.22823467410977527,
+      "factorized_joint": 0.3314130001358392
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.07592744509865706,
+      "pooled_spatial": 0.1142038641404639,
+      "broadband_joint": 0.2093499042502004,
+      "factorized_joint": 0.3019815002331902
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.08230640531207994,
+      "pooled_spatial": -0.03642902049046216,
+      "broadband_joint": 0.20015026150177512,
+      "factorized_joint": 0.33928501932550703
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.25543399008852924,
+      "pooled_spatial": 0.5955679634338419,
+      "broadband_joint": 0.4446775095389859,
+      "factorized_joint": 0.5693129404330531
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.05803528237437824,
+      "pooled_spatial": 0.5080273404099466,
+      "broadband_joint": 0.2237215145455972,
+      "factorized_joint": 0.2921432187365999
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.3093593562550071,
+      "pooled_spatial": 0.7699326957404254,
+      "broadband_joint": 0.354404689196905,
+      "factorized_joint": 0.3963691524566473
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.11309082946088465,
+      "pooled_spatial": 0.7184687465205501,
+      "broadband_joint": 0.3641304407469126,
+      "factorized_joint": 0.39934004147724034
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.09801690698915408,
+      "pooled_spatial": 0.7617216087837346,
+      "broadband_joint": 0.138138901080344,
+      "factorized_joint": 0.1781624444867307
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.2283398983428271,
+      "pooled_spatial": 0.8052372204065907,
+      "broadband_joint": 0.29155462069245486,
+      "factorized_joint": 0.27163255492808036
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": 0.10803917941842354,
+      "pooled_spatial": 0.5605815711904922,
+      "broadband_joint": 0.32323974051287896,
+      "factorized_joint": 0.418989084228518
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.11351030698093166,
+      "pooled_spatial": 0.6007317359283856,
+      "broadband_joint": 0.31409137053977054,
+      "factorized_joint": 0.39235701435329584
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room6_mix001",
+    "scores": {
+      "temporal": -0.01714420947702219,
+      "pooled_spatial": 0.11003403994481699,
+      "broadband_joint": 0.1792544361766784,
+      "factorized_joint": 0.26279889394127465
+    }
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.049211604312253555,
+      "pooled_spatial": 0.35054083453516394,
+      "broadband_joint": 0.22940248623006504,
+      "factorized_joint": 0.3193193842748081
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.16339817805941478,
+      "pooled_spatial": -0.5624994708047951,
+      "broadband_joint": 0.32644350026495006,
+      "factorized_joint": 0.41059233317262056
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.11707090909746397,
+      "pooled_spatial": 0.015152106408855084,
+      "broadband_joint": 0.3274746077840632,
+      "factorized_joint": 0.5095805362344649
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.29741032623949437,
+      "pooled_spatial": 0.642718652689517,
+      "broadband_joint": 0.13046333412870495,
+      "factorized_joint": 0.19623135591504406
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.07476908806061688,
+      "pooled_spatial": -0.20161823401538845,
+      "broadband_joint": 0.19310814770349544,
+      "factorized_joint": 0.2342115921802459
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.04877105719031358,
+      "pooled_spatial": 0.3950390935413959,
+      "broadband_joint": 0.20025463610167712,
+      "factorized_joint": 0.3167115931470654
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.07764116430356906,
+      "pooled_spatial": -0.19851611815521214,
+      "broadband_joint": 0.19848291410747868,
+      "factorized_joint": 0.26674050018392687
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.18496420315364678,
+      "pooled_spatial": 0.05458849350768948,
+      "broadband_joint": 0.24311726557779684,
+      "factorized_joint": 0.3378590942743188
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.0019364399358630284,
+      "pooled_spatial": -0.25218915673240644,
+      "broadband_joint": 0.17112474296029448,
+      "factorized_joint": 0.2503827069101385
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": 0.1253124748048624,
+      "pooled_spatial": 0.03879572936725658,
+      "broadband_joint": 0.2282019830044767,
+      "factorized_joint": 0.3338506202925714
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.12910160334212745,
+      "pooled_spatial": -0.19212249992327624,
+      "broadband_joint": 0.22244707190110297,
+      "factorized_joint": 0.28398367527784063
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.00813689869314952,
+      "pooled_spatial": 0.07009235481701541,
+      "broadband_joint": 0.22406766781360077,
+      "factorized_joint": 0.31199051610617534
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.11211288676865025,
+      "pooled_spatial": -0.21590811599421258,
+      "broadband_joint": 0.1977257407713472,
+      "factorized_joint": 0.2565047086835393
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.017726686552629177,
+      "pooled_spatial": 0.08590176951613637,
+      "broadband_joint": 0.24641326261175367,
+      "factorized_joint": 0.2875671076612303
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.1245933923125993,
+      "pooled_spatial": -0.24888092842843948,
+      "broadband_joint": 0.058468981902341205,
+      "factorized_joint": 0.07927069579684981
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room7_mix001",
+    "scores": {
+      "temporal": -0.06430494536096047,
+      "pooled_spatial": 0.06240819765429372,
+      "broadband_joint": 0.19612103036300998,
+      "factorized_joint": 0.3013822300537985
+    }
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.020144416628546914,
+      "pooled_spatial": -0.3039251000081844,
+      "broadband_joint": 0.16780009550924457,
+      "factorized_joint": 0.19185208191538722
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 0.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.048852079631597545,
+      "pooled_spatial": 0.2784438630218254,
+      "broadband_joint": 0.30199209942335536,
+      "factorized_joint": 0.39211474984875827
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 0.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.2423151321113243,
+      "pooled_spatial": -0.07723838027854964,
+      "broadband_joint": 0.09646825364419405,
+      "factorized_joint": 0.16243816984302406
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 4.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.06892414149304674,
+      "pooled_spatial": 0.5909792940667736,
+      "broadband_joint": 0.2225739222171192,
+      "factorized_joint": 0.29085298156466544
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 4.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": 0.06391815069631593,
+      "pooled_spatial": -0.4604695118860641,
+      "broadband_joint": 0.08429204728545908,
+      "factorized_joint": 0.13512241199615344
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 8.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.22853919837338496,
+      "pooled_spatial": 0.4752040972560159,
+      "broadband_joint": 0.1835682350827998,
+      "factorized_joint": 0.2306479405246784
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 8.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.3051580984875217,
+      "pooled_spatial": -0.173091797107118,
+      "broadband_joint": 0.11707698889441143,
+      "factorized_joint": 0.17149653419670763
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 12.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.41096581419192973,
+      "pooled_spatial": 0.07277840375414879,
+      "broadband_joint": 0.07161386723531424,
+      "factorized_joint": 0.08869666230754479
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 12.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.199636229516472,
+      "pooled_spatial": -0.39508306292706674,
+      "broadband_joint": 0.04979354820401483,
+      "factorized_joint": 0.06040499353272135
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 16.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": 0.14886094597550711,
+      "pooled_spatial": 0.2445090619627862,
+      "broadband_joint": 0.09576212712954155,
+      "factorized_joint": 0.11609842690386901
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 16.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.034847092967771914,
+      "pooled_spatial": -0.6684660791519983,
+      "broadband_joint": 0.05016458639964537,
+      "factorized_joint": 0.055508628384874796
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 20.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.13124467147188987,
+      "pooled_spatial": 0.9342975214021825,
+      "broadband_joint": 0.36634754848414064,
+      "factorized_joint": 0.34463730832207695
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 20.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.3025147729583152,
+      "pooled_spatial": -0.38439064646812643,
+      "broadband_joint": 0.08205909323735341,
+      "factorized_joint": 0.14039011277518262
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 24.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.1909070244257638,
+      "pooled_spatial": 0.39458636792118673,
+      "broadband_joint": 0.04767065588028624,
+      "factorized_joint": 0.05914880497632917
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 24.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.1902909355836523,
+      "pooled_spatial": -0.5781451474668498,
+      "broadband_joint": 0.030669765480236817,
+      "factorized_joint": 0.06308992462378699
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 28.0,
+    "label": 1,
+    "audio_recording": "fold3_room9_mix001",
+    "scores": {
+      "temporal": -0.07469876050676899,
+      "pooled_spatial": 0.23156951012426438,
+      "broadband_joint": 0.044062240024776995,
+      "factorized_joint": 0.07442979740856794
+    }
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "seconds": 28.0,
+    "label": 0,
+    "audio_recording": "fold3_room12_mix001",
+    "scores": {
+      "temporal": -0.17555518926593022,
+      "pooled_spatial": -0.3042266035723863,
+      "broadband_joint": 0.025165779461001878,
+      "factorized_joint": 0.03879099458346286
+    }
+  }
+]

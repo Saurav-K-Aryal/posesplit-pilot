@@ -1,0 +1,204 @@
+{
+  "status": "exploratory_component_only",
+  "recordings": 9,
+  "rooms": 9,
+  "windows": 72,
+  "pairs": 144,
+  "previous_room_recording_exposure": true,
+  "source_manifest_sha256": "f16d08afdf2f54df99054c172929d79a8e62bc650b5b40bc975491bf2aac8cab",
+  "methods": {
+    "temporal": {
+      "matched_pair_ranking_accuracy": 0.5555555555555556,
+      "mean_matched_minus_shuffle_score": 0.004936516094573653,
+      "recording_cluster_bootstrap_95_percentile": [
+        0.4583333333333333,
+        0.6527777777777778
+      ],
+      "by_recording": [
+        {
+          "recording": "fold3_room12_mix001",
+          "accuracy": 0.375
+        },
+        {
+          "recording": "fold3_room13_mix001",
+          "accuracy": 0.5
+        },
+        {
+          "recording": "fold3_room14_mix001",
+          "accuracy": 0.625
+        },
+        {
+          "recording": "fold3_room21_mix013",
+          "accuracy": 0.375
+        },
+        {
+          "recording": "fold3_room22_mix001",
+          "accuracy": 0.75
+        },
+        {
+          "recording": "fold3_room4_mix001",
+          "accuracy": 0.625
+        },
+        {
+          "recording": "fold3_room6_mix001",
+          "accuracy": 0.625
+        },
+        {
+          "recording": "fold3_room7_mix001",
+          "accuracy": 0.375
+        },
+        {
+          "recording": "fold3_room9_mix001",
+          "accuracy": 0.75
+        }
+      ]
+    },
+    "pooled_spatial": {
+      "matched_pair_ranking_accuracy": 0.7777777777777778,
+      "mean_matched_minus_shuffle_score": 0.3603745856145763,
+      "recording_cluster_bootstrap_95_percentile": [
+        0.6111111111111112,
+        0.9305555555555556
+      ],
+      "by_recording": [
+        {
+          "recording": "fold3_room12_mix001",
+          "accuracy": 0.25
+        },
+        {
+          "recording": "fold3_room13_mix001",
+          "accuracy": 1.0
+        },
+        {
+          "recording": "fold3_room14_mix001",
+          "accuracy": 1.0
+        },
+        {
+          "recording": "fold3_room21_mix013",
+          "accuracy": 0.5
+        },
+        {
+          "recording": "fold3_room22_mix001",
+          "accuracy": 0.875
+        },
+        {
+          "recording": "fold3_room4_mix001",
+          "accuracy": 0.875
+        },
+        {
+          "recording": "fold3_room6_mix001",
+          "accuracy": 0.625
+        },
+        {
+          "recording": "fold3_room7_mix001",
+          "accuracy": 0.875
+        },
+        {
+          "recording": "fold3_room9_mix001",
+          "accuracy": 1.0
+        }
+      ]
+    },
+    "broadband_joint": {
+      "matched_pair_ranking_accuracy": 0.6527777777777778,
+      "mean_matched_minus_shuffle_score": 0.04387870629072637,
+      "recording_cluster_bootstrap_95_percentile": [
+        0.5,
+        0.8055555555555556
+      ],
+      "by_recording": [
+        {
+          "recording": "fold3_room12_mix001",
+          "accuracy": 0.5
+        },
+        {
+          "recording": "fold3_room13_mix001",
+          "accuracy": 0.875
+        },
+        {
+          "recording": "fold3_room14_mix001",
+          "accuracy": 0.875
+        },
+        {
+          "recording": "fold3_room21_mix013",
+          "accuracy": 0.25
+        },
+        {
+          "recording": "fold3_room22_mix001",
+          "accuracy": 0.75
+        },
+        {
+          "recording": "fold3_room4_mix001",
+          "accuracy": 0.5
+        },
+        {
+          "recording": "fold3_room6_mix001",
+          "accuracy": 0.375
+        },
+        {
+          "recording": "fold3_room7_mix001",
+          "accuracy": 0.75
+        },
+        {
+          "recording": "fold3_room9_mix001",
+          "accuracy": 1.0
+        }
+      ]
+    },
+    "factorized_joint": {
+      "matched_pair_ranking_accuracy": 0.625,
+      "mean_matched_minus_shuffle_score": 0.05017159375658529,
+      "recording_cluster_bootstrap_95_percentile": [
+        0.4861111111111111,
+        0.75
+      ],
+      "by_recording": [
+        {
+          "recording": "fold3_room12_mix001",
+          "accuracy": 0.5
+        },
+        {
+          "recording": "fold3_room13_mix001",
+          "accuracy": 0.75
+        },
+        {
+          "recording": "fold3_room14_mix001",
+          "accuracy": 0.875
+        },
+        {
+          "recording": "fold3_room21_mix013",
+          "accuracy": 0.25
+        },
+        {
+          "recording": "fold3_room22_mix001",
+          "accuracy": 0.625
+        },
+        {
+          "recording": "fold3_room4_mix001",
+          "accuracy": 0.625
+        },
+        {
+          "recording": "fold3_room6_mix001",
+          "accuracy": 0.375
+        },
+        {
+          "recording": "fold3_room7_mix001",
+          "accuracy": 0.75
+        },
+        {
+          "recording": "fold3_room9_mix001",
+          "accuracy": 0.875
+        }
+      ]
+    }
+  },
+  "wall_seconds": 7.334240913391113,
+  "peak_process_rss_bytes": 603996160,
+  "limitations": [
+    "No real causal ownership gold labels.",
+    "No new untouched real rooms.",
+    "Random cross-recording mismatch may change semantics and activity inventory, unlike exact ownership crossings.",
+    "No real media source labels or metadata used in scoring.",
+    "No human quality study or real transfer claim."
+  ]
+}

@@ -1,81 +1,87 @@
-# PoseSplit
+# EventOwner
 
-**PoseSplit: A Synthetic-to-Real Audio-Plus-Pose Pilot for Camera Reframing**  
-Saurav K. Aryal, Howard University.
+**An exact-marginal pilot of audio-visual source ownership**  
+Saurav K. Aryal, Howard University · November 1, 2026
 
-PoseSplit tests whether procedural spatial audio can train a small predictor of geometric camera viewport membership using audio and known camera–microphone pose. Its real evaluation uses 168 half-second windows from 14 STARSS23 recordings in seven held-out rooms. Independent-pose training helps camera-only reframing, while canonical matched-orientation training performs slightly better under co-rig rotation. No image features enter the learned predictors.
+EventOwner tests whether a joint diagnostic can associate each sound with the correct visible source when global timing and the inventory of events remain unchanged. Two source-event schedules drive actual rotating RGB pixels and four-channel audio. Crossing the two video assignments with the two audio assignments gives four pairs per scene. Each exact video and each exact waveform occurs once under each label, so an audio-only or video-only classifier has exactly 50% balanced accuracy on the complete construction.
 
-## Results
+The current paper and code report a controlled procedural feasibility study. They do not establish realistic fan acoustics, learned audio generation, or real-world causal attribution.
 
-| Training or baseline | Camera-only reframing | Co-rig virtual rotation |
-|---|---:|---:|
-| Pose-aware procedural curriculum | 0.8294 | 0.8319 |
-| Canonical matched orientation | 0.4800 | 0.8409 |
-| Wrong-pose labels: diagnostic control | 0.4081 | 0.4179 |
-| Analytic intensity + known pose | 0.7817 | 0.7817 |
+## Confirmation results
 
-Values are balanced accuracy, pooled within each seed and averaged across five training seeds. The analytic method has no learned seed. The 168 locked windows produce 672 dependent views per regime and predictor. The pose-aware camera-only gain over the analytic method is 0.0476, with a paired seven-room percentile interval of [0.0067, 0.1038]. These are small-cohort estimates; the co-rig counter-result rules out a claim of universal curriculum superiority.
+The frozen confirmation contains **120 scenes and 480 dependent crossed pairs** in three held-out procedural blade/layout families. Thresholds were chosen on 60 development scenes before the confirmation run. Intervals resample whole scenes, preserving their four pairs.
 
-Analytic localization has a median 3D angular error of 23.48°, versus 50.14° for a constant-front reference. This is separate signal-processing evidence: the learned predictors estimate binary viewport membership, not direction. Wrong-pose labels are an intentionally invalid negative control.
+| Diagnostic | Balanced accuracy | Scene bootstrap 95% interval | Paired ranking accuracy |
+|---|---:|---:|---:|
+| Temporal synchrony | 0.5000 | [0.5000, 0.5000] | 0.4917 |
+| Pooled spatial coverage | 0.5104 | [0.5000, 0.5208] | 0.5583 |
+| Broadband joint | 0.7708 | [0.7250, 0.8167] | 0.9958 |
+| Frequency-resolved joint | **0.8063** | [0.7646, 0.8479] | 0.9958 |
 
-## Replay saved results without recordings
+The frequency-resolved-minus-broadband balanced-accuracy interval is [0.0063, 0.0646]. Both joint diagnostics rank pairs equally well, so the threshold result does not establish a generally better architecture. Cross-scene shuffled balanced accuracy is 0.5000 for the frequency-resolved method and 0.5063 for broadband.
 
-```sh
-python3 -m venv .venv-pilots
-.venv-pilots/bin/python -m pip install numpy==2.5.4
-.venv-pilots/bin/python verify_saved_results.py
-```
+Difficulty matters: frequency-resolved accuracy is 1.0000 for separated sources, 1.0000 under the toy partial occluder, 0.6333 for near-colocated sources, and 0.5917 for overlapping activity. The latter two remain unresolved. Toy occlusion success is not real occlusion robustness.
 
-The verifier replays saved features, the 15 small NumPy checkpoints, all 35,328 development/test predictions, and room-bootstrap statistics. It does not reconstruct omitted audio/video inputs. The full raw-data audit is preserved in `audits/independent_raw_audit_C.json`; source manifests allow a fresh reconstruction.
+![Confirmation and stress-stratum results](figures/confirmation_results.png)
 
-To regenerate the two numerical figures without photos, model fitting, or media downloads:
+## Exploratory real-data component
 
-```sh
-.venv-pilots/bin/python -m pip install -r requirements-figures.txt
-.venv-pilots/bin/python -m pilots.renewed09.plot_results --study runs/renewed-09-posesplit-20261031 --out figures
-```
+An additional check decodes 72 four-second windows from nine previously exposed STARSS23 development-training recordings. Matched-versus-shuffled ranking is 0.6250 for the frequency-resolved method (room interval [0.4861, 0.7500]), versus 0.7778 for the simpler pooled-spatial method. This is inconclusive for the proposed diagnostic and does not establish transfer or real source ownership. Real shuffling changes content as well as correspondence, unlike the exact synthetic crossings. All outcomes and recording hashes are retained; raw recordings are retrieved separately under their upstream terms.
 
-## Run a fresh study with one command
+## Verify the saved results
 
-Python 3 and FFmpeg must be installed. The launcher creates a new timestamped run and logs, uses `.venv-pilots`, installs missing Python dependencies there, verifies reviewed source/protocol/selection hashes, and executes plan → freeze → fetch → run:
+Python 3.12 or newer is recommended. This path needs no media downloads, model weights, API key, or cloud service:
 
 ```sh
-bash run_task09.command
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python verify_saved_results.py
 ```
 
-It was tested end to end in the original workspace: every prediction, metric, and bootstrap value matched exactly. This deterministic reproduction adds no independent samples. The core run took about 32 seconds after source caching; downloads and performance on another device can differ.
+The verifier checks the frozen code/protocol/threshold hashes, all 480 marginal balances, every saved score-derived metric and 2,000 scene-bootstrap intervals. It also regenerates and scores the two published lossless samples, checks the real-component arithmetic, and evaluates the small non-vacuity counterexample. This is reproducibility checking, not additional independent experimental evidence.
 
-A fresh clone downloads only the selected 46 audio/video archive members—about 1.04 GB compressed—plus the 1.17 MB annotation ZIP. Byte-range reads avoid downloading complete archives. To reuse a completed local run, set `POSESPLIT_SOURCE_CACHE` to its directory; files are copied after SHA-256, CRC, and size checks. No symlinks are created. A missing cache triggers official downloads. Failures stop the analysis, and no item is replaced based on its outcome.
+## Reproduce the procedural study
 
-The pipeline uses NumPy, Pillow, fsspec, aiohttp, and FFmpeg. It calls no native language/vision models or paid cloud services. Observed package versions are pinned in `requirements.txt`; the launcher installs missing packages only and records the environment used. The measured core-process peak was about 349 MB. The streaming design fits a 48 GB budget; an exact 48 GB laptop measurement has not been made.
+```sh
+bash run_eventowner.sh
+```
 
-## Files
+The launcher creates a fresh timestamped `reproductions/` folder, installs dependencies in `.venv`, runs development, freezes the protocol and thresholds, and executes one confirmation. It refuses to overwrite an existing output. Set `PYTHON=/path/to/python3` or `OUTPUT=reproductions/my-run` to override defaults. All reported original results remain unchanged.
 
-- `pilots/renewed09/pose_split.py`: byte-identical frozen study implementation.
-- `pilots/renewed09/reproduce.py` and `run_task09.command`: tested fresh-run orchestration.
-- `pilots/renewed09/reviewed_protocol.json` and `work/task09_protocol.json`: identical reviewed protocols.
-- `runs/renewed-09-posesplit-20261031/`: observed results, predictions, selected labels, saved features, 15 trained heads, procedural-generation metadata, and all 2,000 paired room-bootstrap draws.
-- `work/task09_design_sources/`: official annotation ZIP, original STARSS23 readme/license, and source record metadata.
-- `audits/`: pre-execution reviews, full raw-data audit, figure review, and launcher reproduction check.
-- `figures/`: two aggregate scientific plots, without participant photographs.
-- `PUBLICATION_PROVENANCE.json`: source/public file digests and explicit transformations.
+On the original 128 GB host, confirmation took about 51 seconds and the process peaked near 196 MiB. That is a CPU measurement on the actual host, not an exact benchmark on a 48 GB laptop. Generated media take substantially more disk space than the compact numeric release.
 
-The paper PDF and `overleaf.zip` accompany the release. Paper source files are contained only in the ZIP.
+To regenerate the numerical figure:
 
-## Scope
+```sh
+.venv/bin/python -m pip install -r requirements-figures.txt
+.venv/bin/python generate_figures.py
+```
 
-Each window has one annotated active event; unannotated interference remains possible. Camera-only reframing leaves microphone audio unchanged. Co-rig virtual rotation re-expresses an existing sound field while rotating the camera view; it is not a new physical microphone recording. The 90° × 90° label describes geometric viewport membership, without certifying occlusion-free visibility or audibility. Both training and test use four fixed headings; unseen-angle and unknown-extrinsic generalization are untested.
+`python reproduce_real.py --help` describes optional real-recording replay. It requires FFmpeg and a separately obtained source tree containing the exact STARSS23 audio/video files identified by recording ID and SHA-256. No raw real recordings or participant photographs are included.
 
-Actual video was used only to audit the media/coordinate interface. No image features enter the learned heads, and photo derivatives are omitted here. Views, windows, and seeds remain nested within recordings and rooms. Learned audiovisual fusion, source binding, targeted sampling, and richer controllable generation remain future work.
+## Files and provenance
+
+- `paper.pdf` and `overleaf.zip`: current ACM single-column manuscript; the ZIP contains `draft.tex`, `refs.bib`, `references.bib`, and `figures/`. Standalone TeX/bibliography files are not tracked.
+- `pilots/repair09/event_owner.py`: original frozen renderer and diagnostics, byte-identical to the confirmation source.
+- `reproduce.py` and `run_eventowner.sh`: portable orchestration around the frozen implementation.
+- `runs/repair09-eventowner-v2/`: frozen protocol/thresholds, development/confirmation scores, exact media hashes, states, and real-component results.
+- `runs/repair09-eventowner-v1/`: preserved development attempt with a systematic onset-order shortcut; no v1 confirmation was run.
+- `examples/`: illustrative MP4 and two lossless hard-stratum scenes. All scenes can be regenerated from the stored state.
+- `audits/eventowner/`: numerical/media replay records and the proposed-loss non-vacuity check.
+- `PUBLICATION_PROVENANCE.json`: release file hashes and transformations.
+
+The scorer receives decoded pixels and waveforms. Source IDs, geometry, activation schedules, boxes, labels, and seeds are used for rendering or grading only. Known common-rig camera/FOA conventions are shared across spatial methods. Independent unknown sensor mounting is outside the experiment.
+
+## Next research step
+
+The next study will compare a compact coupled residual sound-texture generator with the identical generator trained using the same counterfactual examples without an additional source-intervention term. Changing source A at fixed physical identity will hold source B, room geometry, timbre, and coupled noise fixed. The objective must require the intended response from A while penalizing unintended changes to B. A hard independent-source generator is a mandatory comparator: if it matches quality, coherence, and cost, the simpler model should be preferred. These learned effects and any real transfer are future work, not results of this pilot.
+
+## Historical PoseSplit component
+
+The repository URL is retained for continuity. [The October 31 PoseSplit paper and Overleaf package](archive/posesplit_20261031/) concern audio-plus-known-pose viewport prediction and remain separate from EventOwner. Their frozen code/data remain under `pilots/renewed09/` and `runs/renewed-09-posesplit-20261031/`. Replay them with `python verify_posesplit_results.py`; the legacy launcher is `run_posesplit_legacy.command` and additionally needs its original dependencies. The earlier preprint submission concerns PoseSplit; this new EventOwner manuscript is a distinct repository version.
 
 ## Citation and licensing
 
-See `CITATION.cff` and `PREPRINTS_METADATA.txt`. Recommended Preprints subject: **Computer Science and Mathematics**; topic: **Artificial Intelligence and Machine Learning**. This is an author recommendation using verified public browse labels.
+See `CITATION.cff` for the current artifact and `ATTRIBUTION.txt` for upstream sources. New project code and procedural media are MIT-licensed. STARSS23 metadata/recordings retain their own notice. No pretrained generator weights are redistributed. Any future PhysWave comparison must retain its noncommercial checkpoint/output terms; it cannot silently become an unrestricted release asset.
 
-New project code is MIT-licensed. STARSS23 material retains its separate MIT notice in `ATTRIBUTION.txt` and `work/task09_design_sources/LICENSE`. Raw recordings, synthetic WAVs, participant-photo derivatives, and foundation-model weights are omitted. The 15 small trained NumPy checkpoints are included.
-
-Artifact: https://github.com/Saurav-K-Aryal/posesplit-pilot
-
-## Manuscript
-
-[Compiled PDF](paper.pdf) · [Overleaf ZIP](overleaf.zip). The ZIP contains draft.tex, bibliography files and figures.
+Repository: https://github.com/Saurav-K-Aryal/posesplit-pilot

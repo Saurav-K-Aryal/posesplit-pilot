@@ -1,0 +1,13 @@
+{
+  "purpose": "Method non-vacuity sanity check only, not training or perceptual benefit.",
+  "seed": 90261127,
+  "intervention": "Change only A event drive at fixed physical IDs, B, room and per-source noise.",
+  "coupled_model": "Aout=.8*A+.23*B+zA; Bout=-.17*A+.9*B+zB",
+  "unchanged_b_loss": 0.014301123316876376,
+  "analytic_gradient_wrt_A_to_B_weight": -0.16824850961031032,
+  "finite_difference_gradient": -0.16824850961050242,
+  "absolute_gradient_error": 1.920963388357677e-13,
+  "hard_independent_source_loss": 0.0,
+  "no_training_performed": true,
+  "limitation": "Linear counterexample proves proposed constraint can be nonzero, not that the eventual spectral generator benefits or that consistency alone prevents constant outputs."
+}

@@ -1,0 +1,34 @@
+{
+  "protocol_id": "EventOwner-v1-20261101",
+  "status": "development_protocol_before_confirmation",
+  "motivation": "Replace the audio-plus-pose FOV endpoint with actual joint source-event ownership. Perfect construction is not learned physics or realism.",
+  "retirement": "No ContactTrace code, media, measurements or archived experiments will be reused. PoseSplit remains a separately named audio-plus-pose component only.",
+  "generator": {
+    "scene": "Two procedural household-fan-like rotors, static source origins, common camera/microphone orientation. Shared per-source angular-speed schedules drive actual blade rotation in rendered RGB frames and source-specific broadband/tonal audio envelopes. Source geometry determines FOA directivity; bounded image-source reflections/noise are nuisance parameters.",
+    "physical_scope": "Controlled phenomenological rotor model: not a CFD, material-acoustic solver, generative foundation model or human realism study. A common rig is used in the pilot. Arbitrary independent sensor poses without calibration are not identifiable; independently mounted sensors are a future calibrated extension, not a pilot claim.",
+    "media": "4-second, 24-fps RGB frames and 16-kHz four-channel first-order Ambisonics WAV. Rendered arrays are stored losslessly; example MP4/WAV packets are also emitted.",
+    "joint_intervention": "For each scene, two owner assignments independently determine whether source 1 or source 2 receives each speed schedule. Cross the two video assignments with two audio assignments. Diagonal pairs are coherent and off-diagonal pairs exchange sound ownership while retaining the complete global event inventory.",
+    "marginals": "Each exact video hash and exact audio hash occurs once in each label class within every scene. Audio-only and video-only cannot identify coherence under this construction. Ground-truth source IDs, geometry, speeds, labels and random seed never enter predictor input. Predictor reads only decoded pixel arrays and WAV samples.",
+    "nuisance": "Procedural backgrounds, source color/shape, source size/azimuth, carrier spectra, ambient noise and simple reflections. Equal normalization is applied per scene before ownership assignment; no label-dependent codec/length/gain processing.",
+    "stress_strata": ["separated sources", "overlapping activation", "near-colocated sources", "partial visual occlusion"]
+  },
+  "split": {
+    "development": {"seed": 90261101, "scenes": 60, "families": ["development-three-blade", "development-four-blade"]},
+    "confirmation": {"seed": 90261119, "scenes": 120, "families": ["heldout-five-blade", "heldout-six-blade", "heldout-asymmetric-blade"]},
+    "grouping": "Four crossed pairs from a scene remain a single cluster. Background/layout/object families and scene seeds are disjoint. Confirmation seed will not be decoded or scored until code, threshold selection, source manifests and independent review are frozen. The artificial family holdout does not establish real-domain generalization."
+  },
+  "predictors": {
+    "unimodal": "Exact marginal-hash audit plus audio-only/video-only deterministic scores; expected balanced accuracy 0.5 follows from construction, rather than from an intentionally weak learner.",
+    "temporal": "Correlation of total optical frame-change activity with audio pressure energy; a meaningful synchrony-only comparator.",
+    "pooled_spatial": "Similarity of time-pooled optical-activity azimuth and acoustic active-intensity azimuth histograms; a meaningful spatial-coverage-only comparator.",
+    "broadband_joint": "Time-resolved optical activity versus broadband FOA intensity projected onto azimuth bins, without frequency-wise source decomposition. Strong simple joint comparator.",
+    "factorized_joint": "Time-frequency FOA active-intensity decomposition into observed direction bins, matched to the time-resolved optical-motion map. This is an analytical diagnostic built on established intensity localization, not a claimed novel learned AV architecture.",
+    "calibration": "Only a scalar coherence threshold for each comparator is chosen on development scenes by balanced accuracy. Fixed feature definitions and thresholds are recorded before confirmation; no metadata features, fitting on confirmation or source-specific thresholds.",
+    "shuffle": "Cyclically permute audio across scenes within held-out family and ownership label while retaining all pixels, then repeat pair scoring. A decline is diagnostic only; the exact within-scene crossed marginals are the main shortcut control."
+  },
+  "primary_endpoint": "Coherent-versus-wrong-source balanced accuracy on all 120 confirmation scene clusters, accompanied by a paired scene-bootstrap interval for factorized_joint minus broadband_joint. Report all stress strata including expected near-colocated failures.",
+  "prospective_feasibility_gate": "Factorized_joint balanced accuracy >=0.80 on the separated-source, non-occluded stratum, superiority to temporal-only, plus exact unimodal marginal equality. The strong broadband comparison may be null/negative and will remain in the report. No acceptance guarantee is implied.",
+  "uncertainty": "2,000 fixed-seed paired scene bootstrap samples; retain all four pairs, every stratum and family in the cluster. Family-specific estimates are descriptive with only three held-out procedural families.",
+  "real_component": "Use already downloaded permitted STARSS23 development-training videos and FOA audio only to measure association between decoded visual-motion and acoustic-intensity maps, with matched cross-recording shuffled controls. Select the first eight eligible nonoverlapping 4-second windows per chosen recording by metadata/time before scoring. This is an exploratory external component check with previously exposed rooms, not a new untouched test set or proof of realism/causal attribution. Preserve null or negative results.",
+  "reproducibility": "Keep all attempts, protocol/code hashes, exact render state, per-pair score and WAV/RGB hashes, environment/resource accounting. An independent reviewer must replay a subset from source state and inspect artifacts before final proposal revision. CPU only; no paid APIs."
+}

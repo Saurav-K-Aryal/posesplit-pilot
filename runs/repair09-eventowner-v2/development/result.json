@@ -1,0 +1,128 @@
+{
+  "stage": "development",
+  "scenes": 60,
+  "pairs": 240,
+  "methods": {
+    "temporal": {
+      "balanced_accuracy": 0.5166666666666666,
+      "stratum": {
+        "near_colocated": 0.5,
+        "occluded": 0.5333333333333333,
+        "overlap": 0.5166666666666667,
+        "separated": 0.5166666666666666
+      },
+      "family": {
+        "development-four-blade": 0.5178571428571428,
+        "development-three-blade": 0.515625
+      },
+      "paired_ranking_accuracy": 0.5
+    },
+    "pooled_spatial": {
+      "balanced_accuracy": 0.5416666666666666,
+      "stratum": {
+        "near_colocated": 0.5166666666666666,
+        "occluded": 0.6000000000000001,
+        "overlap": 0.5,
+        "separated": 0.55
+      },
+      "family": {
+        "development-four-blade": 0.5446428571428572,
+        "development-three-blade": 0.5390625
+      },
+      "paired_ranking_accuracy": 0.525
+    },
+    "broadband_joint": {
+      "balanced_accuracy": 0.8,
+      "stratum": {
+        "near_colocated": 0.5,
+        "occluded": 1.0,
+        "overlap": 0.7,
+        "separated": 1.0
+      },
+      "family": {
+        "development-four-blade": 0.7857142857142857,
+        "development-three-blade": 0.8125
+      },
+      "paired_ranking_accuracy": 1.0
+    },
+    "factorized_joint": {
+      "balanced_accuracy": 0.8291666666666666,
+      "stratum": {
+        "near_colocated": 0.6833333333333333,
+        "occluded": 0.95,
+        "overlap": 0.7166666666666667,
+        "separated": 0.9666666666666667
+      },
+      "family": {
+        "development-four-blade": 0.8303571428571428,
+        "development-three-blade": 0.828125
+      },
+      "paired_ranking_accuracy": 1.0
+    }
+  },
+  "all_exact_unimodal_marginals_equal": true,
+  "audio_only_or_video_only_balanced_accuracy_exact_construction": 0.5,
+  "wall_seconds": 25.1169490814209,
+  "peak_process_rss_bytes": 186859520,
+  "code_sha256": "cffede22f77b88ac4c97050bd947286b7c8d6a05bedd8a45fdccd7a602b7f427",
+  "thresholds_sha256": "42f90e379571618db3e80eabe69e2cccd0f1a3b5ef379f1ddb0e042efdbb6654",
+  "scope": "Controlled procedural feasibility. No learned physics, real transfer, perceptual quality or actual 48GB-machine certification.",
+  "cross_scene_shuffled_methods": {
+    "temporal": {
+      "balanced_accuracy": 0.5,
+      "stratum": {
+        "near_colocated": 0.5,
+        "occluded": 0.5,
+        "overlap": 0.5,
+        "separated": 0.5
+      },
+      "family": {
+        "development-four-blade": 0.5,
+        "development-three-blade": 0.5
+      },
+      "paired_ranking_accuracy": 0.525
+    },
+    "pooled_spatial": {
+      "balanced_accuracy": 0.5041666666666667,
+      "stratum": {
+        "near_colocated": 0.5,
+        "occluded": 0.5,
+        "overlap": 0.5,
+        "separated": 0.5166666666666667
+      },
+      "family": {
+        "development-four-blade": 0.5089285714285714,
+        "development-three-blade": 0.5
+      },
+      "paired_ranking_accuracy": 0.5083333333333333
+    },
+    "broadband_joint": {
+      "balanced_accuracy": 0.5541666666666667,
+      "stratum": {
+        "near_colocated": 0.5,
+        "occluded": 0.7,
+        "overlap": 0.5,
+        "separated": 0.5166666666666667
+      },
+      "family": {
+        "development-four-blade": 0.5803571428571428,
+        "development-three-blade": 0.53125
+      },
+      "paired_ranking_accuracy": 0.5333333333333333
+    },
+    "factorized_joint": {
+      "balanced_accuracy": 0.5,
+      "stratum": {
+        "near_colocated": 0.5,
+        "occluded": 0.5,
+        "overlap": 0.5,
+        "separated": 0.5
+      },
+      "family": {
+        "development-four-blade": 0.5,
+        "development-three-blade": 0.5
+      },
+      "paired_ranking_accuracy": 0.5583333333333333
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "scenes": 120,
+  "pairs": 480,
+  "all_exact_marginals_balanced": true,
+  "unimodal_balanced_accuracy_by_construction": 0.5,
+  "metrics": {
+    "temporal": {
+      "balanced_accuracy": 0.5,
+      "scene_95_percentile": [
+        0.5,
+        0.5
+      ],
+      "paired_ranking_accuracy": 0.49166666666666664
+    },
+    "pooled_spatial": {
+      "balanced_accuracy": 0.5104166666666666,
+      "scene_95_percentile": [
+        0.5,
+        0.5208333333333334
+      ],
+      "paired_ranking_accuracy": 0.5583333333333333
+    },
+    "broadband_joint": {
+      "balanced_accuracy": 0.7708333333333334,
+      "scene_95_percentile": [
+        0.725,
+        0.8166666666666667
+      ],
+      "paired_ranking_accuracy": 0.9958333333333333
+    },
+    "factorized_joint": {
+      "balanced_accuracy": 0.80625,
+      "scene_95_percentile": [
+        0.7645833333333333,
+        0.8479166666666667
+      ],
+      "paired_ranking_accuracy": 0.9958333333333333
+    }
+  },
+  "paired_delta_interval": [
+    0.00625,
+    0.06458333333333334
+  ],
+  "sample_media_regenerated": [
+    "confirmation-014",
+    "confirmation-035"
+  ],
+  "real_numeric_windows": 72,
+  "real_raw_sources_included": false,
+  "frozen_hashes_match": true,
+  "nonvacuity_counterexample_checked": true,
+  "fresh_full_procedural_reproduction": {
+    "all_confirmation_arrays_and_metrics_equal": true,
+    "scenes": 120,
+    "pairs": 480,
+    "original_results_preserved": true
+  },
+  "fresh_real_reproduction": {
+    "windows": 72,
+    "all_scores_equal": true,
+    "decoded_pixel_PCM_hashes_equal": true,
+    "source_files_separately_obtained": true
+  },
+  "pdf": {
+    "pages": 6,
+    "class": "acmart manuscript screen nonacm",
+    "every_final_page_visually_inspected": true,
+    "missing_citations": false,
+    "overfull_boxes": false
+  }
+}

@@ -1,11 +1,13 @@
 cff-version: 1.2.0
-message: "Please cite the accompanying manuscript and this research artifact."
+message: "Please cite the current EventOwner manuscript and this research artifact."
 type: software
-title: "PoseSplit: A Synthetic-to-Real Audio-Plus-Pose Pilot for Camera Reframing"
+title: "EventOwner An Exact Marginal Pilot of Audio Visual Source Ownership"
+version: 2.0.0
 authors:
   - family-names: Aryal
     given-names: "Saurav K."
     affiliation: Howard University
-date-released: 2026-10-31
+date-released: 2026-11-01
 url: https://github.com/Saurav-K-Aryal/posesplit-pilot
 repository-code: https://github.com/Saurav-K-Aryal/posesplit-pilot
+license: MIT

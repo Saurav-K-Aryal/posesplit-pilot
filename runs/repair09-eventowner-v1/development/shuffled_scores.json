@@ -1,0 +1,3602 @@
+[
+  {
+    "scene_id": "development-000",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5369857870502422,
+      "pooled_spatial": 0.6676704183822866,
+      "broadband_joint": 0.14867076119567496,
+      "factorized_joint": 0.5087973777487552
+    },
+    "audio_partner_scene": "development-001"
+  },
+  {
+    "scene_id": "development-000",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5354218109762643,
+      "pooled_spatial": 0.6704118282479455,
+      "broadband_joint": 0.272763264629853,
+      "factorized_joint": 0.6218750481525601
+    },
+    "audio_partner_scene": "development-001"
+  },
+  {
+    "scene_id": "development-000",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6108850322196853,
+      "pooled_spatial": 0.6699369087364747,
+      "broadband_joint": 0.2691708012512028,
+      "factorized_joint": 0.6228065724198232
+    },
+    "audio_partner_scene": "development-001"
+  },
+  {
+    "scene_id": "development-000",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6090723442633109,
+      "pooled_spatial": 0.6747325213798802,
+      "broadband_joint": 0.162491295069533,
+      "factorized_joint": 0.527052705433032
+    },
+    "audio_partner_scene": "development-001"
+  },
+  {
+    "scene_id": "development-001",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5488417855229111,
+      "pooled_spatial": -0.2797713887311831,
+      "broadband_joint": 0.1147471954276296,
+      "factorized_joint": 0.14977481132310008
+    },
+    "audio_partner_scene": "development-002"
+  },
+  {
+    "scene_id": "development-001",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5488548495896147,
+      "pooled_spatial": -0.2736016965266783,
+      "broadband_joint": 0.1472223484080769,
+      "factorized_joint": 0.17789406943525438
+    },
+    "audio_partner_scene": "development-002"
+  },
+  {
+    "scene_id": "development-001",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5515010785593278,
+      "pooled_spatial": -0.2788807904086829,
+      "broadband_joint": 0.15006019397804884,
+      "factorized_joint": 0.18363962893663213
+    },
+    "audio_partner_scene": "development-002"
+  },
+  {
+    "scene_id": "development-001",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5515179739461888,
+      "pooled_spatial": -0.27210531207881566,
+      "broadband_joint": 0.14425915805922168,
+      "factorized_joint": 0.17614064834493934
+    },
+    "audio_partner_scene": "development-002"
+  },
+  {
+    "scene_id": "development-002",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6809783225939171,
+      "pooled_spatial": -0.2825919458317551,
+      "broadband_joint": 0.44559935410771034,
+      "factorized_joint": 0.31855029246554306
+    },
+    "audio_partner_scene": "development-003"
+  },
+  {
+    "scene_id": "development-002",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6800689922280452,
+      "pooled_spatial": -0.2680154843618816,
+      "broadband_joint": 0.3440814613650297,
+      "factorized_joint": 0.2267479385227155
+    },
+    "audio_partner_scene": "development-003"
+  },
+  {
+    "scene_id": "development-002",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6412474814777511,
+      "pooled_spatial": -0.2803162441274407,
+      "broadband_joint": 0.3090503686781825,
+      "factorized_joint": 0.22174468801286262
+    },
+    "audio_partner_scene": "development-003"
+  },
+  {
+    "scene_id": "development-002",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6395072795568081,
+      "pooled_spatial": -0.26541328515386264,
+      "broadband_joint": 0.43113603208304474,
+      "factorized_joint": 0.2741890841872146
+    },
+    "audio_partner_scene": "development-003"
+  },
+  {
+    "scene_id": "development-003",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.48043708602575025,
+      "pooled_spatial": 0.3854378176830287,
+      "broadband_joint": 0.5317617490074036,
+      "factorized_joint": 0.5799070218441178
+    },
+    "audio_partner_scene": "development-008"
+  },
+  {
+    "scene_id": "development-003",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.4821517450457606,
+      "pooled_spatial": 0.41896611386080224,
+      "broadband_joint": 0.21691633255847353,
+      "factorized_joint": 0.35665018274366267
+    },
+    "audio_partner_scene": "development-008"
+  },
+  {
+    "scene_id": "development-003",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.379741675227893,
+      "pooled_spatial": 0.37651301405720444,
+      "broadband_joint": 0.2016877983317274,
+      "factorized_joint": 0.30647782871647455
+    },
+    "audio_partner_scene": "development-008"
+  },
+  {
+    "scene_id": "development-003",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.39424674888123135,
+      "pooled_spatial": 0.409867597341651,
+      "broadband_joint": 0.5750205019014702,
+      "factorized_joint": 0.6149715697150442
+    },
+    "audio_partner_scene": "development-008"
+  },
+  {
+    "scene_id": "development-004",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.30429738377240156,
+      "pooled_spatial": 0.8811143532898714,
+      "broadband_joint": 0.2759428073072088,
+      "factorized_joint": 0.5843634769193372
+    },
+    "audio_partner_scene": "development-005"
+  },
+  {
+    "scene_id": "development-004",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.3048309516635982,
+      "pooled_spatial": 0.8726549623768285,
+      "broadband_joint": 0.20555025934444704,
+      "factorized_joint": 0.5393799764285221
+    },
+    "audio_partner_scene": "development-005"
+  },
+  {
+    "scene_id": "development-004",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.45481083786426213,
+      "pooled_spatial": 0.8796299463238111,
+      "broadband_joint": 0.22785537505666667,
+      "factorized_joint": 0.5558652521116172
+    },
+    "audio_partner_scene": "development-005"
+  },
+  {
+    "scene_id": "development-004",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4553023113050247,
+      "pooled_spatial": 0.8688211029774588,
+      "broadband_joint": 0.33314602994483833,
+      "factorized_joint": 0.581943651828247
+    },
+    "audio_partner_scene": "development-005"
+  },
+  {
+    "scene_id": "development-005",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7563801574177285,
+      "pooled_spatial": -0.43813461644155927,
+      "broadband_joint": 0.046143894385684066,
+      "factorized_joint": 0.1446687015635838
+    },
+    "audio_partner_scene": "development-006"
+  },
+  {
+    "scene_id": "development-005",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7569135965206267,
+      "pooled_spatial": -0.44513391641478356,
+      "broadband_joint": 0.02996880722872226,
+      "factorized_joint": 0.11943885428994264
+    },
+    "audio_partner_scene": "development-006"
+  },
+  {
+    "scene_id": "development-005",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.75791634444929,
+      "pooled_spatial": -0.43059998074460093,
+      "broadband_joint": 0.04884240440619157,
+      "factorized_joint": 0.14725049445523933
+    },
+    "audio_partner_scene": "development-006"
+  },
+  {
+    "scene_id": "development-005",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.758516617539772,
+      "pooled_spatial": -0.4377360738373508,
+      "broadband_joint": 0.02915503766914204,
+      "factorized_joint": 0.11539852764914106
+    },
+    "audio_partner_scene": "development-006"
+  },
+  {
+    "scene_id": "development-006",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7974316870374031,
+      "pooled_spatial": -0.19961470088238514,
+      "broadband_joint": 0.3448637439228437,
+      "factorized_joint": 0.26951163113029764
+    },
+    "audio_partner_scene": "development-007"
+  },
+  {
+    "scene_id": "development-006",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7984628453332098,
+      "pooled_spatial": -0.24825981911847173,
+      "broadband_joint": 0.23687758112594853,
+      "factorized_joint": 0.18775880299968722
+    },
+    "audio_partner_scene": "development-007"
+  },
+  {
+    "scene_id": "development-006",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.8083995238196799,
+      "pooled_spatial": -0.1970433241134692,
+      "broadband_joint": 0.24420442150076443,
+      "factorized_joint": 0.2036420033485782
+    },
+    "audio_partner_scene": "development-007"
+  },
+  {
+    "scene_id": "development-006",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8097247936386471,
+      "pooled_spatial": -0.24597654902400615,
+      "broadband_joint": 0.3263683585340455,
+      "factorized_joint": 0.2730271244894885
+    },
+    "audio_partner_scene": "development-007"
+  },
+  {
+    "scene_id": "development-007",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.619706699516088,
+      "pooled_spatial": -0.07971151672238203,
+      "broadband_joint": 0.36489619862758427,
+      "factorized_joint": 0.3750780349526026
+    },
+    "audio_partner_scene": "development-012"
+  },
+  {
+    "scene_id": "development-007",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.623242563894651,
+      "pooled_spatial": -0.10369127639121381,
+      "broadband_joint": 0.14072070996223132,
+      "factorized_joint": 0.1715139349534413
+    },
+    "audio_partner_scene": "development-012"
+  },
+  {
+    "scene_id": "development-007",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7764117070458275,
+      "pooled_spatial": -0.06932143402836728,
+      "broadband_joint": 0.1535702843244622,
+      "factorized_joint": 0.16733860841467024
+    },
+    "audio_partner_scene": "development-012"
+  },
+  {
+    "scene_id": "development-007",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7730407981335351,
+      "pooled_spatial": -0.09328951608483356,
+      "broadband_joint": 0.4171848885843455,
+      "factorized_joint": 0.375071996355994
+    },
+    "audio_partner_scene": "development-012"
+  },
+  {
+    "scene_id": "development-008",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6527716833700767,
+      "pooled_spatial": 0.501172466975998,
+      "broadband_joint": 0.16758603183434706,
+      "factorized_joint": 0.5378576435744324
+    },
+    "audio_partner_scene": "development-009"
+  },
+  {
+    "scene_id": "development-008",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6519806164680697,
+      "pooled_spatial": 0.455328770083927,
+      "broadband_joint": 0.1890192006524688,
+      "factorized_joint": 0.5901365128049973
+    },
+    "audio_partner_scene": "development-009"
+  },
+  {
+    "scene_id": "development-008",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5762896062753182,
+      "pooled_spatial": 0.5072299011778006,
+      "broadband_joint": 0.23304154375495037,
+      "factorized_joint": 0.557906280290247
+    },
+    "audio_partner_scene": "development-009"
+  },
+  {
+    "scene_id": "development-008",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5757153051566781,
+      "pooled_spatial": 0.45991893170896886,
+      "broadband_joint": 0.13208216609425782,
+      "factorized_joint": 0.46665092939021796
+    },
+    "audio_partner_scene": "development-009"
+  },
+  {
+    "scene_id": "development-009",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8042273014151727,
+      "pooled_spatial": -0.16713828300063072,
+      "broadband_joint": 0.1952166928822595,
+      "factorized_joint": 0.2988026232297135
+    },
+    "audio_partner_scene": "development-010"
+  },
+  {
+    "scene_id": "development-009",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.804017829042316,
+      "pooled_spatial": -0.17251113690279923,
+      "broadband_joint": 0.19712292205026138,
+      "factorized_joint": 0.30936268209634277
+    },
+    "audio_partner_scene": "development-010"
+  },
+  {
+    "scene_id": "development-009",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.8046406265054137,
+      "pooled_spatial": -0.17350529937398423,
+      "broadband_joint": 0.21981759014590618,
+      "factorized_joint": 0.32669061468993527
+    },
+    "audio_partner_scene": "development-010"
+  },
+  {
+    "scene_id": "development-009",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8044830307181402,
+      "pooled_spatial": -0.17892747115710883,
+      "broadband_joint": 0.17601703101875485,
+      "factorized_joint": 0.2858326958932498
+    },
+    "audio_partner_scene": "development-010"
+  },
+  {
+    "scene_id": "development-010",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6505285339847809,
+      "pooled_spatial": -0.5490183771792012,
+      "broadband_joint": 0.2995847013774343,
+      "factorized_joint": 0.08331157662643751
+    },
+    "audio_partner_scene": "development-011"
+  },
+  {
+    "scene_id": "development-010",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.652489389437927,
+      "pooled_spatial": -0.5503296703752726,
+      "broadband_joint": 0.24082773460259438,
+      "factorized_joint": 0.07878044934342382
+    },
+    "audio_partner_scene": "development-011"
+  },
+  {
+    "scene_id": "development-010",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7406844157886904,
+      "pooled_spatial": -0.5486460775479737,
+      "broadband_joint": 0.26167603492753194,
+      "factorized_joint": 0.0797622023040044
+    },
+    "audio_partner_scene": "development-011"
+  },
+  {
+    "scene_id": "development-010",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7444386402348917,
+      "pooled_spatial": -0.5499775865040696,
+      "broadband_joint": 0.3177376478881314,
+      "factorized_joint": 0.09600346550247385
+    },
+    "audio_partner_scene": "development-011"
+  },
+  {
+    "scene_id": "development-011",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6895055121899093,
+      "pooled_spatial": 0.8374405003330959,
+      "broadband_joint": 0.5695113046603606,
+      "factorized_joint": 0.8022907755879246
+    },
+    "audio_partner_scene": "development-016"
+  },
+  {
+    "scene_id": "development-011",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6915667381418324,
+      "pooled_spatial": 0.7637519850339982,
+      "broadband_joint": 0.15784549636897088,
+      "factorized_joint": 0.41641707982624865
+    },
+    "audio_partner_scene": "development-016"
+  },
+  {
+    "scene_id": "development-011",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.719218106382285,
+      "pooled_spatial": 0.8397257893608222,
+      "broadband_joint": 0.17801152751223953,
+      "factorized_joint": 0.449886308136331
+    },
+    "audio_partner_scene": "development-016"
+  },
+  {
+    "scene_id": "development-011",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.721006447965645,
+      "pooled_spatial": 0.7643528130226879,
+      "broadband_joint": 0.5436586410322154,
+      "factorized_joint": 0.7678540896434598
+    },
+    "audio_partner_scene": "development-016"
+  },
+  {
+    "scene_id": "development-012",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6940762206954689,
+      "pooled_spatial": -0.4027765978927193,
+      "broadband_joint": 0.17088954216209792,
+      "factorized_joint": 0.1770066363275929
+    },
+    "audio_partner_scene": "development-013"
+  },
+  {
+    "scene_id": "development-012",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6926211876570579,
+      "pooled_spatial": -0.35688499169153765,
+      "broadband_joint": 0.25546173624355273,
+      "factorized_joint": 0.2470658506780568
+    },
+    "audio_partner_scene": "development-013"
+  },
+  {
+    "scene_id": "development-012",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5572367350501647,
+      "pooled_spatial": -0.4115364443131599,
+      "broadband_joint": 0.22014656064598837,
+      "factorized_joint": 0.1713643301515984
+    },
+    "audio_partner_scene": "development-013"
+  },
+  {
+    "scene_id": "development-012",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5523333848581866,
+      "pooled_spatial": -0.3655343459357931,
+      "broadband_joint": 0.2044050195465446,
+      "factorized_joint": 0.1511682616388036
+    },
+    "audio_partner_scene": "development-013"
+  },
+  {
+    "scene_id": "development-013",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.16118544278784283,
+      "pooled_spatial": -0.2536292400156095,
+      "broadband_joint": 0.08202692616128024,
+      "factorized_joint": 0.09305892340308769
+    },
+    "audio_partner_scene": "development-014"
+  },
+  {
+    "scene_id": "development-013",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.16145858230870852,
+      "pooled_spatial": -0.25476471770672277,
+      "broadband_joint": 0.08245342446430412,
+      "factorized_joint": 0.09682036160236118
+    },
+    "audio_partner_scene": "development-014"
+  },
+  {
+    "scene_id": "development-013",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.16905857177520078,
+      "pooled_spatial": -0.2546876056031093,
+      "broadband_joint": 0.0860971869041654,
+      "factorized_joint": 0.08869522353626341
+    },
+    "audio_partner_scene": "development-014"
+  },
+  {
+    "scene_id": "development-013",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.1693184166481556,
+      "pooled_spatial": -0.2557720371203485,
+      "broadband_joint": 0.05519241124594848,
+      "factorized_joint": 0.06670651698537804
+    },
+    "audio_partner_scene": "development-014"
+  },
+  {
+    "scene_id": "development-014",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5432315624103854,
+      "pooled_spatial": -0.29860593969755944,
+      "broadband_joint": 0.47614855835190556,
+      "factorized_joint": 0.2612424644305754
+    },
+    "audio_partner_scene": "development-015"
+  },
+  {
+    "scene_id": "development-014",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5390688114121588,
+      "pooled_spatial": -0.26000211030702974,
+      "broadband_joint": 0.3038344673588074,
+      "factorized_joint": 0.14771385170831644
+    },
+    "audio_partner_scene": "development-015"
+  },
+  {
+    "scene_id": "development-014",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5128047921441538,
+      "pooled_spatial": -0.29383861360765146,
+      "broadband_joint": 0.4029801929591131,
+      "factorized_joint": 0.1984856725362214
+    },
+    "audio_partner_scene": "development-015"
+  },
+  {
+    "scene_id": "development-014",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5079049725029526,
+      "pooled_spatial": -0.2546636087005766,
+      "broadband_joint": 0.32476037448904527,
+      "factorized_joint": 0.15787214846793765
+    },
+    "audio_partner_scene": "development-015"
+  },
+  {
+    "scene_id": "development-015",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6128947678646143,
+      "pooled_spatial": 0.3897972942288805,
+      "broadband_joint": 0.5866365661710564,
+      "factorized_joint": 0.538645755818653
+    },
+    "audio_partner_scene": "development-020"
+  },
+  {
+    "scene_id": "development-015",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6126907100211308,
+      "pooled_spatial": 0.4179781957242636,
+      "broadband_joint": 0.19143640668054399,
+      "factorized_joint": 0.2655207934776365
+    },
+    "audio_partner_scene": "development-020"
+  },
+  {
+    "scene_id": "development-015",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5866616915548939,
+      "pooled_spatial": 0.376227006227262,
+      "broadband_joint": 0.1796707725926666,
+      "factorized_joint": 0.33930354702865306
+    },
+    "audio_partner_scene": "development-020"
+  },
+  {
+    "scene_id": "development-015",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.586703541817853,
+      "pooled_spatial": 0.40429537300858504,
+      "broadband_joint": 0.6057836986501015,
+      "factorized_joint": 0.6616284928075966
+    },
+    "audio_partner_scene": "development-020"
+  },
+  {
+    "scene_id": "development-016",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6455954945392902,
+      "pooled_spatial": 0.6766622140951405,
+      "broadband_joint": 0.2623558756787556,
+      "factorized_joint": 0.5065271549909214
+    },
+    "audio_partner_scene": "development-017"
+  },
+  {
+    "scene_id": "development-016",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6446200326333276,
+      "pooled_spatial": 0.7112110244146377,
+      "broadband_joint": 0.4548391272581761,
+      "factorized_joint": 0.648555371585195
+    },
+    "audio_partner_scene": "development-017"
+  },
+  {
+    "scene_id": "development-016",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5274787576126717,
+      "pooled_spatial": 0.6699099962525984,
+      "broadband_joint": 0.4772005551529244,
+      "factorized_joint": 0.6477494188902879
+    },
+    "audio_partner_scene": "development-017"
+  },
+  {
+    "scene_id": "development-016",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5270499683609334,
+      "pooled_spatial": 0.706061251660954,
+      "broadband_joint": 0.19780884393131046,
+      "factorized_joint": 0.5319652380291597
+    },
+    "audio_partner_scene": "development-017"
+  },
+  {
+    "scene_id": "development-017",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5565626938917617,
+      "pooled_spatial": -0.27866957742357906,
+      "broadband_joint": 0.11137143491669231,
+      "factorized_joint": 0.1570617399608324
+    },
+    "audio_partner_scene": "development-018"
+  },
+  {
+    "scene_id": "development-017",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.557060221595584,
+      "pooled_spatial": -0.289720465837526,
+      "broadband_joint": 0.14198789270559298,
+      "factorized_joint": 0.19883190263450745
+    },
+    "audio_partner_scene": "development-018"
+  },
+  {
+    "scene_id": "development-017",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5897596438328141,
+      "pooled_spatial": -0.2897301600243227,
+      "broadband_joint": 0.1286176298480031,
+      "factorized_joint": 0.17005551179363565
+    },
+    "audio_partner_scene": "development-018"
+  },
+  {
+    "scene_id": "development-017",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.590094678478258,
+      "pooled_spatial": -0.30004432639719597,
+      "broadband_joint": 0.12207019711332391,
+      "factorized_joint": 0.17602392607388812
+    },
+    "audio_partner_scene": "development-018"
+  },
+  {
+    "scene_id": "development-018",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7308246946853232,
+      "pooled_spatial": -0.5877509380379154,
+      "broadband_joint": 0.27707747482807016,
+      "factorized_joint": 0.06792007301650138
+    },
+    "audio_partner_scene": "development-019"
+  },
+  {
+    "scene_id": "development-018",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7289863108481808,
+      "pooled_spatial": -0.5923319190751347,
+      "broadband_joint": 0.2498752044278837,
+      "factorized_joint": 0.05924899843457278
+    },
+    "audio_partner_scene": "development-019"
+  },
+  {
+    "scene_id": "development-018",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7464945000522107,
+      "pooled_spatial": -0.5892047003416495,
+      "broadband_joint": 0.23584186056189044,
+      "factorized_joint": 0.057269832768135465
+    },
+    "audio_partner_scene": "development-019"
+  },
+  {
+    "scene_id": "development-018",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7448763108038107,
+      "pooled_spatial": -0.5937573152705541,
+      "broadband_joint": 0.2831615273473561,
+      "factorized_joint": 0.06720732254020455
+    },
+    "audio_partner_scene": "development-019"
+  },
+  {
+    "scene_id": "development-019",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8371573737432227,
+      "pooled_spatial": 0.6069855136729575,
+      "broadband_joint": 0.5082801968697521,
+      "factorized_joint": 0.6531406142016217
+    },
+    "audio_partner_scene": "development-024"
+  },
+  {
+    "scene_id": "development-019",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.837359278610436,
+      "pooled_spatial": 0.6948448725542983,
+      "broadband_joint": 0.19517400087076564,
+      "factorized_joint": 0.39330587233036335
+    },
+    "audio_partner_scene": "development-024"
+  },
+  {
+    "scene_id": "development-019",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7791835454952809,
+      "pooled_spatial": 0.6082348963266122,
+      "broadband_joint": 0.18198035014627956,
+      "factorized_joint": 0.3541551822594996
+    },
+    "audio_partner_scene": "development-024"
+  },
+  {
+    "scene_id": "development-019",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.778856948270067,
+      "pooled_spatial": 0.6973167585542048,
+      "broadband_joint": 0.5051933724665569,
+      "factorized_joint": 0.6743111296802358
+    },
+    "audio_partner_scene": "development-024"
+  },
+  {
+    "scene_id": "development-020",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.48808613568493525,
+      "pooled_spatial": 0.4558159765855871,
+      "broadband_joint": 0.0720348804755854,
+      "factorized_joint": 0.4428142119640489
+    },
+    "audio_partner_scene": "development-021"
+  },
+  {
+    "scene_id": "development-020",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.48956149668401644,
+      "pooled_spatial": 0.46885163462152757,
+      "broadband_joint": 0.18178505322030974,
+      "factorized_joint": 0.5110912387986367
+    },
+    "audio_partner_scene": "development-021"
+  },
+  {
+    "scene_id": "development-020",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5757513730543677,
+      "pooled_spatial": 0.4537464894752943,
+      "broadband_joint": 0.1370000443189834,
+      "factorized_joint": 0.4967476740835758
+    },
+    "audio_partner_scene": "development-021"
+  },
+  {
+    "scene_id": "development-020",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.577068151809983,
+      "pooled_spatial": 0.46613463386596365,
+      "broadband_joint": 0.07968566726222846,
+      "factorized_joint": 0.3969887508048834
+    },
+    "audio_partner_scene": "development-021"
+  },
+  {
+    "scene_id": "development-021",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5978796827095867,
+      "pooled_spatial": -0.267044207282363,
+      "broadband_joint": 0.0932436311031565,
+      "factorized_joint": 0.12684922428002185
+    },
+    "audio_partner_scene": "development-022"
+  },
+  {
+    "scene_id": "development-021",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5979028946183772,
+      "pooled_spatial": -0.276264278263121,
+      "broadband_joint": 0.11347913655674916,
+      "factorized_joint": 0.14164627063529042
+    },
+    "audio_partner_scene": "development-022"
+  },
+  {
+    "scene_id": "development-021",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5627141734481319,
+      "pooled_spatial": -0.2731231834653278,
+      "broadband_joint": 0.11611823058027947,
+      "factorized_joint": 0.1422477761691175
+    },
+    "audio_partner_scene": "development-022"
+  },
+  {
+    "scene_id": "development-021",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5627528404778506,
+      "pooled_spatial": -0.2820515936847641,
+      "broadband_joint": 0.11704168341366707,
+      "factorized_joint": 0.14332255393136684
+    },
+    "audio_partner_scene": "development-022"
+  },
+  {
+    "scene_id": "development-022",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7622354453655729,
+      "pooled_spatial": -0.3368407529436573,
+      "broadband_joint": 0.403570608617411,
+      "factorized_joint": 0.16426596480722616
+    },
+    "audio_partner_scene": "development-023"
+  },
+  {
+    "scene_id": "development-022",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7609718048148861,
+      "pooled_spatial": -0.3407821903642231,
+      "broadband_joint": 0.32121699537288934,
+      "factorized_joint": 0.1224693693281904
+    },
+    "audio_partner_scene": "development-023"
+  },
+  {
+    "scene_id": "development-022",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7657647032350012,
+      "pooled_spatial": -0.33877167347718473,
+      "broadband_joint": 0.3060043368836689,
+      "factorized_joint": 0.1262111023339683
+    },
+    "audio_partner_scene": "development-023"
+  },
+  {
+    "scene_id": "development-022",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7643857712295266,
+      "pooled_spatial": -0.3425929071915579,
+      "broadband_joint": 0.4204630343813755,
+      "factorized_joint": 0.16188370739765434
+    },
+    "audio_partner_scene": "development-023"
+  },
+  {
+    "scene_id": "development-023",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6124255135205984,
+      "pooled_spatial": 0.16629337984290574,
+      "broadband_joint": 0.47453486439943615,
+      "factorized_joint": 0.5128944523831989
+    },
+    "audio_partner_scene": "development-028"
+  },
+  {
+    "scene_id": "development-023",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6198814819875204,
+      "pooled_spatial": 0.18355635109698923,
+      "broadband_joint": 0.17288374606380075,
+      "factorized_joint": 0.2489425635445199
+    },
+    "audio_partner_scene": "development-028"
+  },
+  {
+    "scene_id": "development-023",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6787123983114323,
+      "pooled_spatial": 0.15797334049703496,
+      "broadband_joint": 0.19039579162456488,
+      "factorized_joint": 0.2622739161444989
+    },
+    "audio_partner_scene": "development-028"
+  },
+  {
+    "scene_id": "development-023",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.682812660974955,
+      "pooled_spatial": 0.17474719885384532,
+      "broadband_joint": 0.4948164978387656,
+      "factorized_joint": 0.5637298320876262
+    },
+    "audio_partner_scene": "development-028"
+  },
+  {
+    "scene_id": "development-024",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5514299074301263,
+      "pooled_spatial": 0.8471239121820937,
+      "broadband_joint": 0.16558173459234332,
+      "factorized_joint": 0.6257416087190185
+    },
+    "audio_partner_scene": "development-025"
+  },
+  {
+    "scene_id": "development-024",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5513506131105067,
+      "pooled_spatial": 0.8580372835086018,
+      "broadband_joint": 0.18383176176041904,
+      "factorized_joint": 0.6283235022263752
+    },
+    "audio_partner_scene": "development-025"
+  },
+  {
+    "scene_id": "development-024",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5624089826205338,
+      "pooled_spatial": 0.8492934312955843,
+      "broadband_joint": 0.20217644401614465,
+      "factorized_joint": 0.613967921001046
+    },
+    "audio_partner_scene": "development-025"
+  },
+  {
+    "scene_id": "development-024",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5623382785104992,
+      "pooled_spatial": 0.8615077253121505,
+      "broadband_joint": 0.2284552069437341,
+      "factorized_joint": 0.6112548923137372
+    },
+    "audio_partner_scene": "development-025"
+  },
+  {
+    "scene_id": "development-025",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.467191425837368,
+      "pooled_spatial": -0.36359569316375473,
+      "broadband_joint": 0.1174112704280584,
+      "factorized_joint": 0.1720622545121587
+    },
+    "audio_partner_scene": "development-026"
+  },
+  {
+    "scene_id": "development-025",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.4672222438837401,
+      "pooled_spatial": -0.3790728469628557,
+      "broadband_joint": 0.0956290038527361,
+      "factorized_joint": 0.1694585005597543
+    },
+    "audio_partner_scene": "development-026"
+  },
+  {
+    "scene_id": "development-025",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.46116881821945405,
+      "pooled_spatial": -0.3576664983093971,
+      "broadband_joint": 0.11764312401649578,
+      "factorized_joint": 0.17282508661205317
+    },
+    "audio_partner_scene": "development-026"
+  },
+  {
+    "scene_id": "development-025",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4611529761694136,
+      "pooled_spatial": -0.3735081424511869,
+      "broadband_joint": 0.09711290541127698,
+      "factorized_joint": 0.17192227686518394
+    },
+    "audio_partner_scene": "development-026"
+  },
+  {
+    "scene_id": "development-026",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5949354563154877,
+      "pooled_spatial": -0.5434303907068705,
+      "broadband_joint": 0.20313108049557452,
+      "factorized_joint": 0.0484569175524808
+    },
+    "audio_partner_scene": "development-027"
+  },
+  {
+    "scene_id": "development-026",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5958675383155915,
+      "pooled_spatial": -0.5485595787704163,
+      "broadband_joint": 0.20457271047732134,
+      "factorized_joint": 0.04625588166408051
+    },
+    "audio_partner_scene": "development-027"
+  },
+  {
+    "scene_id": "development-026",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5414246833271649,
+      "pooled_spatial": -0.5430343765844174,
+      "broadband_joint": 0.22167507613860127,
+      "factorized_joint": 0.05172638062947847
+    },
+    "audio_partner_scene": "development-027"
+  },
+  {
+    "scene_id": "development-026",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5384864850903289,
+      "pooled_spatial": -0.5481537047080356,
+      "broadband_joint": 0.21523721269461588,
+      "factorized_joint": 0.04936656164513839
+    },
+    "audio_partner_scene": "development-027"
+  },
+  {
+    "scene_id": "development-027",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7042613954169173,
+      "pooled_spatial": 0.6873547645408987,
+      "broadband_joint": 0.495597052726955,
+      "factorized_joint": 0.7471343727302245
+    },
+    "audio_partner_scene": "development-032"
+  },
+  {
+    "scene_id": "development-027",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7037036546562104,
+      "pooled_spatial": 0.6716230326645188,
+      "broadband_joint": 0.14694700128138302,
+      "factorized_joint": 0.4095892080397958
+    },
+    "audio_partner_scene": "development-032"
+  },
+  {
+    "scene_id": "development-027",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7461024052963658,
+      "pooled_spatial": 0.6953811960716878,
+      "broadband_joint": 0.1344020192135376,
+      "factorized_joint": 0.4120615598185309
+    },
+    "audio_partner_scene": "development-032"
+  },
+  {
+    "scene_id": "development-027",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7452307786392661,
+      "pooled_spatial": 0.6801224544278137,
+      "broadband_joint": 0.47886808436923073,
+      "factorized_joint": 0.7186930321860262
+    },
+    "audio_partner_scene": "development-032"
+  },
+  {
+    "scene_id": "development-028",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7135504417195343,
+      "pooled_spatial": -0.4281420251937661,
+      "broadband_joint": 0.3480144552878578,
+      "factorized_joint": 0.15158376541950136
+    },
+    "audio_partner_scene": "development-029"
+  },
+  {
+    "scene_id": "development-028",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7142913257894208,
+      "pooled_spatial": -0.40590286765145533,
+      "broadband_joint": 0.5058250160297935,
+      "factorized_joint": 0.1591390934726622
+    },
+    "audio_partner_scene": "development-029"
+  },
+  {
+    "scene_id": "development-028",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.3122394466416721,
+      "pooled_spatial": -0.4276356955308042,
+      "broadband_joint": 0.24871580488998574,
+      "factorized_joint": 0.13906187630327227
+    },
+    "audio_partner_scene": "development-029"
+  },
+  {
+    "scene_id": "development-028",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.31220761104206946,
+      "pooled_spatial": -0.4050457465880112,
+      "broadband_joint": 0.3088945900944925,
+      "factorized_joint": 0.12123395784231743
+    },
+    "audio_partner_scene": "development-029"
+  },
+  {
+    "scene_id": "development-029",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.519935919451079,
+      "pooled_spatial": -0.35230130845760504,
+      "broadband_joint": 0.058058724898497595,
+      "factorized_joint": 0.08206304747677672
+    },
+    "audio_partner_scene": "development-030"
+  },
+  {
+    "scene_id": "development-029",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5200528036919237,
+      "pooled_spatial": -0.34599331418636886,
+      "broadband_joint": 0.09146313198647878,
+      "factorized_joint": 0.10418073799746222
+    },
+    "audio_partner_scene": "development-030"
+  },
+  {
+    "scene_id": "development-029",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.522037226032151,
+      "pooled_spatial": -0.3548224693006888,
+      "broadband_joint": 0.07961232451612088,
+      "factorized_joint": 0.10338720236675117
+    },
+    "audio_partner_scene": "development-030"
+  },
+  {
+    "scene_id": "development-029",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5221342384394934,
+      "pooled_spatial": -0.34874246075856435,
+      "broadband_joint": 0.0925735108116127,
+      "factorized_joint": 0.10806743158410888
+    },
+    "audio_partner_scene": "development-030"
+  },
+  {
+    "scene_id": "development-030",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.1365183841945787,
+      "pooled_spatial": 0.19306709618948198,
+      "broadband_joint": 0.45780649809133445,
+      "factorized_joint": 0.3953037004469745
+    },
+    "audio_partner_scene": "development-031"
+  },
+  {
+    "scene_id": "development-030",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.13664695779696184,
+      "pooled_spatial": 0.2334279129154811,
+      "broadband_joint": 0.22311306697950878,
+      "factorized_joint": 0.22612966869159146
+    },
+    "audio_partner_scene": "development-031"
+  },
+  {
+    "scene_id": "development-030",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5061281170430982,
+      "pooled_spatial": 0.18977463315506862,
+      "broadband_joint": 0.24505460594407755,
+      "factorized_joint": 0.267269994456812
+    },
+    "audio_partner_scene": "development-031"
+  },
+  {
+    "scene_id": "development-030",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5069191302361883,
+      "pooled_spatial": 0.22992512378125424,
+      "broadband_joint": 0.5216171564310683,
+      "factorized_joint": 0.47490403964193206
+    },
+    "audio_partner_scene": "development-031"
+  },
+  {
+    "scene_id": "development-031",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7141189348997788,
+      "pooled_spatial": 0.4613226299976811,
+      "broadband_joint": 0.5307448481272554,
+      "factorized_joint": 0.6217827665417692
+    },
+    "audio_partner_scene": "development-036"
+  },
+  {
+    "scene_id": "development-031",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7143756347134683,
+      "pooled_spatial": 0.471836826475005,
+      "broadband_joint": 0.217650983749401,
+      "factorized_joint": 0.347586300982366
+    },
+    "audio_partner_scene": "development-036"
+  },
+  {
+    "scene_id": "development-031",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7309398174966347,
+      "pooled_spatial": 0.44606193371440145,
+      "broadband_joint": 0.18202968190213017,
+      "factorized_joint": 0.35228952487810594
+    },
+    "audio_partner_scene": "development-036"
+  },
+  {
+    "scene_id": "development-031",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7318549346879331,
+      "pooled_spatial": 0.4558852271980465,
+      "broadband_joint": 0.5522319478741018,
+      "factorized_joint": 0.6588555137458105
+    },
+    "audio_partner_scene": "development-036"
+  },
+  {
+    "scene_id": "development-032",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.213124487959584,
+      "pooled_spatial": -0.2485478967636705,
+      "broadband_joint": 0.2638156809442624,
+      "factorized_joint": 0.2021566124963346
+    },
+    "audio_partner_scene": "development-033"
+  },
+  {
+    "scene_id": "development-032",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.21211824899365272,
+      "pooled_spatial": -0.22307829589973033,
+      "broadband_joint": 0.24618160693611785,
+      "factorized_joint": 0.24962850596965203
+    },
+    "audio_partner_scene": "development-033"
+  },
+  {
+    "scene_id": "development-032",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.2700883437035703,
+      "pooled_spatial": -0.24572866688143571,
+      "broadband_joint": 0.28359184743325216,
+      "factorized_joint": 0.25232459487186665
+    },
+    "audio_partner_scene": "development-033"
+  },
+  {
+    "scene_id": "development-032",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.2691383775573198,
+      "pooled_spatial": -0.22005088378117096,
+      "broadband_joint": 0.16273927484366157,
+      "factorized_joint": 0.24677490793022347
+    },
+    "audio_partner_scene": "development-033"
+  },
+  {
+    "scene_id": "development-033",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6257862540629079,
+      "pooled_spatial": -0.2585057908694283,
+      "broadband_joint": 0.12352449933833917,
+      "factorized_joint": 0.1490824001751342
+    },
+    "audio_partner_scene": "development-034"
+  },
+  {
+    "scene_id": "development-033",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6261596344545619,
+      "pooled_spatial": -0.26022777447178647,
+      "broadband_joint": 0.15093155925252097,
+      "factorized_joint": 0.17056313504614082
+    },
+    "audio_partner_scene": "development-034"
+  },
+  {
+    "scene_id": "development-033",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.623333281492004,
+      "pooled_spatial": -0.25990373277516715,
+      "broadband_joint": 0.13291597893360094,
+      "factorized_joint": 0.16379269521660322
+    },
+    "audio_partner_scene": "development-034"
+  },
+  {
+    "scene_id": "development-033",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6237006251530312,
+      "pooled_spatial": -0.26166716504105436,
+      "broadband_joint": 0.1459145885458274,
+      "factorized_joint": 0.17062619471527407
+    },
+    "audio_partner_scene": "development-034"
+  },
+  {
+    "scene_id": "development-034",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7317306309332123,
+      "pooled_spatial": -0.5971632938129129,
+      "broadband_joint": 0.19331826996379364,
+      "factorized_joint": 0.028530403455060863
+    },
+    "audio_partner_scene": "development-035"
+  },
+  {
+    "scene_id": "development-034",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7311008349844537,
+      "pooled_spatial": -0.5989819067545139,
+      "broadband_joint": 0.1587482039441013,
+      "factorized_joint": 0.02596839001837823
+    },
+    "audio_partner_scene": "development-035"
+  },
+  {
+    "scene_id": "development-034",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.8323685573637524,
+      "pooled_spatial": -0.5965605903911226,
+      "broadband_joint": 0.17794837184200107,
+      "factorized_joint": 0.02665422632453311
+    },
+    "audio_partner_scene": "development-035"
+  },
+  {
+    "scene_id": "development-034",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8330052566385097,
+      "pooled_spatial": -0.5983412775276985,
+      "broadband_joint": 0.21044290953273614,
+      "factorized_joint": 0.02862821563004388
+    },
+    "audio_partner_scene": "development-035"
+  },
+  {
+    "scene_id": "development-035",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6197426563745856,
+      "pooled_spatial": 0.2684306241422202,
+      "broadband_joint": 0.24910080844907728,
+      "factorized_joint": 0.5020500114282332
+    },
+    "audio_partner_scene": "development-040"
+  },
+  {
+    "scene_id": "development-035",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.61952504715848,
+      "pooled_spatial": 0.2695242412695917,
+      "broadband_joint": 0.08103103557516625,
+      "factorized_joint": 0.25857912159640517
+    },
+    "audio_partner_scene": "development-040"
+  },
+  {
+    "scene_id": "development-035",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7326614801947539,
+      "pooled_spatial": 0.2692092651675482,
+      "broadband_joint": 0.0673078672653761,
+      "factorized_joint": 0.25576928717305125
+    },
+    "audio_partner_scene": "development-040"
+  },
+  {
+    "scene_id": "development-035",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7323197962351428,
+      "pooled_spatial": 0.2702832080404624,
+      "broadband_joint": 0.24131773054876862,
+      "factorized_joint": 0.49206082193982803
+    },
+    "audio_partner_scene": "development-040"
+  },
+  {
+    "scene_id": "development-036",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6666425200319553,
+      "pooled_spatial": 0.7426087532144261,
+      "broadband_joint": 0.18221482426063879,
+      "factorized_joint": 0.5757577349426343
+    },
+    "audio_partner_scene": "development-037"
+  },
+  {
+    "scene_id": "development-036",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6654409997515036,
+      "pooled_spatial": 0.7515042688149889,
+      "broadband_joint": 0.3360612374004818,
+      "factorized_joint": 0.6930935059573972
+    },
+    "audio_partner_scene": "development-037"
+  },
+  {
+    "scene_id": "development-036",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6069018480738203,
+      "pooled_spatial": 0.7424630209946534,
+      "broadband_joint": 0.4058503669356732,
+      "factorized_joint": 0.6487539856058759
+    },
+    "audio_partner_scene": "development-037"
+  },
+  {
+    "scene_id": "development-036",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6055428145662876,
+      "pooled_spatial": 0.7519489255864427,
+      "broadband_joint": 0.20318369347769596,
+      "factorized_joint": 0.5615849109958252
+    },
+    "audio_partner_scene": "development-037"
+  },
+  {
+    "scene_id": "development-037",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4819654993877638,
+      "pooled_spatial": -0.3264459817240357,
+      "broadband_joint": 0.08869990773636255,
+      "factorized_joint": 0.12007779966740668
+    },
+    "audio_partner_scene": "development-038"
+  },
+  {
+    "scene_id": "development-037",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.481809691166795,
+      "pooled_spatial": -0.3340891499165448,
+      "broadband_joint": 0.0749768194744473,
+      "factorized_joint": 0.11024000749261362
+    },
+    "audio_partner_scene": "development-038"
+  },
+  {
+    "scene_id": "development-037",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.48171068692521574,
+      "pooled_spatial": -0.3274071154947196,
+      "broadband_joint": 0.10416290036499629,
+      "factorized_joint": 0.13513836320931677
+    },
+    "audio_partner_scene": "development-038"
+  },
+  {
+    "scene_id": "development-037",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.48156762523993585,
+      "pooled_spatial": -0.33484800988376123,
+      "broadband_joint": 0.06586890176316929,
+      "factorized_joint": 0.10399741326360107
+    },
+    "audio_partner_scene": "development-038"
+  },
+  {
+    "scene_id": "development-038",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7253480569751076,
+      "pooled_spatial": -0.214923936854744,
+      "broadband_joint": 0.40064115102181547,
+      "factorized_joint": 0.2661510122592877
+    },
+    "audio_partner_scene": "development-039"
+  },
+  {
+    "scene_id": "development-038",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7260072482748375,
+      "pooled_spatial": -0.23125473189707252,
+      "broadband_joint": 0.3203648618716938,
+      "factorized_joint": 0.18476909626290816
+    },
+    "audio_partner_scene": "development-039"
+  },
+  {
+    "scene_id": "development-038",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7300017658075967,
+      "pooled_spatial": -0.21687371117459286,
+      "broadband_joint": 0.2873054090160937,
+      "factorized_joint": 0.1975292827949607
+    },
+    "audio_partner_scene": "development-039"
+  },
+  {
+    "scene_id": "development-038",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7305871393958638,
+      "pooled_spatial": -0.23304722240171735,
+      "broadband_joint": 0.4399798493612714,
+      "factorized_joint": 0.27426218667700963
+    },
+    "audio_partner_scene": "development-039"
+  },
+  {
+    "scene_id": "development-039",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6592938776061238,
+      "pooled_spatial": 0.2987849758737321,
+      "broadband_joint": 0.6669856321018544,
+      "factorized_joint": 0.577960652933268
+    },
+    "audio_partner_scene": "development-044"
+  },
+  {
+    "scene_id": "development-039",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6561175973742195,
+      "pooled_spatial": 0.2184212308468031,
+      "broadband_joint": 0.2072567978142908,
+      "factorized_joint": 0.2516938907238259
+    },
+    "audio_partner_scene": "development-044"
+  },
+  {
+    "scene_id": "development-039",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7012087578638038,
+      "pooled_spatial": 0.31766088873279347,
+      "broadband_joint": 0.27026880083349575,
+      "factorized_joint": 0.3578851461083166
+    },
+    "audio_partner_scene": "development-044"
+  },
+  {
+    "scene_id": "development-039",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6986231906341428,
+      "pooled_spatial": 0.23486113946130618,
+      "broadband_joint": 0.5404782431691573,
+      "factorized_joint": 0.5778727898608776
+    },
+    "audio_partner_scene": "development-044"
+  },
+  {
+    "scene_id": "development-040",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5205885031783714,
+      "pooled_spatial": 0.5152637152971647,
+      "broadband_joint": 0.21397573026175334,
+      "factorized_joint": 0.4288985175272672
+    },
+    "audio_partner_scene": "development-041"
+  },
+  {
+    "scene_id": "development-040",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.519843129778168,
+      "pooled_spatial": 0.5046656001360361,
+      "broadband_joint": 0.5559417972826672,
+      "factorized_joint": 0.5409208201107794
+    },
+    "audio_partner_scene": "development-041"
+  },
+  {
+    "scene_id": "development-040",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6146696851533734,
+      "pooled_spatial": 0.5160046283929981,
+      "broadband_joint": 0.5131296206912386,
+      "factorized_joint": 0.6148501873238962
+    },
+    "audio_partner_scene": "development-041"
+  },
+  {
+    "scene_id": "development-040",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.613582841539908,
+      "pooled_spatial": 0.5053793420284535,
+      "broadband_joint": 0.21408955209601077,
+      "factorized_joint": 0.47609620377785566
+    },
+    "audio_partner_scene": "development-041"
+  },
+  {
+    "scene_id": "development-041",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.46576826703768814,
+      "pooled_spatial": -0.38094976500099276,
+      "broadband_joint": 0.048900975740993294,
+      "factorized_joint": 0.07897415099140288
+    },
+    "audio_partner_scene": "development-042"
+  },
+  {
+    "scene_id": "development-041",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.4659291484208658,
+      "pooled_spatial": -0.3831432533234062,
+      "broadband_joint": 0.06600645503010266,
+      "factorized_joint": 0.08265517091772648
+    },
+    "audio_partner_scene": "development-042"
+  },
+  {
+    "scene_id": "development-041",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.45643263053000216,
+      "pooled_spatial": -0.3794381273039181,
+      "broadband_joint": 0.05647713319645223,
+      "factorized_joint": 0.08569174384261724
+    },
+    "audio_partner_scene": "development-042"
+  },
+  {
+    "scene_id": "development-041",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4566059088183294,
+      "pooled_spatial": -0.38162732670050353,
+      "broadband_joint": 0.05419720364311953,
+      "factorized_joint": 0.07167930442474549
+    },
+    "audio_partner_scene": "development-042"
+  },
+  {
+    "scene_id": "development-042",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.34285699839909756,
+      "pooled_spatial": -0.5133180432669535,
+      "broadband_joint": 0.17345884369300402,
+      "factorized_joint": 0.06358123074834011
+    },
+    "audio_partner_scene": "development-043"
+  },
+  {
+    "scene_id": "development-042",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.34802402808167715,
+      "pooled_spatial": -0.5127099695350551,
+      "broadband_joint": 0.1607339095673506,
+      "factorized_joint": 0.06070670374034945
+    },
+    "audio_partner_scene": "development-043"
+  },
+  {
+    "scene_id": "development-042",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6252489390208442,
+      "pooled_spatial": -0.512820226747466,
+      "broadband_joint": 0.19276266764958555,
+      "factorized_joint": 0.06837522701895236
+    },
+    "audio_partner_scene": "development-043"
+  },
+  {
+    "scene_id": "development-042",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6245690474587768,
+      "pooled_spatial": -0.5120978383754465,
+      "broadband_joint": 0.20942192449887262,
+      "factorized_joint": 0.07681703191247143
+    },
+    "audio_partner_scene": "development-043"
+  },
+  {
+    "scene_id": "development-043",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.366382892114582,
+      "pooled_spatial": 0.9085880851879141,
+      "broadband_joint": 0.5898193601020721,
+      "factorized_joint": 0.7547239403103896
+    },
+    "audio_partner_scene": "development-048"
+  },
+  {
+    "scene_id": "development-043",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.35932605729373746,
+      "pooled_spatial": 0.8614537015226983,
+      "broadband_joint": 0.18580594371900658,
+      "factorized_joint": 0.3772755832035269
+    },
+    "audio_partner_scene": "development-048"
+  },
+  {
+    "scene_id": "development-043",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.466249729216613,
+      "pooled_spatial": 0.9001481938538924,
+      "broadband_joint": 0.2231619961399982,
+      "factorized_joint": 0.4047729436401861
+    },
+    "audio_partner_scene": "development-048"
+  },
+  {
+    "scene_id": "development-043",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.46418282629032054,
+      "pooled_spatial": 0.8463169855882764,
+      "broadband_joint": 0.5888211761104065,
+      "factorized_joint": 0.7633614832464715
+    },
+    "audio_partner_scene": "development-048"
+  },
+  {
+    "scene_id": "development-044",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.2881828742530359,
+      "pooled_spatial": 0.7642264963310078,
+      "broadband_joint": 0.1197405061308519,
+      "factorized_joint": 0.46614142304311773
+    },
+    "audio_partner_scene": "development-045"
+  },
+  {
+    "scene_id": "development-044",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.2886264261578329,
+      "pooled_spatial": 0.7630990174473098,
+      "broadband_joint": 0.2470566291305582,
+      "factorized_joint": 0.5912888172644286
+    },
+    "audio_partner_scene": "development-045"
+  },
+  {
+    "scene_id": "development-044",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6120043597042596,
+      "pooled_spatial": 0.7465665619482206,
+      "broadband_joint": 0.20376239013366532,
+      "factorized_joint": 0.6414007294985663
+    },
+    "audio_partner_scene": "development-045"
+  },
+  {
+    "scene_id": "development-044",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6122866987861627,
+      "pooled_spatial": 0.7469198829545065,
+      "broadband_joint": 0.10708263526328113,
+      "factorized_joint": 0.5077894485814074
+    },
+    "audio_partner_scene": "development-045"
+  },
+  {
+    "scene_id": "development-045",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.2855900079428055,
+      "pooled_spatial": -0.4678419890989278,
+      "broadband_joint": 0.006247277578176217,
+      "factorized_joint": 0.016435238851816532
+    },
+    "audio_partner_scene": "development-046"
+  },
+  {
+    "scene_id": "development-045",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.28563049756236597,
+      "pooled_spatial": -0.4683462665017322,
+      "broadband_joint": 0.008518834984118654,
+      "factorized_joint": 0.02111640801183295
+    },
+    "audio_partner_scene": "development-046"
+  },
+  {
+    "scene_id": "development-045",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.3090533194116794,
+      "pooled_spatial": -0.46971016533945575,
+      "broadband_joint": 0.006671032722256795,
+      "factorized_joint": 0.018866835733658945
+    },
+    "audio_partner_scene": "development-046"
+  },
+  {
+    "scene_id": "development-045",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.3090600302252861,
+      "pooled_spatial": -0.470257288443383,
+      "broadband_joint": 0.006965164017092278,
+      "factorized_joint": 0.016898000629050836
+    },
+    "audio_partner_scene": "development-046"
+  },
+  {
+    "scene_id": "development-046",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4362292736788165,
+      "pooled_spatial": -0.2925017691529249,
+      "broadband_joint": 0.23284451959195485,
+      "factorized_joint": 0.10065431959553382
+    },
+    "audio_partner_scene": "development-047"
+  },
+  {
+    "scene_id": "development-046",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.43650766420512377,
+      "pooled_spatial": -0.27802640135850043,
+      "broadband_joint": 0.2584662034243429,
+      "factorized_joint": 0.10339662154273499
+    },
+    "audio_partner_scene": "development-047"
+  },
+  {
+    "scene_id": "development-046",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.13139961490202942,
+      "pooled_spatial": -0.29241224348827427,
+      "broadband_joint": 0.23190045289749517,
+      "factorized_joint": 0.0980870471489009
+    },
+    "audio_partner_scene": "development-047"
+  },
+  {
+    "scene_id": "development-046",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.13162223472278156,
+      "pooled_spatial": -0.27791890223531335,
+      "broadband_joint": 0.2340944567101753,
+      "factorized_joint": 0.09647026720582574
+    },
+    "audio_partner_scene": "development-047"
+  },
+  {
+    "scene_id": "development-047",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5282888488020807,
+      "pooled_spatial": 0.6399658742715587,
+      "broadband_joint": 0.6823684047011378,
+      "factorized_joint": 0.7600449452589131
+    },
+    "audio_partner_scene": "development-052"
+  },
+  {
+    "scene_id": "development-047",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5340460561043904,
+      "pooled_spatial": 0.6345113218328595,
+      "broadband_joint": 0.14352916083680511,
+      "factorized_joint": 0.28138549799672846
+    },
+    "audio_partner_scene": "development-052"
+  },
+  {
+    "scene_id": "development-047",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5762161262832484,
+      "pooled_spatial": 0.6418936703356825,
+      "broadband_joint": 0.15600893494712004,
+      "factorized_joint": 0.29369711309703894
+    },
+    "audio_partner_scene": "development-052"
+  },
+  {
+    "scene_id": "development-047",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5796973635212247,
+      "pooled_spatial": 0.6374081569984341,
+      "broadband_joint": 0.6540898156142269,
+      "factorized_joint": 0.764051054769501
+    },
+    "audio_partner_scene": "development-052"
+  },
+  {
+    "scene_id": "development-048",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5234100018263003,
+      "pooled_spatial": 0.7183037123946298,
+      "broadband_joint": 0.25193361100206574,
+      "factorized_joint": 0.5779397373016026
+    },
+    "audio_partner_scene": "development-049"
+  },
+  {
+    "scene_id": "development-048",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5235964438910576,
+      "pooled_spatial": 0.7080712577144496,
+      "broadband_joint": 0.2826522101589427,
+      "factorized_joint": 0.5604544466979863
+    },
+    "audio_partner_scene": "development-049"
+  },
+  {
+    "scene_id": "development-048",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7511406860360266,
+      "pooled_spatial": 0.706595126650057,
+      "broadband_joint": 0.27881347298165254,
+      "factorized_joint": 0.6140476579623817
+    },
+    "audio_partner_scene": "development-049"
+  },
+  {
+    "scene_id": "development-048",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7505328852560947,
+      "pooled_spatial": 0.6934055653552318,
+      "broadband_joint": 0.27997107391991394,
+      "factorized_joint": 0.6008359475068454
+    },
+    "audio_partner_scene": "development-049"
+  },
+  {
+    "scene_id": "development-049",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7550669553757855,
+      "pooled_spatial": -0.31967629620665755,
+      "broadband_joint": 0.10638671432847237,
+      "factorized_joint": 0.1392393655011558
+    },
+    "audio_partner_scene": "development-050"
+  },
+  {
+    "scene_id": "development-049",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7554111676778527,
+      "pooled_spatial": -0.31867002371403075,
+      "broadband_joint": 0.11121557807978856,
+      "factorized_joint": 0.14053099690966298
+    },
+    "audio_partner_scene": "development-050"
+  },
+  {
+    "scene_id": "development-049",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7733535096190325,
+      "pooled_spatial": -0.3201943509764354,
+      "broadband_joint": 0.11508608279204909,
+      "factorized_joint": 0.14719721950226577
+    },
+    "audio_partner_scene": "development-050"
+  },
+  {
+    "scene_id": "development-049",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.773826701057147,
+      "pooled_spatial": -0.31920498239854905,
+      "broadband_joint": 0.10956544219829475,
+      "factorized_joint": 0.13921541091551548
+    },
+    "audio_partner_scene": "development-050"
+  },
+  {
+    "scene_id": "development-050",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8156541043939795,
+      "pooled_spatial": -0.42955367473640865,
+      "broadband_joint": 0.3730341283661805,
+      "factorized_joint": 0.17550634379596436
+    },
+    "audio_partner_scene": "development-051"
+  },
+  {
+    "scene_id": "development-050",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.8157198727274532,
+      "pooled_spatial": -0.4310266835472633,
+      "broadband_joint": 0.31469560958733045,
+      "factorized_joint": 0.1384994172786568
+    },
+    "audio_partner_scene": "development-051"
+  },
+  {
+    "scene_id": "development-050",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.8153439936054527,
+      "pooled_spatial": -0.4297371643662234,
+      "broadband_joint": 0.3166928892694117,
+      "factorized_joint": 0.1464293906024302
+    },
+    "audio_partner_scene": "development-051"
+  },
+  {
+    "scene_id": "development-050",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.8153454564361617,
+      "pooled_spatial": -0.43120039982551667,
+      "broadband_joint": 0.4152954250242714,
+      "factorized_joint": 0.18126901663131806
+    },
+    "audio_partner_scene": "development-051"
+  },
+  {
+    "scene_id": "development-051",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6920968687293823,
+      "pooled_spatial": 0.726393425474624,
+      "broadband_joint": 0.6597476140884349,
+      "factorized_joint": 0.7805689986463225
+    },
+    "audio_partner_scene": "development-056"
+  },
+  {
+    "scene_id": "development-051",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6909826583293452,
+      "pooled_spatial": 0.7574477455438222,
+      "broadband_joint": 0.22372389486864686,
+      "factorized_joint": 0.43670085753373467
+    },
+    "audio_partner_scene": "development-056"
+  },
+  {
+    "scene_id": "development-051",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.4342547907543632,
+      "pooled_spatial": 0.7236795050459116,
+      "broadband_joint": 0.18966833411515516,
+      "factorized_joint": 0.36554323113263737
+    },
+    "audio_partner_scene": "development-056"
+  },
+  {
+    "scene_id": "development-051",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4368631324443008,
+      "pooled_spatial": 0.754978061679482,
+      "broadband_joint": 0.6969772739608713,
+      "factorized_joint": 0.7799821887605216
+    },
+    "audio_partner_scene": "development-056"
+  },
+  {
+    "scene_id": "development-052",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.3229824685184122,
+      "pooled_spatial": 0.8562416716367728,
+      "broadband_joint": 0.18698280829970165,
+      "factorized_joint": 0.5347758555536285
+    },
+    "audio_partner_scene": "development-053"
+  },
+  {
+    "scene_id": "development-052",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.3229072274590102,
+      "pooled_spatial": 0.875581747100923,
+      "broadband_joint": 0.3208563638431401,
+      "factorized_joint": 0.5917368700160357
+    },
+    "audio_partner_scene": "development-053"
+  },
+  {
+    "scene_id": "development-052",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.46115661988452084,
+      "pooled_spatial": 0.8556570674510579,
+      "broadband_joint": 0.2980272656517654,
+      "factorized_joint": 0.6249210744805382
+    },
+    "audio_partner_scene": "development-053"
+  },
+  {
+    "scene_id": "development-052",
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.46178288044527027,
+      "pooled_spatial": 0.8753143058253116,
+      "broadband_joint": 0.21476316893588127,
+      "factorized_joint": 0.5664438561118811
+    },
+    "audio_partner_scene": "development-053"
+  },
+  {
+    "scene_id": "development-053",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.545187574124171,
+      "pooled_spatial": -0.4366385003790853,
+      "broadband_joint": 0.035310574103330356,
+      "factorized_joint": 0.0852926166036709
+    },
+    "audio_partner_scene": "development-054"
+  },
+  {
+    "scene_id": "development-053",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5452504688625641,
+      "pooled_spatial": -0.42837972961963183,
+      "broadband_joint": 0.041639707608284726,
+      "factorized_joint": 0.08672848600481758
+    },
+    "audio_partner_scene": "development-054"
+  },
+  {
+    "scene_id": "development-053",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.520793152701135,
+      "pooled_spatial": -0.4380360656356536,
+      "broadband_joint": 0.036978545756954105,
+      "factorized_joint": 0.08107881007185946
+    },
+    "audio_partner_scene": "development-054"
+  },
+  {
+    "scene_id": "development-053",
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5207920618437637,
+      "pooled_spatial": -0.42985303283247406,
+      "broadband_joint": 0.041891100322376515,
+      "factorized_joint": 0.08312839909491943
+    },
+    "audio_partner_scene": "development-054"
+  },
+  {
+    "scene_id": "development-054",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6595089936755159,
+      "pooled_spatial": -0.4387331321087105,
+      "broadband_joint": 0.27641946284915264,
+      "factorized_joint": 0.08390145172229925
+    },
+    "audio_partner_scene": "development-055"
+  },
+  {
+    "scene_id": "development-054",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6561284718101594,
+      "pooled_spatial": -0.4449989632975531,
+      "broadband_joint": 0.27394848885593065,
+      "factorized_joint": 0.060993334535910625
+    },
+    "audio_partner_scene": "development-055"
+  },
+  {
+    "scene_id": "development-054",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.5446158115432111,
+      "pooled_spatial": -0.4395904762399371,
+      "broadband_joint": 0.17252731507151187,
+      "factorized_joint": 0.05784879711975012
+    },
+    "audio_partner_scene": "development-055"
+  },
+  {
+    "scene_id": "development-054",
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.5465421094173227,
+      "pooled_spatial": -0.4458566997564409,
+      "broadband_joint": 0.37099508699932554,
+      "factorized_joint": 0.08339594716634227
+    },
+    "audio_partner_scene": "development-055"
+  },
+  {
+    "scene_id": "development-055",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.45105997285823884,
+      "pooled_spatial": 0.8822687427004482,
+      "broadband_joint": 0.6109268508280224,
+      "factorized_joint": 0.8348049647152236
+    },
+    "audio_partner_scene": "development-004"
+  },
+  {
+    "scene_id": "development-055",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.45287286365069135,
+      "pooled_spatial": 0.8652072703467697,
+      "broadband_joint": 0.16910881598828562,
+      "factorized_joint": 0.358585463392767
+    },
+    "audio_partner_scene": "development-004"
+  },
+  {
+    "scene_id": "development-055",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.4409117255054425,
+      "pooled_spatial": 0.878410743227372,
+      "broadband_joint": 0.14840462057478213,
+      "factorized_joint": 0.36245251673308276
+    },
+    "audio_partner_scene": "development-004"
+  },
+  {
+    "scene_id": "development-055",
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4423051679256654,
+      "pooled_spatial": 0.8602805769812671,
+      "broadband_joint": 0.6026305799314021,
+      "factorized_joint": 0.8262769246342929
+    },
+    "audio_partner_scene": "development-004"
+  },
+  {
+    "scene_id": "development-056",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6820786731106481,
+      "pooled_spatial": 0.7975112878765237,
+      "broadband_joint": 0.1776745246027852,
+      "factorized_joint": 0.5607414073403924
+    },
+    "audio_partner_scene": "development-057"
+  },
+  {
+    "scene_id": "development-056",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6813605540121661,
+      "pooled_spatial": 0.8341412294124956,
+      "broadband_joint": 0.4000421650015878,
+      "factorized_joint": 0.6970579132409437
+    },
+    "audio_partner_scene": "development-057"
+  },
+  {
+    "scene_id": "development-056",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7771059600318689,
+      "pooled_spatial": 0.8103488978855137,
+      "broadband_joint": 0.3930105238778162,
+      "factorized_joint": 0.6955100452260723
+    },
+    "audio_partner_scene": "development-057"
+  },
+  {
+    "scene_id": "development-056",
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7773193324084365,
+      "pooled_spatial": 0.8423109091730651,
+      "broadband_joint": 0.2518591355887341,
+      "factorized_joint": 0.5969428883376351
+    },
+    "audio_partner_scene": "development-057"
+  },
+  {
+    "scene_id": "development-057",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.7234560189579224,
+      "pooled_spatial": -0.45604205201846576,
+      "broadband_joint": 0.019309899632813186,
+      "factorized_joint": 0.061124974564481606
+    },
+    "audio_partner_scene": "development-058"
+  },
+  {
+    "scene_id": "development-057",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.7231977697902455,
+      "pooled_spatial": -0.4519010891055024,
+      "broadband_joint": 0.015864025660390246,
+      "factorized_joint": 0.052381297563511446
+    },
+    "audio_partner_scene": "development-058"
+  },
+  {
+    "scene_id": "development-057",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.6776061557542005,
+      "pooled_spatial": -0.4511835274738419,
+      "broadband_joint": 0.01781567810707791,
+      "factorized_joint": 0.05467539759386713
+    },
+    "audio_partner_scene": "development-058"
+  },
+  {
+    "scene_id": "development-057",
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6773274105213724,
+      "pooled_spatial": -0.4471088942335921,
+      "broadband_joint": 0.012172611756590367,
+      "factorized_joint": 0.04264139117226051
+    },
+    "audio_partner_scene": "development-058"
+  },
+  {
+    "scene_id": "development-058",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.6895876752246151,
+      "pooled_spatial": -0.30417957203446594,
+      "broadband_joint": 0.2609751064550907,
+      "factorized_joint": 0.15209697778116013
+    },
+    "audio_partner_scene": "development-059"
+  },
+  {
+    "scene_id": "development-058",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.689720960598124,
+      "pooled_spatial": -0.3544274657549294,
+      "broadband_joint": 0.23716594713330907,
+      "factorized_joint": 0.12639586616456658
+    },
+    "audio_partner_scene": "development-059"
+  },
+  {
+    "scene_id": "development-058",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.43081662198678616,
+      "pooled_spatial": -0.30494736253992244,
+      "broadband_joint": 0.21508361943213464,
+      "factorized_joint": 0.1470319697654216
+    },
+    "audio_partner_scene": "development-059"
+  },
+  {
+    "scene_id": "development-058",
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.42970674308337514,
+      "pooled_spatial": -0.35503387870460107,
+      "broadband_joint": 0.20186831213134762,
+      "factorized_joint": 0.1330941891775609
+    },
+    "audio_partner_scene": "development-059"
+  },
+  {
+    "scene_id": "development-059",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "scores": {
+      "temporal": 0.4209344360644787,
+      "pooled_spatial": 0.8186902248155645,
+      "broadband_joint": 0.6787295377127273,
+      "factorized_joint": 0.7617330886080486
+    },
+    "audio_partner_scene": "development-000"
+  },
+  {
+    "scene_id": "development-059",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "scores": {
+      "temporal": 0.4316104694640891,
+      "pooled_spatial": 0.8103841647089741,
+      "broadband_joint": 0.15702382959823502,
+      "factorized_joint": 0.32534198087842087
+    },
+    "audio_partner_scene": "development-000"
+  },
+  {
+    "scene_id": "development-059",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "scores": {
+      "temporal": 0.3737254914714414,
+      "pooled_spatial": 0.8112078522929469,
+      "broadband_joint": 0.1858921351625128,
+      "factorized_joint": 0.35672168097017126
+    },
+    "audio_partner_scene": "development-000"
+  },
+  {
+    "scene_id": "development-059",
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "scores": {
+      "temporal": 0.3876166521282514,
+      "pooled_spatial": 0.79730839139749,
+      "broadband_joint": 0.6510162557384225,
+      "factorized_joint": 0.7161155369685371
+    },
+    "audio_partner_scene": "development-000"
+  }
+]

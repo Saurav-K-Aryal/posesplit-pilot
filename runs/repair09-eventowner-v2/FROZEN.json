@@ -1,0 +1,8 @@
+{
+  "status": "frozen_before_confirmation",
+  "code_sha256": "9373cffc273885bf55b4356775e2c97895b0747a590323b02a9ed677f13db8e8",
+  "protocol_sha256": "f05a2f82e9735cc5c8015985846ecab07e0e61383114cbe5c3c5d3d75725363b",
+  "development_result_sha256": "9c51d80345a80962f906e6629117fb2017822c9961f14d0a5c253e0bc8d71601",
+  "thresholds_sha256": "42f90e379571618db3e80eabe69e2cccd0f1a3b5ef379f1ddb0e042efdbb6654",
+  "utc_unix": 1793543668.679887
+}

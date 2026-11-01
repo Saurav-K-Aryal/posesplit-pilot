@@ -1,6 +1,5 @@
+Current manuscript: EventOwner An Exact Marginal Pilot of Audio Visual Source Ownership
 Subject: Computer Science and Mathematics
-Topic within Subject: Artificial Intelligence and Machine Learning
-Optional MDPI Topic: Visual Computing for Autonomous Systems
-Topic URL: https://www.mdpi.com/topics/143JD9K0Q7
-Scope fit: Optional: Visual Computing for Autonomous Systems has only a secondary fit through the planned audio-visual extension. Leaving it unselected is reasonable for the current pilot manuscript.
-Author-recommended metadata; no preprint submission has been made.
+Topic within subject: Artificial Intelligence and Machine Learning
+Optional MDPI topic: Select only a currently available topic that covers multimodal generation or evaluation; no optional topic is assigned in this release.
+Version date: November 1, 2026. The earlier PoseSplit preprint submission is a different manuscript, preserved in archive/posesplit_20261031. This repository update does not alter a preprint submission.

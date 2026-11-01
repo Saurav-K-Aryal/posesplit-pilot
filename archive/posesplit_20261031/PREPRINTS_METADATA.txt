@@ -1,0 +1,6 @@
+Subject: Computer Science and Mathematics
+Topic within Subject: Artificial Intelligence and Machine Learning
+Optional MDPI Topic: Visual Computing for Autonomous Systems
+Topic URL: https://www.mdpi.com/topics/143JD9K0Q7
+Scope fit: Optional: Visual Computing for Autonomous Systems has only a secondary fit through the planned audio-visual extension. Leaving it unselected is reasonable for the current pilot manuscript.
+Author-recommended metadata; no preprint submission has been made.

@@ -1,0 +1,189 @@
+{
+  "audit": "Independent marginal/BA/cluster-bootstrap arithmetic plus deterministic raw media regeneration and score replay using frozen renderer.",
+  "scenes": 120,
+  "pairs": 480,
+  "freeze_checks": {
+    "code": true,
+    "protocol": true,
+    "thresholds": true
+  },
+  "marginal_errors": [],
+  "unimodal_BA_exact_pairing": 0.5,
+  "methods": {
+    "temporal": {
+      "balanced_accuracy": 0.5,
+      "strata": {
+        "near_colocated": 0.5,
+        "occluded": 0.5,
+        "overlap": 0.5,
+        "separated": 0.5
+      },
+      "scene_bootstrap_95_percentile": [
+        0.5,
+        0.5
+      ]
+    },
+    "pooled_spatial": {
+      "balanced_accuracy": 0.5104166666666666,
+      "strata": {
+        "near_colocated": 0.5,
+        "occluded": 0.525,
+        "overlap": 0.5,
+        "separated": 0.5166666666666667
+      },
+      "scene_bootstrap_95_percentile": [
+        0.5,
+        0.5208333333333334
+      ]
+    },
+    "broadband_joint": {
+      "balanced_accuracy": 0.7708333333333334,
+      "strata": {
+        "near_colocated": 0.5,
+        "occluded": 1.0,
+        "overlap": 0.6,
+        "separated": 0.9833333333333333
+      },
+      "scene_bootstrap_95_percentile": [
+        0.725,
+        0.8166666666666667
+      ]
+    },
+    "factorized_joint": {
+      "balanced_accuracy": 0.80625,
+      "strata": {
+        "near_colocated": 0.6333333333333333,
+        "occluded": 1.0,
+        "overlap": 0.5916666666666667,
+        "separated": 1.0
+      },
+      "scene_bootstrap_95_percentile": [
+        0.7645833333333333,
+        0.8479166666666667
+      ]
+    }
+  },
+  "factorized_minus_broadband_scene_CI": [
+    0.00625,
+    0.06458333333333334
+  ],
+  "random_media_checks": [
+    {
+      "scene": "confirmation-014",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-014",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-035",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-035",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-041",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-041",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-052",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-052",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-088",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-088",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-094",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-094",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-099",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-099",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-105",
+      "assignment": 0,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    },
+    {
+      "scene": "confirmation-105",
+      "assignment": 1,
+      "pixels_exact": true,
+      "PCM_exact": true,
+      "all_four_pair_scores_replayed": true
+    }
+  ],
+  "limitations": [
+    "Renderer replay is consistency verification, not independent physical validation.",
+    "Common-rig calibrated procedural sources; no generative-model quality or real transfer demonstrated.",
+    "Near-colocation and overlap weaknesses must remain in claims."
+  ]
+}

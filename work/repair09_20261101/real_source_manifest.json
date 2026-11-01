@@ -1,0 +1,169 @@
+{
+  "status": "predeclared_before_exploratory_scoring",
+  "selection_rule": "All9 already downloaded STARSS23 official dev-train recordings from PoseSplit, first8 nonoverlapping4-second windows from0sec; no source/activity/score filtering. Previously exposed room/recording cohort.",
+  "source_provenance": "outputs/task09_pose_split/source_readback.json and protocol.json; STARSS23 Zenodo5896854 2023development sources; upstream terms retained.",
+  "records": [
+    {
+      "recording": "fold3_room12_mix001",
+      "room": "room12",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room12_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room12_mix001.mp4",
+      "audio_sha256": "a507f9f912ab6f28ec83bdedd174d2696206b5d61a69bc965f9ae88d856965e0",
+      "video_sha256": "3d5e26322d98c8a2fb104da7873c7af475fc3e88eec9c3993d270a33b7385392",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room13_mix001",
+      "room": "room13",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room13_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room13_mix001.mp4",
+      "audio_sha256": "6530a0a681e3d702df3489a293f4d66c53ae6f557d8d0b6abc4e9fe53e7322ed",
+      "video_sha256": "fd4a55011563f1c60026aff63219ea672bd3817d2330a57deeea115ed9efe62a",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room14_mix001",
+      "room": "room14",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room14_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room14_mix001.mp4",
+      "audio_sha256": "a18aaff1562a5a1dc8f568f2bbc2bb40c12b66675aca306a2bbc504d26d9a900",
+      "video_sha256": "1fbdc37867980c2072458892bfb9fb2c1199e8ff170b9e273fb7237a1985ef42",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room21_mix013",
+      "room": "room21",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-sony/fold3_room21_mix013.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-sony/fold3_room21_mix013.mp4",
+      "audio_sha256": "fd85d0459e75067f18a60c77d6bfa4484188da0b8317140292ec149c27666cf7",
+      "video_sha256": "cdbe955f5edf520f8f2c60cc00096d4a5f435d60629242d2e08eb7fe382d3b5a",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room22_mix001",
+      "room": "room22",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-sony/fold3_room22_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-sony/fold3_room22_mix001.mp4",
+      "audio_sha256": "5a7f8f5530bb175765b9993a12e1f1b4abc582c637480c8a60082b4778e78ec3",
+      "video_sha256": "b2d686f447719b11c0217640196a56261d6b1320b989f13aa42dbac27bbec7f2",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room4_mix001",
+      "room": "room4",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room4_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room4_mix001.mp4",
+      "audio_sha256": "347be0340b1c3f359be0ea0e1c9d19e7f12194c8de5a3af779bb64ab8728fd19",
+      "video_sha256": "7c841574825477815d42a3f6aac68dd41f1f5edffb46a88bedcee91d7b56711c",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room6_mix001",
+      "room": "room6",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room6_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room6_mix001.mp4",
+      "audio_sha256": "0817234df2476146a550790c842a923b4f7452be648fbb6aa63eaaced9cafea3",
+      "video_sha256": "9fe70a3cc38047f95a1d90c0667085a1b8c6a87a3e1751d1aea26b3d563e87e6",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room7_mix001",
+      "room": "room7",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room7_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room7_mix001.mp4",
+      "audio_sha256": "67625377795a1c5fed508818e24af4c9ccb69e3c80e0fe7d3c24d850c8526d0b",
+      "video_sha256": "adf20d19ef4d58af199983fcb2e4905801845ddd9732ad78bba35922e7311b6f",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    },
+    {
+      "recording": "fold3_room9_mix001",
+      "room": "room9",
+      "audio_path": "runs/posesplit-replay-20261031-224439-47675/sources/foa_dev/dev-train-tau/fold3_room9_mix001.wav",
+      "video_path": "runs/posesplit-replay-20261031-224439-47675/sources/video_dev/dev-train-tau/fold3_room9_mix001.mp4",
+      "audio_sha256": "1c74ccd1eea092f0703bbe73206daef427a81d2e6a497a4340ed82d9733f3df6",
+      "video_sha256": "b73f65e46b05c7a1fbeb5f7ae30c6eea1e30a501f8977e5c89d431e41960e8b1",
+      "start_seconds": [
+        0.0,
+        4.0,
+        8.0,
+        12.0,
+        16.0,
+        20.0,
+        24.0,
+        28.0
+      ]
+    }
+  ]
+}

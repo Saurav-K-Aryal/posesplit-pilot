@@ -1,0 +1,4082 @@
+[
+  {
+    "scene_id": "development-000",
+    "index": 0,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "49a4736256bbc8aa21118bb351478f785e34c1be56685587e95a99246ee99b34",
+    "audio_hash": "befd904ff050426428b753d8e87c05843575bf9dd424d885e2b30d4734ea21bb",
+    "scores": {
+      "temporal": 0.9368067803069386,
+      "pooled_spatial": 0.9430586264693441,
+      "broadband_joint": 0.7146888183216031,
+      "factorized_joint": 0.9160101968544929
+    }
+  },
+  {
+    "scene_id": "development-000",
+    "index": 0,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "49a4736256bbc8aa21118bb351478f785e34c1be56685587e95a99246ee99b34",
+    "audio_hash": "4314aca8b408c27e2c49ae5869783fcba6cb41d1b4e84bda3d3e03789fd6b84e",
+    "scores": {
+      "temporal": 0.9365753976613235,
+      "pooled_spatial": 0.9348554550143828,
+      "broadband_joint": 0.17474825122662938,
+      "factorized_joint": 0.4283784118788363
+    }
+  },
+  {
+    "scene_id": "development-000",
+    "index": 0,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "bfca7405142bc1f0cf83d1d235902abeb3533b26d021e538567898ff15122791",
+    "audio_hash": "befd904ff050426428b753d8e87c05843575bf9dd424d885e2b30d4734ea21bb",
+    "scores": {
+      "temporal": 0.9217782192329317,
+      "pooled_spatial": 0.9425362289927732,
+      "broadband_joint": 0.17559178086804889,
+      "factorized_joint": 0.4478617837868133
+    }
+  },
+  {
+    "scene_id": "development-000",
+    "index": 0,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "bfca7405142bc1f0cf83d1d235902abeb3533b26d021e538567898ff15122791",
+    "audio_hash": "4314aca8b408c27e2c49ae5869783fcba6cb41d1b4e84bda3d3e03789fd6b84e",
+    "scores": {
+      "temporal": 0.9252090358106198,
+      "pooled_spatial": 0.9369436892591483,
+      "broadband_joint": 0.708695167106244,
+      "factorized_joint": 0.9001156440596554
+    }
+  },
+  {
+    "scene_id": "development-001",
+    "index": 1,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "994c140107b7cbe9a44773ebea06150910f5a6c46b32bebcc071e84f01110ac0",
+    "audio_hash": "f37dfa6fbba6d910e3d80b7957b027bb593e1b1d5d531ec86a14063ac554e52c",
+    "scores": {
+      "temporal": 0.9718036441025516,
+      "pooled_spatial": 0.9256510876174349,
+      "broadband_joint": 0.5066213316147783,
+      "factorized_joint": 0.8934372313092765
+    }
+  },
+  {
+    "scene_id": "development-001",
+    "index": 1,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "994c140107b7cbe9a44773ebea06150910f5a6c46b32bebcc071e84f01110ac0",
+    "audio_hash": "5694fd6026e005f9476222d0748a8983ff1f0502af36412e3117d85131504263",
+    "scores": {
+      "temporal": 0.9714723576976091,
+      "pooled_spatial": 0.9326756332725786,
+      "broadband_joint": 0.2943681380686355,
+      "factorized_joint": 0.7367347536494322
+    }
+  },
+  {
+    "scene_id": "development-001",
+    "index": 1,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "c99a731c4bd9715bb06594c0904ab044cf42ce6d28a2080a823d4c698249b898",
+    "audio_hash": "f37dfa6fbba6d910e3d80b7957b027bb593e1b1d5d531ec86a14063ac554e52c",
+    "scores": {
+      "temporal": 0.9775432801115266,
+      "pooled_spatial": 0.9202044464747078,
+      "broadband_joint": 0.28718812794136533,
+      "factorized_joint": 0.7482563957018564
+    }
+  },
+  {
+    "scene_id": "development-001",
+    "index": 1,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "c99a731c4bd9715bb06594c0904ab044cf42ce6d28a2080a823d4c698249b898",
+    "audio_hash": "5694fd6026e005f9476222d0748a8983ff1f0502af36412e3117d85131504263",
+    "scores": {
+      "temporal": 0.9773690606986722,
+      "pooled_spatial": 0.9284781421115331,
+      "broadband_joint": 0.48975990081106713,
+      "factorized_joint": 0.9018078288552965
+    }
+  },
+  {
+    "scene_id": "development-002",
+    "index": 2,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "7dc967b05f83f3acbc5d6fb395624e0b8763c1a29a8e9813a49c4587792289ad",
+    "audio_hash": "b95e92800ce4210fa4db879cd16e507167a0e5a26e14e0eb5ef9ca57d1b6b414",
+    "scores": {
+      "temporal": 0.9508565914296163,
+      "pooled_spatial": 0.7873583272017388,
+      "broadband_joint": 0.6340636382604802,
+      "factorized_joint": 0.7032320095782227
+    }
+  },
+  {
+    "scene_id": "development-002",
+    "index": 2,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "7dc967b05f83f3acbc5d6fb395624e0b8763c1a29a8e9813a49c4587792289ad",
+    "audio_hash": "e52b2f1f22fa5305d9dd184dbba4767846e7843ca5830a4d729957647868f229",
+    "scores": {
+      "temporal": 0.9509100311246672,
+      "pooled_spatial": 0.786992082726864,
+      "broadband_joint": 0.616074784308779,
+      "factorized_joint": 0.6780725921913565
+    }
+  },
+  {
+    "scene_id": "development-002",
+    "index": 2,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "15c45d4b76d6f60d53bb347b8026f625113f731547c43fa59c2bf2c5cd284bdc",
+    "audio_hash": "b95e92800ce4210fa4db879cd16e507167a0e5a26e14e0eb5ef9ca57d1b6b414",
+    "scores": {
+      "temporal": 0.9538885885663223,
+      "pooled_spatial": 0.7860423101617394,
+      "broadband_joint": 0.6541053075726451,
+      "factorized_joint": 0.7216078021714699
+    }
+  },
+  {
+    "scene_id": "development-002",
+    "index": 2,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "15c45d4b76d6f60d53bb347b8026f625113f731547c43fa59c2bf2c5cd284bdc",
+    "audio_hash": "e52b2f1f22fa5305d9dd184dbba4767846e7843ca5830a4d729957647868f229",
+    "scores": {
+      "temporal": 0.9539743159443883,
+      "pooled_spatial": 0.785827261798395,
+      "broadband_joint": 0.7025123100295967,
+      "factorized_joint": 0.7542284248837783
+    }
+  },
+  {
+    "scene_id": "development-003",
+    "index": 3,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "cd9469c2345d0a9ddbd806e1889b5b187bbcdcac8e9ec85ae2d6838453bf90eb",
+    "audio_hash": "28f31bb4aa3a1809fe76dc8da35fcdb04ede5ff6d018cd55d0a2e734fe0cba30",
+    "scores": {
+      "temporal": 0.8655709824345876,
+      "pooled_spatial": 0.8830965525086365,
+      "broadband_joint": 0.6845620725001696,
+      "factorized_joint": 0.8652925053162057
+    }
+  },
+  {
+    "scene_id": "development-003",
+    "index": 3,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "cd9469c2345d0a9ddbd806e1889b5b187bbcdcac8e9ec85ae2d6838453bf90eb",
+    "audio_hash": "adb6850c12fd8fea32d3b49869b88093a8bb352c559d68c1ccf02e38763f8f41",
+    "scores": {
+      "temporal": 0.864303003139929,
+      "pooled_spatial": 0.8462262299385608,
+      "broadband_joint": 0.21034144221567333,
+      "factorized_joint": 0.4441001709402186
+    }
+  },
+  {
+    "scene_id": "development-003",
+    "index": 3,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "b20c11a6c07ed4e2e085d07456bdb7762098b36d775712d927f3452bae8bde27",
+    "audio_hash": "28f31bb4aa3a1809fe76dc8da35fcdb04ede5ff6d018cd55d0a2e734fe0cba30",
+    "scores": {
+      "temporal": 0.8482867880647998,
+      "pooled_spatial": 0.8898751594248269,
+      "broadband_joint": 0.1939946414415242,
+      "factorized_joint": 0.4337562298224029
+    }
+  },
+  {
+    "scene_id": "development-003",
+    "index": 3,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "b20c11a6c07ed4e2e085d07456bdb7762098b36d775712d927f3452bae8bde27",
+    "audio_hash": "adb6850c12fd8fea32d3b49869b88093a8bb352c559d68c1ccf02e38763f8f41",
+    "scores": {
+      "temporal": 0.8483700281334502,
+      "pooled_spatial": 0.8551047655677785,
+      "broadband_joint": 0.6578284506642395,
+      "factorized_joint": 0.8763602069630848
+    }
+  },
+  {
+    "scene_id": "development-004",
+    "index": 4,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "bb46cfe1a97878147bfa083a6df5024f98b619cb5e476f224ae60213c54de61e",
+    "audio_hash": "5f39d8d7956844f860464c8f9e6be2c11d7e07defa862d5c550a6949538524f5",
+    "scores": {
+      "temporal": 0.927565773276275,
+      "pooled_spatial": 0.9535482405470153,
+      "broadband_joint": 0.826038477550134,
+      "factorized_joint": 0.955709224058439
+    }
+  },
+  {
+    "scene_id": "development-004",
+    "index": 4,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "bb46cfe1a97878147bfa083a6df5024f98b619cb5e476f224ae60213c54de61e",
+    "audio_hash": "ef721c2ff3a2e922b54aeb1db62f4af791608f2c728b10c17a48a29c7e77eded",
+    "scores": {
+      "temporal": 0.9265498855158872,
+      "pooled_spatial": 0.9577597550414574,
+      "broadband_joint": 0.10629611920378768,
+      "factorized_joint": 0.26800538536384644
+    }
+  },
+  {
+    "scene_id": "development-004",
+    "index": 4,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "cfaef26ecde9df1c31e029a41ad725d5909aa2586a3e2e3c0a686e1b76094646",
+    "audio_hash": "5f39d8d7956844f860464c8f9e6be2c11d7e07defa862d5c550a6949538524f5",
+    "scores": {
+      "temporal": 0.9238554613126805,
+      "pooled_spatial": 0.9519284174813042,
+      "broadband_joint": 0.10802049873684273,
+      "factorized_joint": 0.2737196751420137
+    }
+  },
+  {
+    "scene_id": "development-004",
+    "index": 4,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "cfaef26ecde9df1c31e029a41ad725d5909aa2586a3e2e3c0a686e1b76094646",
+    "audio_hash": "ef721c2ff3a2e922b54aeb1db62f4af791608f2c728b10c17a48a29c7e77eded",
+    "scores": {
+      "temporal": 0.9251935441896122,
+      "pooled_spatial": 0.9570390334357027,
+      "broadband_joint": 0.8332560528828278,
+      "factorized_joint": 0.9581806034779248
+    }
+  },
+  {
+    "scene_id": "development-005",
+    "index": 5,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "c1736ebd0107a94931591bae894c6888281d04796acc6a423579ac008be4b097",
+    "audio_hash": "b89a9282ff9b500bffacb8fa85b9aa47a6f144112ff1c0ede52a6e492040f3d8",
+    "scores": {
+      "temporal": 0.9768438493191596,
+      "pooled_spatial": 0.9620739742434387,
+      "broadband_joint": 0.34931707898478825,
+      "factorized_joint": 0.9501904734525699
+    }
+  },
+  {
+    "scene_id": "development-005",
+    "index": 5,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "c1736ebd0107a94931591bae894c6888281d04796acc6a423579ac008be4b097",
+    "audio_hash": "dbbc202722eaf710883f3f6752f001c1f241731029c31d11d001688b3a4a0d5f",
+    "scores": {
+      "temporal": 0.9768724256309396,
+      "pooled_spatial": 0.9633911696207837,
+      "broadband_joint": 0.19765404420727095,
+      "factorized_joint": 0.8488464538995378
+    }
+  },
+  {
+    "scene_id": "development-005",
+    "index": 5,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "5fd91183277aa2472a264f8b4de40620f98e21e6da43f8289e1362aff782458b",
+    "audio_hash": "b89a9282ff9b500bffacb8fa85b9aa47a6f144112ff1c0ede52a6e492040f3d8",
+    "scores": {
+      "temporal": 0.9764402326449082,
+      "pooled_spatial": 0.9580475766073154,
+      "broadband_joint": 0.2055768270715062,
+      "factorized_joint": 0.8499939969897328
+    }
+  },
+  {
+    "scene_id": "development-005",
+    "index": 5,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "5fd91183277aa2472a264f8b4de40620f98e21e6da43f8289e1362aff782458b",
+    "audio_hash": "dbbc202722eaf710883f3f6752f001c1f241731029c31d11d001688b3a4a0d5f",
+    "scores": {
+      "temporal": 0.9764617013409564,
+      "pooled_spatial": 0.9655774378639246,
+      "broadband_joint": 0.3514950989800436,
+      "factorized_joint": 0.949338529184635
+    }
+  },
+  {
+    "scene_id": "development-006",
+    "index": 6,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "20c674834f595fa8890b52bb9b14a0b3553380710f45f8ab56675b69eb4ee619",
+    "audio_hash": "9f8729e090c618d40bae24a29ab799daeccb92fd8c91ad1ea84c7aecf6f4e5ea",
+    "scores": {
+      "temporal": 0.938209008822043,
+      "pooled_spatial": 0.9033140959513681,
+      "broadband_joint": 0.730151138847517,
+      "factorized_joint": 0.8749618901195422
+    }
+  },
+  {
+    "scene_id": "development-006",
+    "index": 6,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "20c674834f595fa8890b52bb9b14a0b3553380710f45f8ab56675b69eb4ee619",
+    "audio_hash": "56e4e1556c1b2c8f027af71e3656518f077cb02c5420676cb8dc02604a06874f",
+    "scores": {
+      "temporal": 0.9383761870513175,
+      "pooled_spatial": 0.9030914177169124,
+      "broadband_joint": 0.6778401155068834,
+      "factorized_joint": 0.8174895784266902
+    }
+  },
+  {
+    "scene_id": "development-006",
+    "index": 6,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "be5ced41ad112d8463d2cde09c24ea5424b3acabebaff3791bae23ccb7e56747",
+    "audio_hash": "9f8729e090c618d40bae24a29ab799daeccb92fd8c91ad1ea84c7aecf6f4e5ea",
+    "scores": {
+      "temporal": 0.9464993517502447,
+      "pooled_spatial": 0.902606005225944,
+      "broadband_joint": 0.6800631549325565,
+      "factorized_joint": 0.8242902690383467
+    }
+  },
+  {
+    "scene_id": "development-006",
+    "index": 6,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "be5ced41ad112d8463d2cde09c24ea5424b3acabebaff3791bae23ccb7e56747",
+    "audio_hash": "56e4e1556c1b2c8f027af71e3656518f077cb02c5420676cb8dc02604a06874f",
+    "scores": {
+      "temporal": 0.946783535420939,
+      "pooled_spatial": 0.9023306832329412,
+      "broadband_joint": 0.7276703083912479,
+      "factorized_joint": 0.8742702236673463
+    }
+  },
+  {
+    "scene_id": "development-007",
+    "index": 7,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "36eb9065d523cb75c934151663fc20f42ff9c86d72c66b1688d892ff22f16270",
+    "audio_hash": "7b302025a9bd9d0f7ff0854b05f5e22b1d97ed5184e94c1f98d529f91b6afee3",
+    "scores": {
+      "temporal": 0.8483823351282397,
+      "pooled_spatial": 0.8482584129825448,
+      "broadband_joint": 0.8212433334981377,
+      "factorized_joint": 0.9024013820916063
+    }
+  },
+  {
+    "scene_id": "development-007",
+    "index": 7,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "36eb9065d523cb75c934151663fc20f42ff9c86d72c66b1688d892ff22f16270",
+    "audio_hash": "329df2b734252198e3f43b05b6a9118071e17d1a1193a77e473061339876f32b",
+    "scores": {
+      "temporal": 0.8467662802264401,
+      "pooled_spatial": 0.8094450743550674,
+      "broadband_joint": 0.165900296489917,
+      "factorized_joint": 0.33643051102045807
+    }
+  },
+  {
+    "scene_id": "development-007",
+    "index": 7,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "7203256bda281a23c32f225044caa8493f677d53dcc33cbcc8563352233f60b6",
+    "audio_hash": "7b302025a9bd9d0f7ff0854b05f5e22b1d97ed5184e94c1f98d529f91b6afee3",
+    "scores": {
+      "temporal": 0.8659343134826545,
+      "pooled_spatial": 0.857276650046491,
+      "broadband_joint": 0.1589401895668948,
+      "factorized_joint": 0.3275636434315681
+    }
+  },
+  {
+    "scene_id": "development-007",
+    "index": 7,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "7203256bda281a23c32f225044caa8493f677d53dcc33cbcc8563352233f60b6",
+    "audio_hash": "329df2b734252198e3f43b05b6a9118071e17d1a1193a77e473061339876f32b",
+    "scores": {
+      "temporal": 0.868355644424964,
+      "pooled_spatial": 0.8221312579049207,
+      "broadband_joint": 0.8064098435038113,
+      "factorized_joint": 0.8980761353627897
+    }
+  },
+  {
+    "scene_id": "development-008",
+    "index": 8,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "c13b3c4fbeb9ba689dab0a089b53cc088d15ec4137001bc6860e2c277638dec7",
+    "audio_hash": "e06e0ae0f87f475a354bfee0759a0e1089fbd532943d77a2c64654e032b310cb",
+    "scores": {
+      "temporal": 0.9701379628599928,
+      "pooled_spatial": 0.94774990060639,
+      "broadband_joint": 0.6718524452793725,
+      "factorized_joint": 0.9302190654318516
+    }
+  },
+  {
+    "scene_id": "development-008",
+    "index": 8,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "c13b3c4fbeb9ba689dab0a089b53cc088d15ec4137001bc6860e2c277638dec7",
+    "audio_hash": "48d8dd5791843ffa02b643084de55ca9839d350be1cfd06f26fa0ec387ea10d1",
+    "scores": {
+      "temporal": 0.9680234804029367,
+      "pooled_spatial": 0.9545931767749072,
+      "broadband_joint": 0.18024141420915518,
+      "factorized_joint": 0.5177214108372333
+    }
+  },
+  {
+    "scene_id": "development-008",
+    "index": 8,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "08d431cfa0b5bcdecaddb6d90466875fec76f6a735d4198ac67018236609542e",
+    "audio_hash": "e06e0ae0f87f475a354bfee0759a0e1089fbd532943d77a2c64654e032b310cb",
+    "scores": {
+      "temporal": 0.9573813901397245,
+      "pooled_spatial": 0.9452407819512358,
+      "broadband_joint": 0.17830824347955287,
+      "factorized_joint": 0.5071071152128834
+    }
+  },
+  {
+    "scene_id": "development-008",
+    "index": 8,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "08d431cfa0b5bcdecaddb6d90466875fec76f6a735d4198ac67018236609542e",
+    "audio_hash": "48d8dd5791843ffa02b643084de55ca9839d350be1cfd06f26fa0ec387ea10d1",
+    "scores": {
+      "temporal": 0.9611015209117304,
+      "pooled_spatial": 0.9525090071684924,
+      "broadband_joint": 0.675743853092105,
+      "factorized_joint": 0.9288590165910606
+    }
+  },
+  {
+    "scene_id": "development-009",
+    "index": 9,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "57451cea9f1616b2a826bd8c74c95d025d54e2fcaae33212c8c27c4ada6c3967",
+    "audio_hash": "1483e57c88291853679891ff75ecf08125c800de436ffd12866344c04562f74e",
+    "scores": {
+      "temporal": 0.9865941827135402,
+      "pooled_spatial": 0.9156528841228228,
+      "broadband_joint": 0.44116859246928924,
+      "factorized_joint": 0.8936731609056268
+    }
+  },
+  {
+    "scene_id": "development-009",
+    "index": 9,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "57451cea9f1616b2a826bd8c74c95d025d54e2fcaae33212c8c27c4ada6c3967",
+    "audio_hash": "92f0b382c07db07c1c4944908a60234fcc5e6fe60cda70fde1b6cc7f4ecb2085",
+    "scores": {
+      "temporal": 0.9865821170652447,
+      "pooled_spatial": 0.9134211370597947,
+      "broadband_joint": 0.30968410287718784,
+      "factorized_joint": 0.791663361963253
+    }
+  },
+  {
+    "scene_id": "development-009",
+    "index": 9,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "65e85b17dfa37b23c7cf22bd2dbd573fba4139794348f03b166564f0bd3f15d2",
+    "audio_hash": "1483e57c88291853679891ff75ecf08125c800de436ffd12866344c04562f74e",
+    "scores": {
+      "temporal": 0.9870306512465898,
+      "pooled_spatial": 0.9137931782311013,
+      "broadband_joint": 0.3115707807211255,
+      "factorized_joint": 0.7925078839816717
+    }
+  },
+  {
+    "scene_id": "development-009",
+    "index": 9,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "65e85b17dfa37b23c7cf22bd2dbd573fba4139794348f03b166564f0bd3f15d2",
+    "audio_hash": "92f0b382c07db07c1c4944908a60234fcc5e6fe60cda70fde1b6cc7f4ecb2085",
+    "scores": {
+      "temporal": 0.987055946170497,
+      "pooled_spatial": 0.9142999856826104,
+      "broadband_joint": 0.46172067125019023,
+      "factorized_joint": 0.8913815641834641
+    }
+  },
+  {
+    "scene_id": "development-010",
+    "index": 10,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "9b4dc2941dace9770870e98b1cb668e88b88db94d48c86d0f1e7d90ff78d521b",
+    "audio_hash": "7a370705026a66881ed2b2077e70d765efb1e1ceee7d8456358df53140ad5fa1",
+    "scores": {
+      "temporal": 0.8941253284727824,
+      "pooled_spatial": 0.891428860535464,
+      "broadband_joint": 0.6673932987891643,
+      "factorized_joint": 0.7863296714785848
+    }
+  },
+  {
+    "scene_id": "development-010",
+    "index": 10,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "9b4dc2941dace9770870e98b1cb668e88b88db94d48c86d0f1e7d90ff78d521b",
+    "audio_hash": "fa5b4810f1d5b1650221a94f202875f23ec96a4146b786e508f1c558d1f67c99",
+    "scores": {
+      "temporal": 0.8945906433846722,
+      "pooled_spatial": 0.8901070049219155,
+      "broadband_joint": 0.6061749622440942,
+      "factorized_joint": 0.7378110680011705
+    }
+  },
+  {
+    "scene_id": "development-010",
+    "index": 10,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "d217687bdfd6d79474273c060958532884e1f1a5cfede66a28312c8c70a08fdc",
+    "audio_hash": "7a370705026a66881ed2b2077e70d765efb1e1ceee7d8456358df53140ad5fa1",
+    "scores": {
+      "temporal": 0.8281004576772004,
+      "pooled_spatial": 0.8926411718353033,
+      "broadband_joint": 0.6107788775748006,
+      "factorized_joint": 0.7206099256221953
+    }
+  },
+  {
+    "scene_id": "development-010",
+    "index": 10,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "d217687bdfd6d79474273c060958532884e1f1a5cfede66a28312c8c70a08fdc",
+    "audio_hash": "fa5b4810f1d5b1650221a94f202875f23ec96a4146b786e508f1c558d1f67c99",
+    "scores": {
+      "temporal": 0.8283236653409515,
+      "pooled_spatial": 0.8912983499663166,
+      "broadband_joint": 0.6293583932331535,
+      "factorized_joint": 0.7534874897145171
+    }
+  },
+  {
+    "scene_id": "development-011",
+    "index": 11,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "36c87ee1948c93a03a51ceaef10f918b1f86f8e9a5827e3538e8f194dc7c7393",
+    "audio_hash": "20470165a84d7bec23122d9c3390ce2a74a130ec3ac09e206d6d6f7b9037476f",
+    "scores": {
+      "temporal": 0.8392236084868951,
+      "pooled_spatial": 0.9099608456478595,
+      "broadband_joint": 0.6335664961687139,
+      "factorized_joint": 0.8470258944765866
+    }
+  },
+  {
+    "scene_id": "development-011",
+    "index": 11,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "36c87ee1948c93a03a51ceaef10f918b1f86f8e9a5827e3538e8f194dc7c7393",
+    "audio_hash": "a79fd57b6fca6d3ccca2640c53ad67a3212e2780b1802c44cb2f7ea8c8160feb",
+    "scores": {
+      "temporal": 0.8414800284231447,
+      "pooled_spatial": 0.9130829393630315,
+      "broadband_joint": 0.17475593882552348,
+      "factorized_joint": 0.44851524826125155
+    }
+  },
+  {
+    "scene_id": "development-011",
+    "index": 11,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "55f811a26618c0ce3aa38f3464c2c9c2d06b0dc27b840310da912f07c201173a",
+    "audio_hash": "20470165a84d7bec23122d9c3390ce2a74a130ec3ac09e206d6d6f7b9037476f",
+    "scores": {
+      "temporal": 0.8375379553786844,
+      "pooled_spatial": 0.909047040958259,
+      "broadband_joint": 0.19300325540124721,
+      "factorized_joint": 0.45779151517389793
+    }
+  },
+  {
+    "scene_id": "development-011",
+    "index": 11,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "55f811a26618c0ce3aa38f3464c2c9c2d06b0dc27b840310da912f07c201173a",
+    "audio_hash": "a79fd57b6fca6d3ccca2640c53ad67a3212e2780b1802c44cb2f7ea8c8160feb",
+    "scores": {
+      "temporal": 0.8387715838796275,
+      "pooled_spatial": 0.91230493177733,
+      "broadband_joint": 0.67288095433134,
+      "factorized_joint": 0.8552578602333927
+    }
+  },
+  {
+    "scene_id": "development-012",
+    "index": 12,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "843527f93163161c55b0b4ce5729badbd21a4ffb9ae68f85fae85a0c137e808f",
+    "audio_hash": "aa96377e22986301ada73e7b542872255f0400b2cc22b44ff504c61c9873b9ec",
+    "scores": {
+      "temporal": 0.933015287448659,
+      "pooled_spatial": 0.8813849978734456,
+      "broadband_joint": 0.737509577177992,
+      "factorized_joint": 0.9081996741524657
+    }
+  },
+  {
+    "scene_id": "development-012",
+    "index": 12,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "843527f93163161c55b0b4ce5729badbd21a4ffb9ae68f85fae85a0c137e808f",
+    "audio_hash": "f66c43362cf94f8b166f901560fc2e5a3893962d1862032cb32452abcb97b439",
+    "scores": {
+      "temporal": 0.9334110088011529,
+      "pooled_spatial": 0.8750484575340438,
+      "broadband_joint": 0.15854744342225086,
+      "factorized_joint": 0.40580672420000635
+    }
+  },
+  {
+    "scene_id": "development-012",
+    "index": 12,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "7e9dca0f4ca987a09105809cbd67e11e52f2f00e9e8a005c2f24204eb618b312",
+    "audio_hash": "aa96377e22986301ada73e7b542872255f0400b2cc22b44ff504c61c9873b9ec",
+    "scores": {
+      "temporal": 0.9511760409857009,
+      "pooled_spatial": 0.8874736129633187,
+      "broadband_joint": 0.1627941449330963,
+      "factorized_joint": 0.3982751781850503
+    }
+  },
+  {
+    "scene_id": "development-012",
+    "index": 12,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "7e9dca0f4ca987a09105809cbd67e11e52f2f00e9e8a005c2f24204eb618b312",
+    "audio_hash": "f66c43362cf94f8b166f901560fc2e5a3893962d1862032cb32452abcb97b439",
+    "scores": {
+      "temporal": 0.949157977583843,
+      "pooled_spatial": 0.8815251906314036,
+      "broadband_joint": 0.7070553099939758,
+      "factorized_joint": 0.9334402772669423
+    }
+  },
+  {
+    "scene_id": "development-013",
+    "index": 13,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "6964aea50ca8f247de729223f0708d16079f74ba6f4293b74200ec8b00a84c3b",
+    "audio_hash": "b003c8217d36bce29f5dc4aa926fc4a0d6d4a182e3a60c206d04f7e7774266ae",
+    "scores": {
+      "temporal": 0.9812892972549059,
+      "pooled_spatial": 0.9152294632362322,
+      "broadband_joint": 0.48284616453557416,
+      "factorized_joint": 0.9323929332013156
+    }
+  },
+  {
+    "scene_id": "development-013",
+    "index": 13,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "6964aea50ca8f247de729223f0708d16079f74ba6f4293b74200ec8b00a84c3b",
+    "audio_hash": "b14c9d80b43840745006b5f854eb878bd2e9b793183249772e0e6d591eb872e4",
+    "scores": {
+      "temporal": 0.9827242149437073,
+      "pooled_spatial": 0.8913146725902369,
+      "broadband_joint": 0.24696723011669258,
+      "factorized_joint": 0.7624925913024025
+    }
+  },
+  {
+    "scene_id": "development-013",
+    "index": 13,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "19a0d40bfad6c3683de188632cc82cd750e93c5cbc7e6aaa2620acbde9bcb22f",
+    "audio_hash": "b003c8217d36bce29f5dc4aa926fc4a0d6d4a182e3a60c206d04f7e7774266ae",
+    "scores": {
+      "temporal": 0.978115538754073,
+      "pooled_spatial": 0.9097141737820852,
+      "broadband_joint": 0.2573006676813659,
+      "factorized_joint": 0.7650945694880456
+    }
+  },
+  {
+    "scene_id": "development-013",
+    "index": 13,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "19a0d40bfad6c3683de188632cc82cd750e93c5cbc7e6aaa2620acbde9bcb22f",
+    "audio_hash": "b14c9d80b43840745006b5f854eb878bd2e9b793183249772e0e6d591eb872e4",
+    "scores": {
+      "temporal": 0.9776097296269158,
+      "pooled_spatial": 0.884888194851126,
+      "broadband_joint": 0.4377208597084763,
+      "factorized_joint": 0.899452266178262
+    }
+  },
+  {
+    "scene_id": "development-014",
+    "index": 14,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "9d8e8a7b556b85bdc413d8117cd7cffebf5912cf1a843cdc8b632e2e4af41239",
+    "audio_hash": "e0411b2dc7b92a9b3ed3d0fa139760b3abeda7c109a07f08f95f67d8f7bd602f",
+    "scores": {
+      "temporal": 0.9276883272062417,
+      "pooled_spatial": 0.7824797552133512,
+      "broadband_joint": 0.7239097411118558,
+      "factorized_joint": 0.7638988086649123
+    }
+  },
+  {
+    "scene_id": "development-014",
+    "index": 14,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "9d8e8a7b556b85bdc413d8117cd7cffebf5912cf1a843cdc8b632e2e4af41239",
+    "audio_hash": "b626339c74bb896ff3b783197734733348a0ef1f81855f35560ca512783b87dd",
+    "scores": {
+      "temporal": 0.9277008563673829,
+      "pooled_spatial": 0.7820771051945391,
+      "broadband_joint": 0.6748157853461403,
+      "factorized_joint": 0.722444441151563
+    }
+  },
+  {
+    "scene_id": "development-014",
+    "index": 14,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "4f80fb58e28e0eb39e80eff04f5de33839773c53921608cfed27aea365e18c67",
+    "audio_hash": "e0411b2dc7b92a9b3ed3d0fa139760b3abeda7c109a07f08f95f67d8f7bd602f",
+    "scores": {
+      "temporal": 0.9442695397516311,
+      "pooled_spatial": 0.7809485368327037,
+      "broadband_joint": 0.7072787450651828,
+      "factorized_joint": 0.7633125846262098
+    }
+  },
+  {
+    "scene_id": "development-014",
+    "index": 14,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "4f80fb58e28e0eb39e80eff04f5de33839773c53921608cfed27aea365e18c67",
+    "audio_hash": "b626339c74bb896ff3b783197734733348a0ef1f81855f35560ca512783b87dd",
+    "scores": {
+      "temporal": 0.9441889750144774,
+      "pooled_spatial": 0.780577845940961,
+      "broadband_joint": 0.7410697438572426,
+      "factorized_joint": 0.7948808062364512
+    }
+  },
+  {
+    "scene_id": "development-015",
+    "index": 15,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "2379076456f1efe5bbb4dadc7eaa88b6fad94894a49a38926a791394654e630b",
+    "audio_hash": "459e9c563f38430f9ca815945badb688c35f4f75c5d92f6a5b457335d25e6ace",
+    "scores": {
+      "temporal": 0.9096459791089847,
+      "pooled_spatial": 0.9462428940130779,
+      "broadband_joint": 0.6655085889470107,
+      "factorized_joint": 0.9394854313117954
+    }
+  },
+  {
+    "scene_id": "development-015",
+    "index": 15,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "2379076456f1efe5bbb4dadc7eaa88b6fad94894a49a38926a791394654e630b",
+    "audio_hash": "c9cd0b2b911fb6822a3fad47ab68bbaef8a65cca7cb05823a57008764664772d",
+    "scores": {
+      "temporal": 0.9098187108862004,
+      "pooled_spatial": 0.9417626996808045,
+      "broadband_joint": 0.1271174888564277,
+      "factorized_joint": 0.4365388154930112
+    }
+  },
+  {
+    "scene_id": "development-015",
+    "index": 15,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "c29ef9c478b8148d2bca5faa3fe2bb5f64e1b41294876696b08badf493693aa5",
+    "audio_hash": "459e9c563f38430f9ca815945badb688c35f4f75c5d92f6a5b457335d25e6ace",
+    "scores": {
+      "temporal": 0.925158241677841,
+      "pooled_spatial": 0.9446537028408816,
+      "broadband_joint": 0.13197889856471218,
+      "factorized_joint": 0.44778698983590215
+    }
+  },
+  {
+    "scene_id": "development-015",
+    "index": 15,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "c29ef9c478b8148d2bca5faa3fe2bb5f64e1b41294876696b08badf493693aa5",
+    "audio_hash": "c9cd0b2b911fb6822a3fad47ab68bbaef8a65cca7cb05823a57008764664772d",
+    "scores": {
+      "temporal": 0.9247083005711864,
+      "pooled_spatial": 0.9430840613235547,
+      "broadband_joint": 0.642898065927465,
+      "factorized_joint": 0.9415319501783268
+    }
+  },
+  {
+    "scene_id": "development-016",
+    "index": 16,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "b806d427a6bb1105e131d981b96bbb5db9b016f648443cd24373940771ad6ed6",
+    "audio_hash": "cb9b59c61f8eb223736aa29c14db588a1955b92058c1a9738d22687f3ec4db8f",
+    "scores": {
+      "temporal": 0.9243905770218942,
+      "pooled_spatial": 0.8434452345402463,
+      "broadband_joint": 0.6882258948481264,
+      "factorized_joint": 0.8475206473429184
+    }
+  },
+  {
+    "scene_id": "development-016",
+    "index": 16,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "b806d427a6bb1105e131d981b96bbb5db9b016f648443cd24373940771ad6ed6",
+    "audio_hash": "fcc129ea5035dd02c22e80143ac04d27416eeb882aa7f38792e17f6c570f40ae",
+    "scores": {
+      "temporal": 0.9214858837937623,
+      "pooled_spatial": 0.8879030543892495,
+      "broadband_joint": 0.1955178033521499,
+      "factorized_joint": 0.42628385717070716
+    }
+  },
+  {
+    "scene_id": "development-016",
+    "index": 16,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "99c26033706bb08d39c0b3463f6dbd0a4068bcb2e49bfe0c2bb5172d3a2433af",
+    "audio_hash": "cb9b59c61f8eb223736aa29c14db588a1955b92058c1a9738d22687f3ec4db8f",
+    "scores": {
+      "temporal": 0.9298041898534605,
+      "pooled_spatial": 0.8351809058039937,
+      "broadband_joint": 0.17374259092283278,
+      "factorized_joint": 0.4221416411803159
+    }
+  },
+  {
+    "scene_id": "development-016",
+    "index": 16,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "99c26033706bb08d39c0b3463f6dbd0a4068bcb2e49bfe0c2bb5172d3a2433af",
+    "audio_hash": "fcc129ea5035dd02c22e80143ac04d27416eeb882aa7f38792e17f6c570f40ae",
+    "scores": {
+      "temporal": 0.9315589184750322,
+      "pooled_spatial": 0.8830059456835758,
+      "broadband_joint": 0.7142106014307175,
+      "factorized_joint": 0.8895773237361158
+    }
+  },
+  {
+    "scene_id": "development-017",
+    "index": 17,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "2180b9c770dff11ead727e185f97859367b2feba37f356e75397b1b38d34db30",
+    "audio_hash": "1898debfb6985e410da7addaf28ffb44f1c65b30da4cc200dedc1e956a684521",
+    "scores": {
+      "temporal": 0.9861380661636754,
+      "pooled_spatial": 0.8877304144375764,
+      "broadband_joint": 0.40486350894208395,
+      "factorized_joint": 0.8928791586386046
+    }
+  },
+  {
+    "scene_id": "development-017",
+    "index": 17,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "2180b9c770dff11ead727e185f97859367b2feba37f356e75397b1b38d34db30",
+    "audio_hash": "789357f0baa2794083cc5e1d8f3821c68f9b4aff2d49d1dd914a4ee9f380a7f2",
+    "scores": {
+      "temporal": 0.9859978883945624,
+      "pooled_spatial": 0.9117156679013632,
+      "broadband_joint": 0.26782161188378095,
+      "factorized_joint": 0.8074367158357632
+    }
+  },
+  {
+    "scene_id": "development-017",
+    "index": 17,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "91344dd578788fbe84f139fb9f8366fd872ca3d4952bb426b678029f0fb8a8bd",
+    "audio_hash": "1898debfb6985e410da7addaf28ffb44f1c65b30da4cc200dedc1e956a684521",
+    "scores": {
+      "temporal": 0.980099541826538,
+      "pooled_spatial": 0.8727677651944163,
+      "broadband_joint": 0.26438077740610244,
+      "factorized_joint": 0.7984313462642594
+    }
+  },
+  {
+    "scene_id": "development-017",
+    "index": 17,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "91344dd578788fbe84f139fb9f8366fd872ca3d4952bb426b678029f0fb8a8bd",
+    "audio_hash": "789357f0baa2794083cc5e1d8f3821c68f9b4aff2d49d1dd914a4ee9f380a7f2",
+    "scores": {
+      "temporal": 0.9796993015835957,
+      "pooled_spatial": 0.900613633297442,
+      "broadband_joint": 0.4042249671376493,
+      "factorized_joint": 0.8925429374031468
+    }
+  },
+  {
+    "scene_id": "development-018",
+    "index": 18,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "83f41939cea6672431be856d34e6a8bd2b862f2b2c71a63ff77de0a59af92874",
+    "audio_hash": "2bc4aa9a66b81a5af100b89d03ec43810743142a9ed9f1dd1c74131792961ed0",
+    "scores": {
+      "temporal": 0.9479343507646403,
+      "pooled_spatial": 0.882420627266467,
+      "broadband_joint": 0.6976704711206605,
+      "factorized_joint": 0.7930685534521165
+    }
+  },
+  {
+    "scene_id": "development-018",
+    "index": 18,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "83f41939cea6672431be856d34e6a8bd2b862f2b2c71a63ff77de0a59af92874",
+    "audio_hash": "5887802f810952da1a2b47a914eb98446f7a3dade991eccf3aa32708305c5d4d",
+    "scores": {
+      "temporal": 0.9477574517043308,
+      "pooled_spatial": 0.8828399062597332,
+      "broadband_joint": 0.659960392788738,
+      "factorized_joint": 0.7660703319050715
+    }
+  },
+  {
+    "scene_id": "development-018",
+    "index": 18,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "3fab88213d5d320867ec0f26735639620633b126619bf86c73d25532a0cafde0",
+    "audio_hash": "2bc4aa9a66b81a5af100b89d03ec43810743142a9ed9f1dd1c74131792961ed0",
+    "scores": {
+      "temporal": 0.9539593804782993,
+      "pooled_spatial": 0.8813736706646993,
+      "broadband_joint": 0.6339405809267746,
+      "factorized_joint": 0.7351190095087836
+    }
+  },
+  {
+    "scene_id": "development-018",
+    "index": 18,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "3fab88213d5d320867ec0f26735639620633b126619bf86c73d25532a0cafde0",
+    "audio_hash": "5887802f810952da1a2b47a914eb98446f7a3dade991eccf3aa32708305c5d4d",
+    "scores": {
+      "temporal": 0.9538653454710297,
+      "pooled_spatial": 0.8819147964293284,
+      "broadband_joint": 0.6793323054151896,
+      "factorized_joint": 0.7849066778901577
+    }
+  },
+  {
+    "scene_id": "development-019",
+    "index": 19,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "6ea67e879056dbeadb5f20d643a2c20090f1e2b3746f6154f1a051d87bd0c8bf",
+    "audio_hash": "551fc0e96985e67507087b459cdd1ea45800754e986b30e63679be0cbf0c05f6",
+    "scores": {
+      "temporal": 0.8386619223685241,
+      "pooled_spatial": 0.8606351727247364,
+      "broadband_joint": 0.5975732029450034,
+      "factorized_joint": 0.8579980900608936
+    }
+  },
+  {
+    "scene_id": "development-019",
+    "index": 19,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "6ea67e879056dbeadb5f20d643a2c20090f1e2b3746f6154f1a051d87bd0c8bf",
+    "audio_hash": "f3d3cf452d9800406a25d4aba45920042a1965fceec3029d969d4b755073e478",
+    "scores": {
+      "temporal": 0.8361540030438404,
+      "pooled_spatial": 0.91320324213857,
+      "broadband_joint": 0.17142392676090445,
+      "factorized_joint": 0.5225076480778
+    }
+  },
+  {
+    "scene_id": "development-019",
+    "index": 19,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "6aa0e510f54e690e1d76a78976f54372f2ecad5ba93f5fa4740c45693672c209",
+    "audio_hash": "551fc0e96985e67507087b459cdd1ea45800754e986b30e63679be0cbf0c05f6",
+    "scores": {
+      "temporal": 0.88666439222313,
+      "pooled_spatial": 0.8554588950280034,
+      "broadband_joint": 0.1654245286628958,
+      "factorized_joint": 0.5113195779999321
+    }
+  },
+  {
+    "scene_id": "development-019",
+    "index": 19,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "6aa0e510f54e690e1d76a78976f54372f2ecad5ba93f5fa4740c45693672c209",
+    "audio_hash": "f3d3cf452d9800406a25d4aba45920042a1965fceec3029d969d4b755073e478",
+    "scores": {
+      "temporal": 0.8868425328614551,
+      "pooled_spatial": 0.9107882826591561,
+      "broadband_joint": 0.6327823575278979,
+      "factorized_joint": 0.8981489344786128
+    }
+  },
+  {
+    "scene_id": "development-020",
+    "index": 20,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "cc23ad18c13bf86c19776c2b8531e53be4b4fb8279855262eb1f82abad4be38d",
+    "audio_hash": "8b12819ada2e14f97d10a80b2db12a0d38dd2dc79bed8f893e7138ec696cda10",
+    "scores": {
+      "temporal": 0.9522757038130822,
+      "pooled_spatial": 0.9650650993332703,
+      "broadband_joint": 0.652269921407907,
+      "factorized_joint": 0.9632760621368796
+    }
+  },
+  {
+    "scene_id": "development-020",
+    "index": 20,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "cc23ad18c13bf86c19776c2b8531e53be4b4fb8279855262eb1f82abad4be38d",
+    "audio_hash": "2dac5852a4a40ae51cc8a8cbc16ba337f6ac9ebca2ca743eafc1205edbc52075",
+    "scores": {
+      "temporal": 0.9519373563857114,
+      "pooled_spatial": 0.9603480745341691,
+      "broadband_joint": 0.1111839893802308,
+      "factorized_joint": 0.4515061712384359
+    }
+  },
+  {
+    "scene_id": "development-020",
+    "index": 20,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "5f2f3dc3d1a70c1661655ec4c88c3dda80f3f8390c509b73e058882f71f08424",
+    "audio_hash": "8b12819ada2e14f97d10a80b2db12a0d38dd2dc79bed8f893e7138ec696cda10",
+    "scores": {
+      "temporal": 0.9440474987518751,
+      "pooled_spatial": 0.9645352950647005,
+      "broadband_joint": 0.1130441267896437,
+      "factorized_joint": 0.45195336096544103
+    }
+  },
+  {
+    "scene_id": "development-020",
+    "index": 20,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "5f2f3dc3d1a70c1661655ec4c88c3dda80f3f8390c509b73e058882f71f08424",
+    "audio_hash": "2dac5852a4a40ae51cc8a8cbc16ba337f6ac9ebca2ca743eafc1205edbc52075",
+    "scores": {
+      "temporal": 0.9438220434152452,
+      "pooled_spatial": 0.9596590652374747,
+      "broadband_joint": 0.6488061363537122,
+      "factorized_joint": 0.9625053530126765
+    }
+  },
+  {
+    "scene_id": "development-021",
+    "index": 21,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "ede5af0b6a5b1f09dc6df095eb130c787bfffafd0539ff335502a840ecf04e4c",
+    "audio_hash": "10c050bc2e58df49f86e81a947f5b2bdf0218c728d25df8def204ae280260290",
+    "scores": {
+      "temporal": 0.9573747270712533,
+      "pooled_spatial": 0.8904961516456832,
+      "broadband_joint": 0.2454237996357203,
+      "factorized_joint": 0.9147189344482091
+    }
+  },
+  {
+    "scene_id": "development-021",
+    "index": 21,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "ede5af0b6a5b1f09dc6df095eb130c787bfffafd0539ff335502a840ecf04e4c",
+    "audio_hash": "5c0afcfa5633e1dc3794e9d713d361d5c2ddb3d8a797861b9e5c5da0ddedfb2d",
+    "scores": {
+      "temporal": 0.9572790204653836,
+      "pooled_spatial": 0.8928920120666071,
+      "broadband_joint": 0.15445396191493133,
+      "factorized_joint": 0.8127198993209119
+    }
+  },
+  {
+    "scene_id": "development-021",
+    "index": 21,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "90babba07905c9183da4727116b083e4ac545e1e245054092f57382645456ffb",
+    "audio_hash": "10c050bc2e58df49f86e81a947f5b2bdf0218c728d25df8def204ae280260290",
+    "scores": {
+      "temporal": 0.9665517335231562,
+      "pooled_spatial": 0.8906087876017417,
+      "broadband_joint": 0.16269534947268724,
+      "factorized_joint": 0.8082358326791566
+    }
+  },
+  {
+    "scene_id": "development-021",
+    "index": 21,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "90babba07905c9183da4727116b083e4ac545e1e245054092f57382645456ffb",
+    "audio_hash": "5c0afcfa5633e1dc3794e9d713d361d5c2ddb3d8a797861b9e5c5da0ddedfb2d",
+    "scores": {
+      "temporal": 0.9664163541929014,
+      "pooled_spatial": 0.8967428003389686,
+      "broadband_joint": 0.2687066967479007,
+      "factorized_joint": 0.8970318178247756
+    }
+  },
+  {
+    "scene_id": "development-022",
+    "index": 22,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "b4420f716e5132f8944486002dde4da3ce6c72fa53d3431812f8abd393a2e062",
+    "audio_hash": "a49d5b3b49ec3e35ffc2d15303f4b370a5ee4e516bc8d324639938427824fdf4",
+    "scores": {
+      "temporal": 0.9551071845603951,
+      "pooled_spatial": 0.7965265583298232,
+      "broadband_joint": 0.7300457548213597,
+      "factorized_joint": 0.8263894880835179
+    }
+  },
+  {
+    "scene_id": "development-022",
+    "index": 22,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "b4420f716e5132f8944486002dde4da3ce6c72fa53d3431812f8abd393a2e062",
+    "audio_hash": "ad04bacea92ad4cade1a264fc30a0c029cddd79bd34530bb3f97e9e272de6614",
+    "scores": {
+      "temporal": 0.9551577824160784,
+      "pooled_spatial": 0.7964056977038845,
+      "broadband_joint": 0.690774431704086,
+      "factorized_joint": 0.788888129607471
+    }
+  },
+  {
+    "scene_id": "development-022",
+    "index": 22,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "b9df131c510307985d9ffa6fc68e485b26f25cbbca1be79b6669c0078500b443",
+    "audio_hash": "a49d5b3b49ec3e35ffc2d15303f4b370a5ee4e516bc8d324639938427824fdf4",
+    "scores": {
+      "temporal": 0.9463763352052464,
+      "pooled_spatial": 0.7970947542151431,
+      "broadband_joint": 0.6602145446613844,
+      "factorized_joint": 0.7689412968423426
+    }
+  },
+  {
+    "scene_id": "development-022",
+    "index": 22,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "b9df131c510307985d9ffa6fc68e485b26f25cbbca1be79b6669c0078500b443",
+    "audio_hash": "ad04bacea92ad4cade1a264fc30a0c029cddd79bd34530bb3f97e9e272de6614",
+    "scores": {
+      "temporal": 0.9464403048748202,
+      "pooled_spatial": 0.797032448878514,
+      "broadband_joint": 0.703785797208835,
+      "factorized_joint": 0.7994536005807337
+    }
+  },
+  {
+    "scene_id": "development-023",
+    "index": 23,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "981005134651ca8daa558b13bab5b88bf8f8d8daf70e4c312fda5359b808e7f3",
+    "audio_hash": "1c66dfd253194de1475dc26ee0a2eb6b34ea930a8f1fe2adc66dd2dd117a3bb2",
+    "scores": {
+      "temporal": 0.9531145126897077,
+      "pooled_spatial": 0.9157140137963701,
+      "broadband_joint": 0.6902050054491329,
+      "factorized_joint": 0.9137808734966738
+    }
+  },
+  {
+    "scene_id": "development-023",
+    "index": 23,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "981005134651ca8daa558b13bab5b88bf8f8d8daf70e4c312fda5359b808e7f3",
+    "audio_hash": "24ff43bd22889fbc00575128709039b50374bff187628a9a6fe29fa5ac04bc5b",
+    "scores": {
+      "temporal": 0.9536261157211287,
+      "pooled_spatial": 0.9108915752900263,
+      "broadband_joint": 0.17158544350880187,
+      "factorized_joint": 0.448852929526636
+    }
+  },
+  {
+    "scene_id": "development-023",
+    "index": 23,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "244677b9405bfe759b80e306d9bfd9cdc1e48460ff40f307049342a84b6277e6",
+    "audio_hash": "1c66dfd253194de1475dc26ee0a2eb6b34ea930a8f1fe2adc66dd2dd117a3bb2",
+    "scores": {
+      "temporal": 0.9388609300922309,
+      "pooled_spatial": 0.9140697389125519,
+      "broadband_joint": 0.17645675410965278,
+      "factorized_joint": 0.46493094186713807
+    }
+  },
+  {
+    "scene_id": "development-023",
+    "index": 23,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "244677b9405bfe759b80e306d9bfd9cdc1e48460ff40f307049342a84b6277e6",
+    "audio_hash": "24ff43bd22889fbc00575128709039b50374bff187628a9a6fe29fa5ac04bc5b",
+    "scores": {
+      "temporal": 0.9384871341297443,
+      "pooled_spatial": 0.908440713839681,
+      "broadband_joint": 0.6905172879990057,
+      "factorized_joint": 0.9039951256961425
+    }
+  },
+  {
+    "scene_id": "development-024",
+    "index": 24,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "5065792002e674db28415fa09b8deacb1d3bcc971da377282d535af8131411c9",
+    "audio_hash": "3e9a008bb7e918c8222a5709cff897260e95dcfcfec64d24a988eef356d9949b",
+    "scores": {
+      "temporal": 0.9656478423360566,
+      "pooled_spatial": 0.9253272172148105,
+      "broadband_joint": 0.7323842368742496,
+      "factorized_joint": 0.9146895266686176
+    }
+  },
+  {
+    "scene_id": "development-024",
+    "index": 24,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "5065792002e674db28415fa09b8deacb1d3bcc971da377282d535af8131411c9",
+    "audio_hash": "81e7bff4357f6e3f4a113536495fa1302b13ea8e47f0732a2ada7a63449e34d6",
+    "scores": {
+      "temporal": 0.9655504568767594,
+      "pooled_spatial": 0.9339303777922056,
+      "broadband_joint": 0.1702450015332727,
+      "factorized_joint": 0.40783546427401635
+    }
+  },
+  {
+    "scene_id": "development-024",
+    "index": 24,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "64077b876e03fb16de1d16720bac1dcfa7f0ac11812b414f07fb68aa08d04841",
+    "audio_hash": "3e9a008bb7e918c8222a5709cff897260e95dcfcfec64d24a988eef356d9949b",
+    "scores": {
+      "temporal": 0.9705113582867614,
+      "pooled_spatial": 0.91897653093189,
+      "broadband_joint": 0.1803900817544793,
+      "factorized_joint": 0.4196878506147633
+    }
+  },
+  {
+    "scene_id": "development-024",
+    "index": 24,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "64077b876e03fb16de1d16720bac1dcfa7f0ac11812b414f07fb68aa08d04841",
+    "audio_hash": "81e7bff4357f6e3f4a113536495fa1302b13ea8e47f0732a2ada7a63449e34d6",
+    "scores": {
+      "temporal": 0.9704016050948695,
+      "pooled_spatial": 0.9347320598071363,
+      "broadband_joint": 0.717172589596531,
+      "factorized_joint": 0.9218616269503872
+    }
+  },
+  {
+    "scene_id": "development-025",
+    "index": 25,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "fabbe67e25bd339c698527700bd083f56be8705adfa694b00b712129b0b79190",
+    "audio_hash": "49b187ff84c2921268c78e7769e9db788cd1ff1c605636ebeadc1d690566e8eb",
+    "scores": {
+      "temporal": 0.9842564387965371,
+      "pooled_spatial": 0.9228732640537698,
+      "broadband_joint": 0.28041777280060615,
+      "factorized_joint": 0.9132571897541013
+    }
+  },
+  {
+    "scene_id": "development-025",
+    "index": 25,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "fabbe67e25bd339c698527700bd083f56be8705adfa694b00b712129b0b79190",
+    "audio_hash": "3fa68af223ba0dba7b7d00125c98daccfae299ed1f50ae406890c55c979242e3",
+    "scores": {
+      "temporal": 0.9842175818149731,
+      "pooled_spatial": 0.9284457331278179,
+      "broadband_joint": 0.1985617596724355,
+      "factorized_joint": 0.8646132335679693
+    }
+  },
+  {
+    "scene_id": "development-025",
+    "index": 25,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "de777864a22bc138637b562dbd25dabc1f059c07443f9f857b9a4ab8b07dc0dc",
+    "audio_hash": "49b187ff84c2921268c78e7769e9db788cd1ff1c605636ebeadc1d690566e8eb",
+    "scores": {
+      "temporal": 0.9862145420994436,
+      "pooled_spatial": 0.9168985418820956,
+      "broadband_joint": 0.24781380297075045,
+      "factorized_joint": 0.8831082786090326
+    }
+  },
+  {
+    "scene_id": "development-025",
+    "index": 25,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "de777864a22bc138637b562dbd25dabc1f059c07443f9f857b9a4ab8b07dc0dc",
+    "audio_hash": "3fa68af223ba0dba7b7d00125c98daccfae299ed1f50ae406890c55c979242e3",
+    "scores": {
+      "temporal": 0.9861732409570929,
+      "pooled_spatial": 0.9232800110273629,
+      "broadband_joint": 0.24650406774001354,
+      "factorized_joint": 0.9088544654554934
+    }
+  },
+  {
+    "scene_id": "development-026",
+    "index": 26,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "a85c3a4394c9cba0763169d707f922d17007d307d4ef0c84e5e84fd45d6343b3",
+    "audio_hash": "a8983bdeeb3bf1f246d434bb5c0128757e089a9c13bc44f81fce615595069072",
+    "scores": {
+      "temporal": 0.7965770780440422,
+      "pooled_spatial": 0.8998320587429347,
+      "broadband_joint": 0.6219856240170167,
+      "factorized_joint": 0.7560232741591337
+    }
+  },
+  {
+    "scene_id": "development-026",
+    "index": 26,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "a85c3a4394c9cba0763169d707f922d17007d307d4ef0c84e5e84fd45d6343b3",
+    "audio_hash": "13d8583995f7d2e186ac2acba449ac52ad6ceddb62e7d9fc150d40a80bedac38",
+    "scores": {
+      "temporal": 0.7963614126578615,
+      "pooled_spatial": 0.9025003923168192,
+      "broadband_joint": 0.601492415221387,
+      "factorized_joint": 0.7088223452685036
+    }
+  },
+  {
+    "scene_id": "development-026",
+    "index": 26,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "83a0908908372105e1e3e3cd8277bcf8e10b5dda9d45949a2e2ecf9c491088b9",
+    "audio_hash": "a8983bdeeb3bf1f246d434bb5c0128757e089a9c13bc44f81fce615595069072",
+    "scores": {
+      "temporal": 0.8069745430937313,
+      "pooled_spatial": 0.8995221790757312,
+      "broadband_joint": 0.5977447893667067,
+      "factorized_joint": 0.7196400048579905
+    }
+  },
+  {
+    "scene_id": "development-026",
+    "index": 26,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "83a0908908372105e1e3e3cd8277bcf8e10b5dda9d45949a2e2ecf9c491088b9",
+    "audio_hash": "13d8583995f7d2e186ac2acba449ac52ad6ceddb62e7d9fc150d40a80bedac38",
+    "scores": {
+      "temporal": 0.8071587978031961,
+      "pooled_spatial": 0.9024290460131014,
+      "broadband_joint": 0.6199800572926761,
+      "factorized_joint": 0.7395893453961023
+    }
+  },
+  {
+    "scene_id": "development-027",
+    "index": 27,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "b75bf6976c29990b823fa747cdc85378527e426419f0e1addd00f89f2b9afe61",
+    "audio_hash": "e87966aa1f2e773eb27482aaacde42488bf0be8084f13ff4fa522225d45adf3c",
+    "scores": {
+      "temporal": 0.8721681266950351,
+      "pooled_spatial": 0.8843927140116017,
+      "broadband_joint": 0.6930350725926128,
+      "factorized_joint": 0.8728337675914588
+    }
+  },
+  {
+    "scene_id": "development-027",
+    "index": 27,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "b75bf6976c29990b823fa747cdc85378527e426419f0e1addd00f89f2b9afe61",
+    "audio_hash": "de2ca4d7f637764c8a075dbb4e5e639e1d13801432dd17d8f568fb7777752837",
+    "scores": {
+      "temporal": 0.8725452265329865,
+      "pooled_spatial": 0.8734640749929815,
+      "broadband_joint": 0.18515893878091047,
+      "factorized_joint": 0.43371230127230814
+    }
+  },
+  {
+    "scene_id": "development-027",
+    "index": 27,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "0b8447f17ed6f760ce19c55248c40051a97957ee2c5883ed0d20acba6b485867",
+    "audio_hash": "e87966aa1f2e773eb27482aaacde42488bf0be8084f13ff4fa522225d45adf3c",
+    "scores": {
+      "temporal": 0.8663109141029106,
+      "pooled_spatial": 0.88990744334093,
+      "broadband_joint": 0.17412374965377772,
+      "factorized_joint": 0.4205235481623023
+    }
+  },
+  {
+    "scene_id": "development-027",
+    "index": 27,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "0b8447f17ed6f760ce19c55248c40051a97957ee2c5883ed0d20acba6b485867",
+    "audio_hash": "de2ca4d7f637764c8a075dbb4e5e639e1d13801432dd17d8f568fb7777752837",
+    "scores": {
+      "temporal": 0.8672895008638923,
+      "pooled_spatial": 0.8795689831631076,
+      "broadband_joint": 0.6849001345904426,
+      "factorized_joint": 0.8592226462712617
+    }
+  },
+  {
+    "scene_id": "development-028",
+    "index": 28,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "663e077a73c0c42c0f37b6f584db3172b9ce0966be956a29159526f7eb2ade03",
+    "audio_hash": "e741a06d7d1f38ecd225f77092032bd94569763526389b76f022166e90deedd2",
+    "scores": {
+      "temporal": 0.910285668248662,
+      "pooled_spatial": 0.9165823405401278,
+      "broadband_joint": 0.7775483678599493,
+      "factorized_joint": 0.9393697667253624
+    }
+  },
+  {
+    "scene_id": "development-028",
+    "index": 28,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "663e077a73c0c42c0f37b6f584db3172b9ce0966be956a29159526f7eb2ade03",
+    "audio_hash": "67e5b546f7c4b1c5218a1ab1d85fb4917192b769ae3f5141b4521d524d11c714",
+    "scores": {
+      "temporal": 0.9061669859739588,
+      "pooled_spatial": 0.9225343291741528,
+      "broadband_joint": 0.13679169547921255,
+      "factorized_joint": 0.33987001217435225
+    }
+  },
+  {
+    "scene_id": "development-028",
+    "index": 28,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "e32a71bc91b0ecec6eadba85174726b18010338dee57db1f522bf7f17459898f",
+    "audio_hash": "e741a06d7d1f38ecd225f77092032bd94569763526389b76f022166e90deedd2",
+    "scores": {
+      "temporal": 0.869595551831272,
+      "pooled_spatial": 0.9093938610718773,
+      "broadband_joint": 0.13528566682978543,
+      "factorized_joint": 0.34028986579058834
+    }
+  },
+  {
+    "scene_id": "development-028",
+    "index": 28,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "e32a71bc91b0ecec6eadba85174726b18010338dee57db1f522bf7f17459898f",
+    "audio_hash": "67e5b546f7c4b1c5218a1ab1d85fb4917192b769ae3f5141b4521d524d11c714",
+    "scores": {
+      "temporal": 0.8745498017678863,
+      "pooled_spatial": 0.9162840070030568,
+      "broadband_joint": 0.7720254737488235,
+      "factorized_joint": 0.9383793332107878
+    }
+  },
+  {
+    "scene_id": "development-029",
+    "index": 29,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "d6fe5b0cc71113a9f86849added78b3d5c12fa3d40977d7b8a036d04c791f736",
+    "audio_hash": "fbd76803465add31314546babcae4b51fe3ad12c1b2ebce1ba4956e0aa8cbece",
+    "scores": {
+      "temporal": 0.9734595581169214,
+      "pooled_spatial": 0.8808033990241115,
+      "broadband_joint": 0.34752061241945786,
+      "factorized_joint": 0.9137038501675363
+    }
+  },
+  {
+    "scene_id": "development-029",
+    "index": 29,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "d6fe5b0cc71113a9f86849added78b3d5c12fa3d40977d7b8a036d04c791f736",
+    "audio_hash": "ea017db81ce103983d2136d01bc4f882098d1dabc22a0e8fac71b23c0521a904",
+    "scores": {
+      "temporal": 0.9731153706713798,
+      "pooled_spatial": 0.8915821754833637,
+      "broadband_joint": 0.20596793134961244,
+      "factorized_joint": 0.8376797867082113
+    }
+  },
+  {
+    "scene_id": "development-029",
+    "index": 29,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "2e9854ecdf5d4cd9edb411c2edb1cb0e822224351f9e7e6165ffbf0fe29dc611",
+    "audio_hash": "fbd76803465add31314546babcae4b51fe3ad12c1b2ebce1ba4956e0aa8cbece",
+    "scores": {
+      "temporal": 0.9757103510251728,
+      "pooled_spatial": 0.882750410032604,
+      "broadband_joint": 0.24362306816996038,
+      "factorized_joint": 0.8364244795158009
+    }
+  },
+  {
+    "scene_id": "development-029",
+    "index": 29,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "2e9854ecdf5d4cd9edb411c2edb1cb0e822224351f9e7e6165ffbf0fe29dc611",
+    "audio_hash": "ea017db81ce103983d2136d01bc4f882098d1dabc22a0e8fac71b23c0521a904",
+    "scores": {
+      "temporal": 0.9754442424845208,
+      "pooled_spatial": 0.8966175118217747,
+      "broadband_joint": 0.3159209970451083,
+      "factorized_joint": 0.9119410700474693
+    }
+  },
+  {
+    "scene_id": "development-030",
+    "index": 30,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "ca48feb060ab84e02ca29071e1932cdc5cfd5199c7aea2facbac2ad0a13e34f6",
+    "audio_hash": "65bae74ed885307032a5989e5ee1aff328763c32efd285ed1f21ecadce171682",
+    "scores": {
+      "temporal": 0.5603418680432954,
+      "pooled_spatial": 0.7923889026635579,
+      "broadband_joint": 0.6691937635505252,
+      "factorized_joint": 0.7141026254799978
+    }
+  },
+  {
+    "scene_id": "development-030",
+    "index": 30,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "ca48feb060ab84e02ca29071e1932cdc5cfd5199c7aea2facbac2ad0a13e34f6",
+    "audio_hash": "6af9c1ba6cc4f5b0ff11b0254366e8d6a594b618eef351c848aa908148780384",
+    "scores": {
+      "temporal": 0.5604958302268269,
+      "pooled_spatial": 0.7938261085994051,
+      "broadband_joint": 0.6279900500599604,
+      "factorized_joint": 0.6853359689634397
+    }
+  },
+  {
+    "scene_id": "development-030",
+    "index": 30,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "3188b51e82495276fbd8e112590ebaa3e89219bb814e5061cd70a3d2bd2b88ee",
+    "audio_hash": "65bae74ed885307032a5989e5ee1aff328763c32efd285ed1f21ecadce171682",
+    "scores": {
+      "temporal": 0.6719302522362444,
+      "pooled_spatial": 0.7936986259443608,
+      "broadband_joint": 0.6211559020166888,
+      "factorized_joint": 0.7046184850691317
+    }
+  },
+  {
+    "scene_id": "development-030",
+    "index": 30,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "3188b51e82495276fbd8e112590ebaa3e89219bb814e5061cd70a3d2bd2b88ee",
+    "audio_hash": "6af9c1ba6cc4f5b0ff11b0254366e8d6a594b618eef351c848aa908148780384",
+    "scores": {
+      "temporal": 0.6719233205445001,
+      "pooled_spatial": 0.7951639459223866,
+      "broadband_joint": 0.656811222121589,
+      "factorized_joint": 0.7355998003241838
+    }
+  },
+  {
+    "scene_id": "development-031",
+    "index": 31,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "06dfae8b2002a5eff8664734f0d443622ef24f3dfd863d97eccc5ce460b59083",
+    "audio_hash": "58147b402be0eb070e73b7c91872ab040965633e13a090bc531c0269023773c6",
+    "scores": {
+      "temporal": 0.9480317834259586,
+      "pooled_spatial": 0.8580138931675285,
+      "broadband_joint": 0.7158653540787643,
+      "factorized_joint": 0.8864202809251898
+    }
+  },
+  {
+    "scene_id": "development-031",
+    "index": 31,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "06dfae8b2002a5eff8664734f0d443622ef24f3dfd863d97eccc5ce460b59083",
+    "audio_hash": "0bd246bfe001da17b4ff7324af80a7c07cac81d552b2a1956be873a42422b5e7",
+    "scores": {
+      "temporal": 0.9478505853251168,
+      "pooled_spatial": 0.8436400800365992,
+      "broadband_joint": 0.24351596296154843,
+      "factorized_joint": 0.5008903441763621
+    }
+  },
+  {
+    "scene_id": "development-031",
+    "index": 31,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "a185c027956d31d72720b8e36a80d2560f5f76f6d676974b17a153c11ac486a5",
+    "audio_hash": "58147b402be0eb070e73b7c91872ab040965633e13a090bc531c0269023773c6",
+    "scores": {
+      "temporal": 0.9426718258450685,
+      "pooled_spatial": 0.8631304897555497,
+      "broadband_joint": 0.22574784439742074,
+      "factorized_joint": 0.4749910739355445
+    }
+  },
+  {
+    "scene_id": "development-031",
+    "index": 31,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "a185c027956d31d72720b8e36a80d2560f5f76f6d676974b17a153c11ac486a5",
+    "audio_hash": "0bd246bfe001da17b4ff7324af80a7c07cac81d552b2a1956be873a42422b5e7",
+    "scores": {
+      "temporal": 0.9426271515781152,
+      "pooled_spatial": 0.851223474068892,
+      "broadband_joint": 0.7040180137857291,
+      "factorized_joint": 0.8820076259440341
+    }
+  },
+  {
+    "scene_id": "development-032",
+    "index": 32,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "35bbd64ba2290d0fff10803622a9caac0ef148b4cd126e2ca476188ce8316d01",
+    "audio_hash": "e57a59d1ca1e7a5503ed2ce28e831a489b6c147f0e728675f4548483bc31bd71",
+    "scores": {
+      "temporal": 0.9611954653054813,
+      "pooled_spatial": 0.9098195872263509,
+      "broadband_joint": 0.6576230497125981,
+      "factorized_joint": 0.9184369451309737
+    }
+  },
+  {
+    "scene_id": "development-032",
+    "index": 32,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "35bbd64ba2290d0fff10803622a9caac0ef148b4cd126e2ca476188ce8316d01",
+    "audio_hash": "e941f8eeb4a1b7864543c62fc1d699dcc7523169d2b28a056889eccc39653b90",
+    "scores": {
+      "temporal": 0.9609760550521169,
+      "pooled_spatial": 0.9172407226818167,
+      "broadband_joint": 0.17226700372647352,
+      "factorized_joint": 0.49486527632534943
+    }
+  },
+  {
+    "scene_id": "development-032",
+    "index": 32,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "98d565998fcfcb962b68b04af531df593e42ef267f007f81b7d8cb4ffdfb6833",
+    "audio_hash": "e57a59d1ca1e7a5503ed2ce28e831a489b6c147f0e728675f4548483bc31bd71",
+    "scores": {
+      "temporal": 0.9630114485634054,
+      "pooled_spatial": 0.9113339966509061,
+      "broadband_joint": 0.1572814930209453,
+      "factorized_joint": 0.4800497066064754
+    }
+  },
+  {
+    "scene_id": "development-032",
+    "index": 32,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "98d565998fcfcb962b68b04af531df593e42ef267f007f81b7d8cb4ffdfb6833",
+    "audio_hash": "e941f8eeb4a1b7864543c62fc1d699dcc7523169d2b28a056889eccc39653b90",
+    "scores": {
+      "temporal": 0.9628711499273244,
+      "pooled_spatial": 0.9184930917172616,
+      "broadband_joint": 0.6579286640881636,
+      "factorized_joint": 0.9180267678361942
+    }
+  },
+  {
+    "scene_id": "development-033",
+    "index": 33,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "75bd514767bee0c9eb4dfe4d4c2dd6fed03a14245cab900a0521be00a73cb06e",
+    "audio_hash": "97512d3961743ba3a3b07fd5b564622cd9913a37013bad1fdd59410d7297e934",
+    "scores": {
+      "temporal": 0.9893727927682977,
+      "pooled_spatial": 0.8528194153008274,
+      "broadband_joint": 0.38628359022307424,
+      "factorized_joint": 0.8844395612617204
+    }
+  },
+  {
+    "scene_id": "development-033",
+    "index": 33,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "75bd514767bee0c9eb4dfe4d4c2dd6fed03a14245cab900a0521be00a73cb06e",
+    "audio_hash": "67ceed2fe0388272e0c5605212e881380be26820e99b7c7692442e68344838e8",
+    "scores": {
+      "temporal": 0.9898698782038106,
+      "pooled_spatial": 0.8739437514577091,
+      "broadband_joint": 0.2421075622146367,
+      "factorized_joint": 0.7828230820330968
+    }
+  },
+  {
+    "scene_id": "development-033",
+    "index": 33,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "bb8a86c76c5c9a8851b8a20155503294b55212c9f8d8bf0175ddcb58ee5f236e",
+    "audio_hash": "97512d3961743ba3a3b07fd5b564622cd9913a37013bad1fdd59410d7297e934",
+    "scores": {
+      "temporal": 0.9892492978516525,
+      "pooled_spatial": 0.846543410104055,
+      "broadband_joint": 0.2440159118229912,
+      "factorized_joint": 0.8021156955653891
+    }
+  },
+  {
+    "scene_id": "development-033",
+    "index": 33,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "bb8a86c76c5c9a8851b8a20155503294b55212c9f8d8bf0175ddcb58ee5f236e",
+    "audio_hash": "67ceed2fe0388272e0c5605212e881380be26820e99b7c7692442e68344838e8",
+    "scores": {
+      "temporal": 0.9891905273602211,
+      "pooled_spatial": 0.8685208502200381,
+      "broadband_joint": 0.3995131779343119,
+      "factorized_joint": 0.8909466316356027
+    }
+  },
+  {
+    "scene_id": "development-034",
+    "index": 34,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "2cbd2d10bcd56a440d6e7217878e5fa8c891fb79e0de4e8e0457e7aa74ff22d6",
+    "audio_hash": "60cf1bdd9ff6665f4b5f4ace5226f36f8e30c621b8014e92449356068700655b",
+    "scores": {
+      "temporal": 0.9149244032281925,
+      "pooled_spatial": 0.7975911366052243,
+      "broadband_joint": 0.6553419507742065,
+      "factorized_joint": 0.7335900093163469
+    }
+  },
+  {
+    "scene_id": "development-034",
+    "index": 34,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "2cbd2d10bcd56a440d6e7217878e5fa8c891fb79e0de4e8e0457e7aa74ff22d6",
+    "audio_hash": "39920fa644a191df6fde24e91cebafd9c04515c46472e2d2b36e281d9f57e854",
+    "scores": {
+      "temporal": 0.9147328869408703,
+      "pooled_spatial": 0.8012118247776597,
+      "broadband_joint": 0.6276252431928024,
+      "factorized_joint": 0.7137640373556251
+    }
+  },
+  {
+    "scene_id": "development-034",
+    "index": 34,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "ce260512707b3969e0398ca15eeac48e8648e3b6f0170e395477a437821b190a",
+    "audio_hash": "60cf1bdd9ff6665f4b5f4ace5226f36f8e30c621b8014e92449356068700655b",
+    "scores": {
+      "temporal": 0.9530847699671384,
+      "pooled_spatial": 0.7986594607211969,
+      "broadband_joint": 0.6102119871730418,
+      "factorized_joint": 0.6932398249630607
+    }
+  },
+  {
+    "scene_id": "development-034",
+    "index": 34,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "ce260512707b3969e0398ca15eeac48e8648e3b6f0170e395477a437821b190a",
+    "audio_hash": "39920fa644a191df6fde24e91cebafd9c04515c46472e2d2b36e281d9f57e854",
+    "scores": {
+      "temporal": 0.9531480772163206,
+      "pooled_spatial": 0.8022594538161935,
+      "broadband_joint": 0.6218901180258722,
+      "factorized_joint": 0.7122652621857914
+    }
+  },
+  {
+    "scene_id": "development-035",
+    "index": 35,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "1ce2f5995a6c6cab64045ec27d0039870dcc3638fe50ce046b4c50bf9aa45c8a",
+    "audio_hash": "b5ec8051dd136c9813cf41cf67d56122fe7b8af92217e9f142b48c4ecff9aadc",
+    "scores": {
+      "temporal": 0.8397607254969865,
+      "pooled_spatial": 0.9426591901387693,
+      "broadband_joint": 0.6831589901569803,
+      "factorized_joint": 0.8725004793360376
+    }
+  },
+  {
+    "scene_id": "development-035",
+    "index": 35,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "1ce2f5995a6c6cab64045ec27d0039870dcc3638fe50ce046b4c50bf9aa45c8a",
+    "audio_hash": "205be96394e84db8f245ba2731f519753c5396dd79f1c4d9e0bcc6262d60aaee",
+    "scores": {
+      "temporal": 0.839835385736151,
+      "pooled_spatial": 0.9459133717593132,
+      "broadband_joint": 0.1450265841071373,
+      "factorized_joint": 0.38735320747682733
+    }
+  },
+  {
+    "scene_id": "development-035",
+    "index": 35,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "e209bfed9b632dcdd638ec790e6b983156ac293c023698ca4816738990908629",
+    "audio_hash": "b5ec8051dd136c9813cf41cf67d56122fe7b8af92217e9f142b48c4ecff9aadc",
+    "scores": {
+      "temporal": 0.8267706938371033,
+      "pooled_spatial": 0.9361048725064638,
+      "broadband_joint": 0.14863182702899533,
+      "factorized_joint": 0.3875496497814147
+    }
+  },
+  {
+    "scene_id": "development-035",
+    "index": 35,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "e209bfed9b632dcdd638ec790e6b983156ac293c023698ca4816738990908629",
+    "audio_hash": "205be96394e84db8f245ba2731f519753c5396dd79f1c4d9e0bcc6262d60aaee",
+    "scores": {
+      "temporal": 0.8276786819944612,
+      "pooled_spatial": 0.9417789066862591,
+      "broadband_joint": 0.6761753544127933,
+      "factorized_joint": 0.8782298363542758
+    }
+  },
+  {
+    "scene_id": "development-036",
+    "index": 36,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "5df54d02d29eab6fad28bce2b4bd3187dfafc0c3606ab3310b1fda00d4267548",
+    "audio_hash": "969b01f50448cf70e0c2ffbb63caa0b7415d290944947e28376e86930ca79af7",
+    "scores": {
+      "temporal": 0.9213250964682069,
+      "pooled_spatial": 0.9465638270596249,
+      "broadband_joint": 0.7747609579489387,
+      "factorized_joint": 0.9316525031570744
+    }
+  },
+  {
+    "scene_id": "development-036",
+    "index": 36,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "5df54d02d29eab6fad28bce2b4bd3187dfafc0c3606ab3310b1fda00d4267548",
+    "audio_hash": "03eb129d716761e1612946c9fe35dffee479e7a3f827706dad3058ed876dede1",
+    "scores": {
+      "temporal": 0.9219927300431103,
+      "pooled_spatial": 0.9413401791452064,
+      "broadband_joint": 0.19506688745407869,
+      "factorized_joint": 0.4392401472264995
+    }
+  },
+  {
+    "scene_id": "development-036",
+    "index": 36,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "91c40408700ac931f9f421d3658b267e1580adcd2446e03eb36cf3b10b1697a6",
+    "audio_hash": "969b01f50448cf70e0c2ffbb63caa0b7415d290944947e28376e86930ca79af7",
+    "scores": {
+      "temporal": 0.9147085488966187,
+      "pooled_spatial": 0.9459225911741077,
+      "broadband_joint": 0.19497420958278028,
+      "factorized_joint": 0.4359241911724788
+    }
+  },
+  {
+    "scene_id": "development-036",
+    "index": 36,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "91c40408700ac931f9f421d3658b267e1580adcd2446e03eb36cf3b10b1697a6",
+    "audio_hash": "03eb129d716761e1612946c9fe35dffee479e7a3f827706dad3058ed876dede1",
+    "scores": {
+      "temporal": 0.9139546966139116,
+      "pooled_spatial": 0.9403563964417447,
+      "broadband_joint": 0.767340715908378,
+      "factorized_joint": 0.9314943169848917
+    }
+  },
+  {
+    "scene_id": "development-037",
+    "index": 37,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "82b299a3be58ffc780183acd9bc958f646b2783217119330de50a2467bdb82fb",
+    "audio_hash": "40402d46b84f0657e0760cb7eab75a7c68affbf13daaeb8a1568b580c1d20077",
+    "scores": {
+      "temporal": 0.9811494962062047,
+      "pooled_spatial": 0.9389972204035684,
+      "broadband_joint": 0.4089888791704719,
+      "factorized_joint": 0.939743792948447
+    }
+  },
+  {
+    "scene_id": "development-037",
+    "index": 37,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "82b299a3be58ffc780183acd9bc958f646b2783217119330de50a2467bdb82fb",
+    "audio_hash": "f65758ed50b26d2d5d0d565ef01493b94d5b295d174bc3b166ea774cf6e61989",
+    "scores": {
+      "temporal": 0.9815413202647049,
+      "pooled_spatial": 0.9265260937089244,
+      "broadband_joint": 0.286749729251401,
+      "factorized_joint": 0.8559893925971838
+    }
+  },
+  {
+    "scene_id": "development-037",
+    "index": 37,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "877a1e43013af960c92662759418b9b304379beeb51f1eaa881528261905f32a",
+    "audio_hash": "40402d46b84f0657e0760cb7eab75a7c68affbf13daaeb8a1568b580c1d20077",
+    "scores": {
+      "temporal": 0.9801830616403377,
+      "pooled_spatial": 0.9369432537654095,
+      "broadband_joint": 0.301033414492098,
+      "factorized_joint": 0.8696453624725545
+    }
+  },
+  {
+    "scene_id": "development-037",
+    "index": 37,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "877a1e43013af960c92662759418b9b304379beeb51f1eaa881528261905f32a",
+    "audio_hash": "f65758ed50b26d2d5d0d565ef01493b94d5b295d174bc3b166ea774cf6e61989",
+    "scores": {
+      "temporal": 0.9804626123550387,
+      "pooled_spatial": 0.9236984910828798,
+      "broadband_joint": 0.40445054517804924,
+      "factorized_joint": 0.9319991365549313
+    }
+  },
+  {
+    "scene_id": "development-038",
+    "index": 38,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "9d53fe49fd1e372a3760c1a962dc35a1d2929b7e39f1b65627aaab7b4067b782",
+    "audio_hash": "2db428303e9e1704f26f055418c6048d5d588b32b686704ab90622be9d1d91e6",
+    "scores": {
+      "temporal": 0.9485502020072268,
+      "pooled_spatial": 0.7813412956236002,
+      "broadband_joint": 0.7203173966888957,
+      "factorized_joint": 0.7993286254825706
+    }
+  },
+  {
+    "scene_id": "development-038",
+    "index": 38,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "9d53fe49fd1e372a3760c1a962dc35a1d2929b7e39f1b65627aaab7b4067b782",
+    "audio_hash": "f1b9ebc4b3f43dec9d47cffc83448d37c55eaa637ba2b47271b706961555ddcd",
+    "scores": {
+      "temporal": 0.9485015859466805,
+      "pooled_spatial": 0.7851886249244423,
+      "broadband_joint": 0.689418989837208,
+      "factorized_joint": 0.7781658574619373
+    }
+  },
+  {
+    "scene_id": "development-038",
+    "index": 38,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "77ab8f2fe897409cc2098995437c3906fb5998cf0ebb90b291931e2ed7cffb9d",
+    "audio_hash": "2db428303e9e1704f26f055418c6048d5d588b32b686704ab90622be9d1d91e6",
+    "scores": {
+      "temporal": 0.9438734805172273,
+      "pooled_spatial": 0.783347045113856,
+      "broadband_joint": 0.6675410975898819,
+      "factorized_joint": 0.7533772039794598
+    }
+  },
+  {
+    "scene_id": "development-038",
+    "index": 38,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "77ab8f2fe897409cc2098995437c3906fb5998cf0ebb90b291931e2ed7cffb9d",
+    "audio_hash": "f1b9ebc4b3f43dec9d47cffc83448d37c55eaa637ba2b47271b706961555ddcd",
+    "scores": {
+      "temporal": 0.9438135155453691,
+      "pooled_spatial": 0.7872066159372034,
+      "broadband_joint": 0.7041655481446821,
+      "factorized_joint": 0.7898528565416865
+    }
+  },
+  {
+    "scene_id": "development-039",
+    "index": 39,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "199c806d7ec1f46b0c7936f988d1255eb79052c21935e6992a7844bb893a8e13",
+    "audio_hash": "d2d7e2c359f8aa3321f1c6983bd7a2ba6c3658bdcaa61d07b44b9830bfc34e12",
+    "scores": {
+      "temporal": 0.9450122702507638,
+      "pooled_spatial": 0.9128090961176777,
+      "broadband_joint": 0.7399949575805476,
+      "factorized_joint": 0.9200935510843256
+    }
+  },
+  {
+    "scene_id": "development-039",
+    "index": 39,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "199c806d7ec1f46b0c7936f988d1255eb79052c21935e6992a7844bb893a8e13",
+    "audio_hash": "e929aec338794919404f9bd567e0fb4280cba1995db45a519a3bdd983b6a39a8",
+    "scores": {
+      "temporal": 0.944947685228211,
+      "pooled_spatial": 0.9239967106291925,
+      "broadband_joint": 0.17730327217703942,
+      "factorized_joint": 0.41787660766486867
+    }
+  },
+  {
+    "scene_id": "development-039",
+    "index": 39,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "1c8c3f25fda6ef201fa6bc46dc6b5660afe66618a30d5affde7fe2f274283395",
+    "audio_hash": "d2d7e2c359f8aa3321f1c6983bd7a2ba6c3658bdcaa61d07b44b9830bfc34e12",
+    "scores": {
+      "temporal": 0.9470148712281358,
+      "pooled_spatial": 0.9071981280098513,
+      "broadband_joint": 0.20010639616297368,
+      "factorized_joint": 0.4448827547247388
+    }
+  },
+  {
+    "scene_id": "development-039",
+    "index": 39,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "1c8c3f25fda6ef201fa6bc46dc6b5660afe66618a30d5affde7fe2f274283395",
+    "audio_hash": "e929aec338794919404f9bd567e0fb4280cba1995db45a519a3bdd983b6a39a8",
+    "scores": {
+      "temporal": 0.9465322714489486,
+      "pooled_spatial": 0.9211187597897577,
+      "broadband_joint": 0.7319862620435964,
+      "factorized_joint": 0.9242251250048618
+    }
+  },
+  {
+    "scene_id": "development-040",
+    "index": 40,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "2a6a4c2f763ecbbde30f84326426b39cd390e98ca2c458e984e97754d9bf6c61",
+    "audio_hash": "5881bab0acc0871da95cbf4ff39b0a7ef8280b19879da990d62e40bf33287ff5",
+    "scores": {
+      "temporal": 0.9735231438600251,
+      "pooled_spatial": 0.9021623591871373,
+      "broadband_joint": 0.7275558396697019,
+      "factorized_joint": 0.8942215650755864
+    }
+  },
+  {
+    "scene_id": "development-040",
+    "index": 40,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "2a6a4c2f763ecbbde30f84326426b39cd390e98ca2c458e984e97754d9bf6c61",
+    "audio_hash": "768a028fee4c6d6a5db9f2dd62e244d32800a3be6c6f2d1e0dbcc2460d1ea38f",
+    "scores": {
+      "temporal": 0.9734637372420926,
+      "pooled_spatial": 0.9025437868219136,
+      "broadband_joint": 0.218015318703869,
+      "factorized_joint": 0.4554169643950495
+    }
+  },
+  {
+    "scene_id": "development-040",
+    "index": 40,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "b2c3a257f0cdb516dc11d67cc0a8a0838743077782b4b31be782a0c827037581",
+    "audio_hash": "5881bab0acc0871da95cbf4ff39b0a7ef8280b19879da990d62e40bf33287ff5",
+    "scores": {
+      "temporal": 0.9577493761422163,
+      "pooled_spatial": 0.903886432373409,
+      "broadband_joint": 0.20999410507375985,
+      "factorized_joint": 0.4527318661964565
+    }
+  },
+  {
+    "scene_id": "development-040",
+    "index": 40,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "b2c3a257f0cdb516dc11d67cc0a8a0838743077782b4b31be782a0c827037581",
+    "audio_hash": "768a028fee4c6d6a5db9f2dd62e244d32800a3be6c6f2d1e0dbcc2460d1ea38f",
+    "scores": {
+      "temporal": 0.9576298517053482,
+      "pooled_spatial": 0.904192904547239,
+      "broadband_joint": 0.7163121090909355,
+      "factorized_joint": 0.8937038298292173
+    }
+  },
+  {
+    "scene_id": "development-041",
+    "index": 41,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "e86385fdc04dffa065d668b0e9b5d92716202e9ae143d6d8fad6578f4dc17ea3",
+    "audio_hash": "9f44fce645ab7c9963eed8f35936213d95e4a806c616199edf628057760fa99b",
+    "scores": {
+      "temporal": 0.9777488185671207,
+      "pooled_spatial": 0.9035612782135811,
+      "broadband_joint": 0.2720316107557078,
+      "factorized_joint": 0.9078808650943475
+    }
+  },
+  {
+    "scene_id": "development-041",
+    "index": 41,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "e86385fdc04dffa065d668b0e9b5d92716202e9ae143d6d8fad6578f4dc17ea3",
+    "audio_hash": "c980b0b274a44c786a067be2c4b7cae136cc1b281bdf6da5232b70ad93150a5a",
+    "scores": {
+      "temporal": 0.9777285719608935,
+      "pooled_spatial": 0.9014835740673907,
+      "broadband_joint": 0.17395953350967153,
+      "factorized_joint": 0.8308242217131052
+    }
+  },
+  {
+    "scene_id": "development-041",
+    "index": 41,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "ed76c149dda6ab281f5b0bf6346e2cda9664126a988e250f4dc60e851dd97281",
+    "audio_hash": "9f44fce645ab7c9963eed8f35936213d95e4a806c616199edf628057760fa99b",
+    "scores": {
+      "temporal": 0.9827155823643161,
+      "pooled_spatial": 0.9064860185648372,
+      "broadband_joint": 0.16385745927726755,
+      "factorized_joint": 0.8288055919228499
+    }
+  },
+  {
+    "scene_id": "development-041",
+    "index": 41,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "ed76c149dda6ab281f5b0bf6346e2cda9664126a988e250f4dc60e851dd97281",
+    "audio_hash": "c980b0b274a44c786a067be2c4b7cae136cc1b281bdf6da5232b70ad93150a5a",
+    "scores": {
+      "temporal": 0.9826145493901384,
+      "pooled_spatial": 0.9045538065193769,
+      "broadband_joint": 0.27289287471413176,
+      "factorized_joint": 0.9283411405967311
+    }
+  },
+  {
+    "scene_id": "development-042",
+    "index": 42,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "0561923a4bdaf021579557616edab42baf4d2e5158b56657cea095dbf2124b73",
+    "audio_hash": "0410151d6c720247dde405ac6e5556a715c8d6f4c66eb00219042efdf080d0d7",
+    "scores": {
+      "temporal": 0.8754658384636633,
+      "pooled_spatial": 0.8591914466710023,
+      "broadband_joint": 0.6325115770468254,
+      "factorized_joint": 0.7404102275671945
+    }
+  },
+  {
+    "scene_id": "development-042",
+    "index": 42,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "0561923a4bdaf021579557616edab42baf4d2e5158b56657cea095dbf2124b73",
+    "audio_hash": "a623e8de5c1e9fe2699ef0c59edf740146decf9975555aeb7566788028950fb7",
+    "scores": {
+      "temporal": 0.8754431619129118,
+      "pooled_spatial": 0.8626578579199404,
+      "broadband_joint": 0.6204117819622061,
+      "factorized_joint": 0.7031142867980844
+    }
+  },
+  {
+    "scene_id": "development-042",
+    "index": 42,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "a9fed69e902bbac88ae3c429c286f31b14e5502b517be99bb312adec70f80d4f",
+    "audio_hash": "0410151d6c720247dde405ac6e5556a715c8d6f4c66eb00219042efdf080d0d7",
+    "scores": {
+      "temporal": 0.8856201898815155,
+      "pooled_spatial": 0.8602096894437651,
+      "broadband_joint": 0.5822531479887034,
+      "factorized_joint": 0.6902103361162122
+    }
+  },
+  {
+    "scene_id": "development-042",
+    "index": 42,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "a9fed69e902bbac88ae3c429c286f31b14e5502b517be99bb312adec70f80d4f",
+    "audio_hash": "a623e8de5c1e9fe2699ef0c59edf740146decf9975555aeb7566788028950fb7",
+    "scores": {
+      "temporal": 0.8856956892063106,
+      "pooled_spatial": 0.8636823790689144,
+      "broadband_joint": 0.6303492368863653,
+      "factorized_joint": 0.7044982808298104
+    }
+  },
+  {
+    "scene_id": "development-043",
+    "index": 43,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "54f7192ff1b85d22ba87e14e609c12a8cb5e564d54c6fccab43f903dad733848",
+    "audio_hash": "df1ff3c59fb8822493f1aca8c1aed870d29a306349026543198c15a806c5f053",
+    "scores": {
+      "temporal": 0.8085171260442868,
+      "pooled_spatial": 0.8311981623030151,
+      "broadband_joint": 0.7315245528097164,
+      "factorized_joint": 0.8609848454403634
+    }
+  },
+  {
+    "scene_id": "development-043",
+    "index": 43,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "54f7192ff1b85d22ba87e14e609c12a8cb5e564d54c6fccab43f903dad733848",
+    "audio_hash": "e9381626cb8b91959b4811600a3629714838fd31f24c6d4721dcd6ceaef04554",
+    "scores": {
+      "temporal": 0.8038727411198182,
+      "pooled_spatial": 0.8629441395003877,
+      "broadband_joint": 0.16081441676040317,
+      "factorized_joint": 0.35308600581400706
+    }
+  },
+  {
+    "scene_id": "development-043",
+    "index": 43,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "36eb1a6eba2be1832b98c24d8885387507cedbfb1352e54f8e26fc882bf5ff3e",
+    "audio_hash": "df1ff3c59fb8822493f1aca8c1aed870d29a306349026543198c15a806c5f053",
+    "scores": {
+      "temporal": 0.8118722750335886,
+      "pooled_spatial": 0.8171161217284959,
+      "broadband_joint": 0.197315074698924,
+      "factorized_joint": 0.3672648782019179
+    }
+  },
+  {
+    "scene_id": "development-043",
+    "index": 43,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "36eb1a6eba2be1832b98c24d8885387507cedbfb1352e54f8e26fc882bf5ff3e",
+    "audio_hash": "e9381626cb8b91959b4811600a3629714838fd31f24c6d4721dcd6ceaef04554",
+    "scores": {
+      "temporal": 0.8169139949714362,
+      "pooled_spatial": 0.8526943393886529,
+      "broadband_joint": 0.7394093185567195,
+      "factorized_joint": 0.8586627484833187
+    }
+  },
+  {
+    "scene_id": "development-044",
+    "index": 44,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "f4dbb9f4f65ec105758ad6b1088bfa779e1f343a8ccacbe85a04fb587aab2661",
+    "audio_hash": "3733aa327a99874401fbeda8825b4a37557d82a9a5a4eaa96947c94ffc209381",
+    "scores": {
+      "temporal": 0.9413298515164056,
+      "pooled_spatial": 0.9125087069354803,
+      "broadband_joint": 0.7263541680868435,
+      "factorized_joint": 0.947118915263539
+    }
+  },
+  {
+    "scene_id": "development-044",
+    "index": 44,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "f4dbb9f4f65ec105758ad6b1088bfa779e1f343a8ccacbe85a04fb587aab2661",
+    "audio_hash": "6f80d3721bb141f156ad36336caca1ad5680a832eb9c31461c3afbd6124217e6",
+    "scores": {
+      "temporal": 0.9424352176602889,
+      "pooled_spatial": 0.9527834186032479,
+      "broadband_joint": 0.13481967786406598,
+      "factorized_joint": 0.41704424094707915
+    }
+  },
+  {
+    "scene_id": "development-044",
+    "index": 44,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "73de664083ca9e4407878d3ff0a427e8c96dcd6085665c8807ed077dc7e85ffe",
+    "audio_hash": "3733aa327a99874401fbeda8825b4a37557d82a9a5a4eaa96947c94ffc209381",
+    "scores": {
+      "temporal": 0.9118823902065416,
+      "pooled_spatial": 0.8947852650095167,
+      "broadband_joint": 0.14001615516189322,
+      "factorized_joint": 0.4203243411294247
+    }
+  },
+  {
+    "scene_id": "development-044",
+    "index": 44,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "73de664083ca9e4407878d3ff0a427e8c96dcd6085665c8807ed077dc7e85ffe",
+    "audio_hash": "6f80d3721bb141f156ad36336caca1ad5680a832eb9c31461c3afbd6124217e6",
+    "scores": {
+      "temporal": 0.9098653032825335,
+      "pooled_spatial": 0.9409599213795852,
+      "broadband_joint": 0.7584977740316929,
+      "factorized_joint": 0.9425376477619493
+    }
+  },
+  {
+    "scene_id": "development-045",
+    "index": 45,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "6a46d2d327dbff8387cf02de266ba99fa783e4d776cb0a1216303efd49b1646e",
+    "audio_hash": "78235a77a7740b15acf5e1ad8c5e9823c72fff004ddd3b8c7ef745e0fa4d1c42",
+    "scores": {
+      "temporal": 0.9779538792146026,
+      "pooled_spatial": 0.9000851664473833,
+      "broadband_joint": 0.39011651875694997,
+      "factorized_joint": 0.9291214288725119
+    }
+  },
+  {
+    "scene_id": "development-045",
+    "index": 45,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "6a46d2d327dbff8387cf02de266ba99fa783e4d776cb0a1216303efd49b1646e",
+    "audio_hash": "4b7f7f75301633671cb42fe49ce992b47019bdd5d04956c725454703874f2da8",
+    "scores": {
+      "temporal": 0.9779018547522697,
+      "pooled_spatial": 0.8891654676578753,
+      "broadband_joint": 0.21065432109723514,
+      "factorized_joint": 0.7791892125805906
+    }
+  },
+  {
+    "scene_id": "development-045",
+    "index": 45,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "08756eab7bafeccc81e850a11d8d5ea1bc81229ee5b7038120ab4dfed36b4095",
+    "audio_hash": "78235a77a7740b15acf5e1ad8c5e9823c72fff004ddd3b8c7ef745e0fa4d1c42",
+    "scores": {
+      "temporal": 0.9781366984228356,
+      "pooled_spatial": 0.9029947875983085,
+      "broadband_joint": 0.2052406805029559,
+      "factorized_joint": 0.7578140351607987
+    }
+  },
+  {
+    "scene_id": "development-045",
+    "index": 45,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "08756eab7bafeccc81e850a11d8d5ea1bc81229ee5b7038120ab4dfed36b4095",
+    "audio_hash": "4b7f7f75301633671cb42fe49ce992b47019bdd5d04956c725454703874f2da8",
+    "scores": {
+      "temporal": 0.9780916641582275,
+      "pooled_spatial": 0.8924619559648063,
+      "broadband_joint": 0.37824904069662774,
+      "factorized_joint": 0.9166163743497403
+    }
+  },
+  {
+    "scene_id": "development-046",
+    "index": 46,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "6e5db4d4db16e2bf0c9bbd312f09e1dc034afbae5406d0e734e9a3908e5868fe",
+    "audio_hash": "4a7cb146694b4b3c3b522bc71241f8a8247fa0679a809cb9bcdea61a8d53a860",
+    "scores": {
+      "temporal": 0.6728474854027271,
+      "pooled_spatial": 0.832256080033525,
+      "broadband_joint": 0.6679647639939108,
+      "factorized_joint": 0.7401615242293506
+    }
+  },
+  {
+    "scene_id": "development-046",
+    "index": 46,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "6e5db4d4db16e2bf0c9bbd312f09e1dc034afbae5406d0e734e9a3908e5868fe",
+    "audio_hash": "870871172b0d32fe3e4fba2c2ab653251704063a254cf7860bd2ef054db9d00b",
+    "scores": {
+      "temporal": 0.6725731335036672,
+      "pooled_spatial": 0.8321545985679766,
+      "broadband_joint": 0.6284169854173276,
+      "factorized_joint": 0.7027324311847949
+    }
+  },
+  {
+    "scene_id": "development-046",
+    "index": 46,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "61a786bd3d0f85229864a2fdf789397db7843b5e42c29eadaa8f8dc065832e18",
+    "audio_hash": "4a7cb146694b4b3c3b522bc71241f8a8247fa0679a809cb9bcdea61a8d53a860",
+    "scores": {
+      "temporal": 0.6602371698953392,
+      "pooled_spatial": 0.833645504456934,
+      "broadband_joint": 0.6429742096918991,
+      "factorized_joint": 0.700454298184493
+    }
+  },
+  {
+    "scene_id": "development-046",
+    "index": 46,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "61a786bd3d0f85229864a2fdf789397db7843b5e42c29eadaa8f8dc065832e18",
+    "audio_hash": "870871172b0d32fe3e4fba2c2ab653251704063a254cf7860bd2ef054db9d00b",
+    "scores": {
+      "temporal": 0.6603905398580071,
+      "pooled_spatial": 0.8335333226102011,
+      "broadband_joint": 0.6706401834683529,
+      "factorized_joint": 0.7369623619207517
+    }
+  },
+  {
+    "scene_id": "development-047",
+    "index": 47,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "9f667bac362cca6b2896bd72cacf5dbf52122a6f1b3388cddaef53730a9d4e43",
+    "audio_hash": "5848c84f598c8db82553af330a97139f71af55e16a77038bf3c8d5edce663a8c",
+    "scores": {
+      "temporal": 0.9350807534798117,
+      "pooled_spatial": 0.861333771409631,
+      "broadband_joint": 0.7639228572510259,
+      "factorized_joint": 0.9031998775528665
+    }
+  },
+  {
+    "scene_id": "development-047",
+    "index": 47,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "9f667bac362cca6b2896bd72cacf5dbf52122a6f1b3388cddaef53730a9d4e43",
+    "audio_hash": "62070e8274a929ca5d00d4f1a721e9a9cd8a51bece93a97d93e38eb5e6a09562",
+    "scores": {
+      "temporal": 0.93496305294967,
+      "pooled_spatial": 0.8451310127157007,
+      "broadband_joint": 0.13932280787669543,
+      "factorized_joint": 0.3387344587210989
+    }
+  },
+  {
+    "scene_id": "development-047",
+    "index": 47,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "006f2226cce6daeba297a690dd85d5510d10b27b946d3c207f76029b2982e001",
+    "audio_hash": "5848c84f598c8db82553af330a97139f71af55e16a77038bf3c8d5edce663a8c",
+    "scores": {
+      "temporal": 0.9291784887301597,
+      "pooled_spatial": 0.8650411572356412,
+      "broadband_joint": 0.14883502591158532,
+      "factorized_joint": 0.3468987111384838
+    }
+  },
+  {
+    "scene_id": "development-047",
+    "index": 47,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "006f2226cce6daeba297a690dd85d5510d10b27b946d3c207f76029b2982e001",
+    "audio_hash": "62070e8274a929ca5d00d4f1a721e9a9cd8a51bece93a97d93e38eb5e6a09562",
+    "scores": {
+      "temporal": 0.9290278078242934,
+      "pooled_spatial": 0.8501014653677239,
+      "broadband_joint": 0.7511185764080068,
+      "factorized_joint": 0.8987647760682311
+    }
+  },
+  {
+    "scene_id": "development-048",
+    "index": 48,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "c5041f827944555072a6b97cc7928d0c05e807a4602bf2b2a7dbab7358b59cd4",
+    "audio_hash": "751c2e254543d83ca0804bd7170d98626c41bf8572136a28189240125617c45d",
+    "scores": {
+      "temporal": 0.8961698973497078,
+      "pooled_spatial": 0.8398913330217188,
+      "broadband_joint": 0.7119749085025888,
+      "factorized_joint": 0.8757870911200978
+    }
+  },
+  {
+    "scene_id": "development-048",
+    "index": 48,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "c5041f827944555072a6b97cc7928d0c05e807a4602bf2b2a7dbab7358b59cd4",
+    "audio_hash": "00dc05b8cc1287b7c6aec52a3d1d2f607e2d1a6eec62a4fd1d41e4e944f7ca7c",
+    "scores": {
+      "temporal": 0.9004295926997814,
+      "pooled_spatial": 0.902324444607568,
+      "broadband_joint": 0.1608505869746727,
+      "factorized_joint": 0.3625832554033809
+    }
+  },
+  {
+    "scene_id": "development-048",
+    "index": 48,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "a087a2ea757b5da3fb4e4673c010953c414a86626c85e93de68e04958ee912cf",
+    "audio_hash": "751c2e254543d83ca0804bd7170d98626c41bf8572136a28189240125617c45d",
+    "scores": {
+      "temporal": 0.8950836323927538,
+      "pooled_spatial": 0.821461746646571,
+      "broadband_joint": 0.16095926762825605,
+      "factorized_joint": 0.3511915839726519
+    }
+  },
+  {
+    "scene_id": "development-048",
+    "index": 48,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "a087a2ea757b5da3fb4e4673c010953c414a86626c85e93de68e04958ee912cf",
+    "audio_hash": "00dc05b8cc1287b7c6aec52a3d1d2f607e2d1a6eec62a4fd1d41e4e944f7ca7c",
+    "scores": {
+      "temporal": 0.891746692162127,
+      "pooled_spatial": 0.8915202825336175,
+      "broadband_joint": 0.7391062928135296,
+      "factorized_joint": 0.8837067406741426
+    }
+  },
+  {
+    "scene_id": "development-049",
+    "index": 49,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "e01b5c4c556050bd617c7d5e359aa1c6ca4fba1e08958ee4008e12b81d117dd4",
+    "audio_hash": "b4dfcd8f2244c6d65b4b0fcf014513df68914f1906c7e772cce17d69ce4a2a6e",
+    "scores": {
+      "temporal": 0.968430807825875,
+      "pooled_spatial": 0.8594565768878502,
+      "broadband_joint": 0.4612895629738424,
+      "factorized_joint": 0.8667525892378425
+    }
+  },
+  {
+    "scene_id": "development-049",
+    "index": 49,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "e01b5c4c556050bd617c7d5e359aa1c6ca4fba1e08958ee4008e12b81d117dd4",
+    "audio_hash": "43120063cad8e3271575b1e15f62edf0c8b50d011855f73e1f5a0cad6f144bed",
+    "scores": {
+      "temporal": 0.9687095721353739,
+      "pooled_spatial": 0.8830622119302415,
+      "broadband_joint": 0.2926768541279943,
+      "factorized_joint": 0.7637131843733541
+    }
+  },
+  {
+    "scene_id": "development-049",
+    "index": 49,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "034097661d204115b0212f5c2ce9f559588b9f2e4486e3e49ef8c0081d14e5b6",
+    "audio_hash": "b4dfcd8f2244c6d65b4b0fcf014513df68914f1906c7e772cce17d69ce4a2a6e",
+    "scores": {
+      "temporal": 0.9752891319748533,
+      "pooled_spatial": 0.8573005238786039,
+      "broadband_joint": 0.29235804733752535,
+      "factorized_joint": 0.763414413557057
+    }
+  },
+  {
+    "scene_id": "development-049",
+    "index": 49,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "034097661d204115b0212f5c2ce9f559588b9f2e4486e3e49ef8c0081d14e5b6",
+    "audio_hash": "43120063cad8e3271575b1e15f62edf0c8b50d011855f73e1f5a0cad6f144bed",
+    "scores": {
+      "temporal": 0.9750941500399943,
+      "pooled_spatial": 0.8811139597635445,
+      "broadband_joint": 0.4774957409500293,
+      "factorized_joint": 0.8928688276777262
+    }
+  },
+  {
+    "scene_id": "development-050",
+    "index": 50,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "59669c1d3c3c1ec51ab3da73e79a71739111f52b2b07aa68e45dd65950523d45",
+    "audio_hash": "7e4c3ba652e89e9f5f73252ac207f18e65e09c3ce265f93755c6c686f39f296c",
+    "scores": {
+      "temporal": 0.9363984755356851,
+      "pooled_spatial": 0.7868258758382217,
+      "broadband_joint": 0.6464848646632334,
+      "factorized_joint": 0.7083506369631498
+    }
+  },
+  {
+    "scene_id": "development-050",
+    "index": 50,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "59669c1d3c3c1ec51ab3da73e79a71739111f52b2b07aa68e45dd65950523d45",
+    "audio_hash": "e4b3689f80aacbcd1c28e7bb65f6cef69987ce9bf77068d85a3e033389289853",
+    "scores": {
+      "temporal": 0.9364504036428007,
+      "pooled_spatial": 0.7885987949765152,
+      "broadband_joint": 0.6147455772081569,
+      "factorized_joint": 0.6831615331448735
+    }
+  },
+  {
+    "scene_id": "development-050",
+    "index": 50,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "4343feb69f6499b7dbc88bc209aea254a6dc0c6863b0061d52d487ce15ff63b1",
+    "audio_hash": "7e4c3ba652e89e9f5f73252ac207f18e65e09c3ce265f93755c6c686f39f296c",
+    "scores": {
+      "temporal": 0.9473117021452006,
+      "pooled_spatial": 0.7877490710745291,
+      "broadband_joint": 0.6174055095754928,
+      "factorized_joint": 0.6793815381178329
+    }
+  },
+  {
+    "scene_id": "development-050",
+    "index": 50,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "4343feb69f6499b7dbc88bc209aea254a6dc0c6863b0061d52d487ce15ff63b1",
+    "audio_hash": "e4b3689f80aacbcd1c28e7bb65f6cef69987ce9bf77068d85a3e033389289853",
+    "scores": {
+      "temporal": 0.9473256762192351,
+      "pooled_spatial": 0.7895158190066723,
+      "broadband_joint": 0.6281775727209526,
+      "factorized_joint": 0.6905788315360135
+    }
+  },
+  {
+    "scene_id": "development-051",
+    "index": 51,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "7db71b67a5a834a6a639803c9479692ec25cbff498ab9913cfe738bd7cf2663f",
+    "audio_hash": "afd851e32b8fb8217a53ab0676cb61550f5d1fa18de91641d9641ae53a0bad81",
+    "scores": {
+      "temporal": 0.8719283733763291,
+      "pooled_spatial": 0.8591370388704045,
+      "broadband_joint": 0.6785101783374199,
+      "factorized_joint": 0.8754994245552971
+    }
+  },
+  {
+    "scene_id": "development-051",
+    "index": 51,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "7db71b67a5a834a6a639803c9479692ec25cbff498ab9913cfe738bd7cf2663f",
+    "audio_hash": "a0cb8e2c0d35a6dd91dca4df142e47c41b596d595f6ded78754a2ccca7919a16",
+    "scores": {
+      "temporal": 0.8719950291579236,
+      "pooled_spatial": 0.8639205532645082,
+      "broadband_joint": 0.18863483210869017,
+      "factorized_joint": 0.4796797880933878
+    }
+  },
+  {
+    "scene_id": "development-051",
+    "index": 51,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "36169e574dcd98f890a93ebf54de29c2178208f0147e25c87e3fef2f79dc0f6a",
+    "audio_hash": "afd851e32b8fb8217a53ab0676cb61550f5d1fa18de91641d9641ae53a0bad81",
+    "scores": {
+      "temporal": 0.8551848781238397,
+      "pooled_spatial": 0.8550383137797085,
+      "broadband_joint": 0.18759256188659137,
+      "factorized_joint": 0.46832311387588077
+    }
+  },
+  {
+    "scene_id": "development-051",
+    "index": 51,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "36169e574dcd98f890a93ebf54de29c2178208f0147e25c87e3fef2f79dc0f6a",
+    "audio_hash": "a0cb8e2c0d35a6dd91dca4df142e47c41b596d595f6ded78754a2ccca7919a16",
+    "scores": {
+      "temporal": 0.8551585675232277,
+      "pooled_spatial": 0.8599827612751754,
+      "broadband_joint": 0.6668419081457782,
+      "factorized_joint": 0.8823180764184613
+    }
+  },
+  {
+    "scene_id": "development-052",
+    "index": 52,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "f3df51318f5bec65cbdd88b2828a2ea7dabe345e45ab073e7786a5f47c286a42",
+    "audio_hash": "d41fd30c9df89e33831e6e8bac91fa46d9b92e8c5b4917ef8ff4d916e97ca70d",
+    "scores": {
+      "temporal": 0.8274170896681678,
+      "pooled_spatial": 0.9094926049301724,
+      "broadband_joint": 0.761717938372903,
+      "factorized_joint": 0.9332388983726899
+    }
+  },
+  {
+    "scene_id": "development-052",
+    "index": 52,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "f3df51318f5bec65cbdd88b2828a2ea7dabe345e45ab073e7786a5f47c286a42",
+    "audio_hash": "ba779189491aaf37a4b5023804ef41cd8195a5aaeed375cf9d94731a0ae1f83f",
+    "scores": {
+      "temporal": 0.8278539556504805,
+      "pooled_spatial": 0.9236441983027865,
+      "broadband_joint": 0.11409405246669044,
+      "factorized_joint": 0.2889010918265362
+    }
+  },
+  {
+    "scene_id": "development-052",
+    "index": 52,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "6502727663d4167e25e21051cfaa76cb443971e6b561a7485209e0246c28a047",
+    "audio_hash": "d41fd30c9df89e33831e6e8bac91fa46d9b92e8c5b4917ef8ff4d916e97ca70d",
+    "scores": {
+      "temporal": 0.8596813617289051,
+      "pooled_spatial": 0.9096765094194958,
+      "broadband_joint": 0.1008073217114437,
+      "factorized_joint": 0.291779640822331
+    }
+  },
+  {
+    "scene_id": "development-052",
+    "index": 52,
+    "family": "development-four-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "6502727663d4167e25e21051cfaa76cb443971e6b561a7485209e0246c28a047",
+    "audio_hash": "ba779189491aaf37a4b5023804ef41cd8195a5aaeed375cf9d94731a0ae1f83f",
+    "scores": {
+      "temporal": 0.8626472269071401,
+      "pooled_spatial": 0.924093043562854,
+      "broadband_joint": 0.7755940193585688,
+      "factorized_joint": 0.9284157864549127
+    }
+  },
+  {
+    "scene_id": "development-053",
+    "index": 53,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "d2ca16c60ca0d127d1ea0ab36e8785ba920851b4157dad354aaf280da7baada1",
+    "audio_hash": "7855518695f6085bb4cbcdb88fae3bc2a6126e4dbfa4637b58c60e36c374e5f5",
+    "scores": {
+      "temporal": 0.9774037325716548,
+      "pooled_spatial": 0.9194324629639504,
+      "broadband_joint": 0.3088656146786558,
+      "factorized_joint": 0.9288689564912269
+    }
+  },
+  {
+    "scene_id": "development-053",
+    "index": 53,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "d2ca16c60ca0d127d1ea0ab36e8785ba920851b4157dad354aaf280da7baada1",
+    "audio_hash": "5e238010b9bc2c0c0bc68827e15395d4e39293df06a02fe33e19d28c9dc7f24b",
+    "scores": {
+      "temporal": 0.9770445516030197,
+      "pooled_spatial": 0.9076596244482885,
+      "broadband_joint": 0.20753002756168856,
+      "factorized_joint": 0.8407972167815913
+    }
+  },
+  {
+    "scene_id": "development-053",
+    "index": 53,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "edaf0bf18480ecec4fa5e4791173a6e9c1f75f58a77b0466496c86f5ba5faad5",
+    "audio_hash": "7855518695f6085bb4cbcdb88fae3bc2a6126e4dbfa4637b58c60e36c374e5f5",
+    "scores": {
+      "temporal": 0.9759121816105565,
+      "pooled_spatial": 0.9219015861237368,
+      "broadband_joint": 0.18464301318262288,
+      "factorized_joint": 0.8369169619222705
+    }
+  },
+  {
+    "scene_id": "development-053",
+    "index": 53,
+    "family": "development-four-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "edaf0bf18480ecec4fa5e4791173a6e9c1f75f58a77b0466496c86f5ba5faad5",
+    "audio_hash": "5e238010b9bc2c0c0bc68827e15395d4e39293df06a02fe33e19d28c9dc7f24b",
+    "scores": {
+      "temporal": 0.9754786617878229,
+      "pooled_spatial": 0.9108532245761369,
+      "broadband_joint": 0.31582403789860114,
+      "factorized_joint": 0.9319397574449769
+    }
+  },
+  {
+    "scene_id": "development-054",
+    "index": 54,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "532e60adc0f42aa7a01768c005764687602ef29731f68bd903b56d9d9178b22d",
+    "audio_hash": "85b83e48037c0d1edbfd4bd2e58ede1fe5ea69f1d87153f09c9fcd6f8864beac",
+    "scores": {
+      "temporal": 0.7636672277766815,
+      "pooled_spatial": 0.8637737479987618,
+      "broadband_joint": 0.7062154215461504,
+      "factorized_joint": 0.8147147134473786
+    }
+  },
+  {
+    "scene_id": "development-054",
+    "index": 54,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "532e60adc0f42aa7a01768c005764687602ef29731f68bd903b56d9d9178b22d",
+    "audio_hash": "144719c98421cb59401d2f7349d5d0a3254c025eb0e65b0fc4e7b4f5bfb0d940",
+    "scores": {
+      "temporal": 0.7640511463780917,
+      "pooled_spatial": 0.8588606322007541,
+      "broadband_joint": 0.6544199723896666,
+      "factorized_joint": 0.7674000113294029
+    }
+  },
+  {
+    "scene_id": "development-054",
+    "index": 54,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "ecb4c7e19e2c73bdc11c7f6f9553b96278b160ef6b227ee9687a74589cc9ac09",
+    "audio_hash": "85b83e48037c0d1edbfd4bd2e58ede1fe5ea69f1d87153f09c9fcd6f8864beac",
+    "scores": {
+      "temporal": 0.8138150115759949,
+      "pooled_spatial": 0.8638954250096722,
+      "broadband_joint": 0.6901177530047918,
+      "factorized_joint": 0.7919320430011328
+    }
+  },
+  {
+    "scene_id": "development-054",
+    "index": 54,
+    "family": "development-four-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "ecb4c7e19e2c73bdc11c7f6f9553b96278b160ef6b227ee9687a74589cc9ac09",
+    "audio_hash": "144719c98421cb59401d2f7349d5d0a3254c025eb0e65b0fc4e7b4f5bfb0d940",
+    "scores": {
+      "temporal": 0.8135260218314617,
+      "pooled_spatial": 0.8589809647857781,
+      "broadband_joint": 0.7319673310537909,
+      "factorized_joint": 0.8269069976925912
+    }
+  },
+  {
+    "scene_id": "development-055",
+    "index": 55,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "f17e33d1bafead58725e152333acf4e289ada4e6604b9644136d38f99d89699b",
+    "audio_hash": "4a3bdee215b28007fcbccc3bcf712eaa24bb76b6c70ecb4c69e65aada0520400",
+    "scores": {
+      "temporal": 0.9549252453745751,
+      "pooled_spatial": 0.945978401286576,
+      "broadband_joint": 0.6573252889930318,
+      "factorized_joint": 0.9482297593750562
+    }
+  },
+  {
+    "scene_id": "development-055",
+    "index": 55,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "f17e33d1bafead58725e152333acf4e289ada4e6604b9644136d38f99d89699b",
+    "audio_hash": "20b1abfda46e2ea817869ff13d8b82d741d33e477fc7e5d4b09aec943b603154",
+    "scores": {
+      "temporal": 0.9556449762029546,
+      "pooled_spatial": 0.9578577229734258,
+      "broadband_joint": 0.17087629872708868,
+      "factorized_joint": 0.5101252064688512
+    }
+  },
+  {
+    "scene_id": "development-055",
+    "index": 55,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "4d507133b33ed734752adeb9fd4bad1acb10bf98274fff999d097f3bf3ea8ddb",
+    "audio_hash": "4a3bdee215b28007fcbccc3bcf712eaa24bb76b6c70ecb4c69e65aada0520400",
+    "scores": {
+      "temporal": 0.9684521203732511,
+      "pooled_spatial": 0.9423160685651802,
+      "broadband_joint": 0.16626079112666295,
+      "factorized_joint": 0.5202950412786385
+    }
+  },
+  {
+    "scene_id": "development-055",
+    "index": 55,
+    "family": "development-four-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "4d507133b33ed734752adeb9fd4bad1acb10bf98274fff999d097f3bf3ea8ddb",
+    "audio_hash": "20b1abfda46e2ea817869ff13d8b82d741d33e477fc7e5d4b09aec943b603154",
+    "scores": {
+      "temporal": 0.9678182264933505,
+      "pooled_spatial": 0.9560732583652012,
+      "broadband_joint": 0.6637209429934412,
+      "factorized_joint": 0.9474927672925006
+    }
+  },
+  {
+    "scene_id": "development-056",
+    "index": 56,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "a5b00783e3310e76b61ae581bde8e4503b69061a3341e9324dfc8b1b567b3e07",
+    "audio_hash": "638c88c880a2d5762d1065f2409974d99f953661c0371aef309f6f1982507b28",
+    "scores": {
+      "temporal": 0.8979067283735528,
+      "pooled_spatial": 0.9224405245660641,
+      "broadband_joint": 0.7358112547436959,
+      "factorized_joint": 0.915012013201325
+    }
+  },
+  {
+    "scene_id": "development-056",
+    "index": 56,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "a5b00783e3310e76b61ae581bde8e4503b69061a3341e9324dfc8b1b567b3e07",
+    "audio_hash": "799e9a16e5db16e012410b80d005a89fa4ae3b0b5ac1dec148ec29ea09af0a61",
+    "scores": {
+      "temporal": 0.8986553850690369,
+      "pooled_spatial": 0.902262061558028,
+      "broadband_joint": 0.14783994261568129,
+      "factorized_joint": 0.3882724125775053
+    }
+  },
+  {
+    "scene_id": "development-056",
+    "index": 56,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "96fb7abba40a33a36696ef2f8595b8e076b58c180a8d6728776f2a993fbb2e41",
+    "audio_hash": "638c88c880a2d5762d1065f2409974d99f953661c0371aef309f6f1982507b28",
+    "scores": {
+      "temporal": 0.9410688544553321,
+      "pooled_spatial": 0.9315700387423732,
+      "broadband_joint": 0.14339618243832505,
+      "factorized_joint": 0.397218994509151
+    }
+  },
+  {
+    "scene_id": "development-056",
+    "index": 56,
+    "family": "development-three-blade",
+    "stratum": "separated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "96fb7abba40a33a36696ef2f8595b8e076b58c180a8d6728776f2a993fbb2e41",
+    "audio_hash": "799e9a16e5db16e012410b80d005a89fa4ae3b0b5ac1dec148ec29ea09af0a61",
+    "scores": {
+      "temporal": 0.939482499621901,
+      "pooled_spatial": 0.9137297478504007,
+      "broadband_joint": 0.7170868851660147,
+      "factorized_joint": 0.9089241497009007
+    }
+  },
+  {
+    "scene_id": "development-057",
+    "index": 57,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "979dd2a9017365f21e041f5a7e0feb69aec0ca38d76c3348f3d8560837ba411b",
+    "audio_hash": "8e414b072d401e5bc51117fa220650a374d55c1a4947abcb8aab8caff1d2f388",
+    "scores": {
+      "temporal": 0.983058127222152,
+      "pooled_spatial": 0.8671337787956009,
+      "broadband_joint": 0.40491583525109837,
+      "factorized_joint": 0.9059933355126293
+    }
+  },
+  {
+    "scene_id": "development-057",
+    "index": 57,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "979dd2a9017365f21e041f5a7e0feb69aec0ca38d76c3348f3d8560837ba411b",
+    "audio_hash": "12eaa8c5160e6811d379efb0c792cf42db3c1ff99d5d38da20954f753a44312f",
+    "scores": {
+      "temporal": 0.9829901811263683,
+      "pooled_spatial": 0.9199433002216554,
+      "broadband_joint": 0.1590597264997011,
+      "factorized_joint": 0.7337122873785895
+    }
+  },
+  {
+    "scene_id": "development-057",
+    "index": 57,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "0b65917b7c5a56c39038595ee3076900a0da88eb0c1acd994b4cfa08baccafdd",
+    "audio_hash": "8e414b072d401e5bc51117fa220650a374d55c1a4947abcb8aab8caff1d2f388",
+    "scores": {
+      "temporal": 0.9605366245129955,
+      "pooled_spatial": 0.8542285244407849,
+      "broadband_joint": 0.1256102173903615,
+      "factorized_joint": 0.6998226905820024
+    }
+  },
+  {
+    "scene_id": "development-057",
+    "index": 57,
+    "family": "development-three-blade",
+    "stratum": "overlap",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "0b65917b7c5a56c39038595ee3076900a0da88eb0c1acd994b4cfa08baccafdd",
+    "audio_hash": "12eaa8c5160e6811d379efb0c792cf42db3c1ff99d5d38da20954f753a44312f",
+    "scores": {
+      "temporal": 0.9599549964628402,
+      "pooled_spatial": 0.9107401522497443,
+      "broadband_joint": 0.37314503243060676,
+      "factorized_joint": 0.9206183758132565
+    }
+  },
+  {
+    "scene_id": "development-058",
+    "index": 58,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "f213343f83fa88ac92429212300390b12cc4d376b183c101eda5b63690d48263",
+    "audio_hash": "034400340198504bd381f31eca7fda0a3bcc8e27da1e39a64e9c4dcd9588d587",
+    "scores": {
+      "temporal": 0.8307681804810679,
+      "pooled_spatial": 0.89290898900554,
+      "broadband_joint": 0.6932617049948685,
+      "factorized_joint": 0.7978871087711475
+    }
+  },
+  {
+    "scene_id": "development-058",
+    "index": 58,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "f213343f83fa88ac92429212300390b12cc4d376b183c101eda5b63690d48263",
+    "audio_hash": "6b26079f565deb46f4e6f0ec38811142513586a70cd5b90c51545d76e51e2c6d",
+    "scores": {
+      "temporal": 0.830535601541894,
+      "pooled_spatial": 0.8866782582307134,
+      "broadband_joint": 0.6408652066122302,
+      "factorized_joint": 0.7363166180341403
+    }
+  },
+  {
+    "scene_id": "development-058",
+    "index": 58,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "d672b4a3e18a274570e2807964860f2ccf445386be4d0497fff5622c76385aea",
+    "audio_hash": "034400340198504bd381f31eca7fda0a3bcc8e27da1e39a64e9c4dcd9588d587",
+    "scores": {
+      "temporal": 0.8813948650343678,
+      "pooled_spatial": 0.8930739558995647,
+      "broadband_joint": 0.6631700511681514,
+      "factorized_joint": 0.7883405105470255
+    }
+  },
+  {
+    "scene_id": "development-058",
+    "index": 58,
+    "family": "development-three-blade",
+    "stratum": "near_colocated",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "d672b4a3e18a274570e2807964860f2ccf445386be4d0497fff5622c76385aea",
+    "audio_hash": "6b26079f565deb46f4e6f0ec38811142513586a70cd5b90c51545d76e51e2c6d",
+    "scores": {
+      "temporal": 0.8816187550445972,
+      "pooled_spatial": 0.8868507967469649,
+      "broadband_joint": 0.6989298797004275,
+      "factorized_joint": 0.8096958450782799
+    }
+  },
+  {
+    "scene_id": "development-059",
+    "index": 59,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 0,
+    "label": 1,
+    "video_hash": "1d7d78e5eae38535af3e78932a3a5cac9751e36e3244ffcfc280a6cbc600bfed",
+    "audio_hash": "4f481904dfa1c0185105f2ddf55dc071bb2589d5f0b353f834900f7d935cfd2f",
+    "scores": {
+      "temporal": 0.8706162798572226,
+      "pooled_spatial": 0.9129555636784434,
+      "broadband_joint": 0.7634533477048875,
+      "factorized_joint": 0.8850049867373204
+    }
+  },
+  {
+    "scene_id": "development-059",
+    "index": 59,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 0,
+    "audio_assignment": 1,
+    "label": 0,
+    "video_hash": "1d7d78e5eae38535af3e78932a3a5cac9751e36e3244ffcfc280a6cbc600bfed",
+    "audio_hash": "2c35fabb358787d800cdc65a4b542950369d528d603a0778653339c958ab6248",
+    "scores": {
+      "temporal": 0.8696892636115349,
+      "pooled_spatial": 0.9205034636962691,
+      "broadband_joint": 0.14989656175714525,
+      "factorized_joint": 0.3166147167472412
+    }
+  },
+  {
+    "scene_id": "development-059",
+    "index": 59,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 0,
+    "label": 0,
+    "video_hash": "ae86b5bf8573d07f935a58b3ab6ce0311e1224a7a78da5b9a6507aa8c032b148",
+    "audio_hash": "4f481904dfa1c0185105f2ddf55dc071bb2589d5f0b353f834900f7d935cfd2f",
+    "scores": {
+      "temporal": 0.9029447518441288,
+      "pooled_spatial": 0.9017243113150946,
+      "broadband_joint": 0.17182644281330312,
+      "factorized_joint": 0.34397912327282487
+    }
+  },
+  {
+    "scene_id": "development-059",
+    "index": 59,
+    "family": "development-three-blade",
+    "stratum": "occluded",
+    "video_assignment": 1,
+    "audio_assignment": 1,
+    "label": 1,
+    "video_hash": "ae86b5bf8573d07f935a58b3ab6ce0311e1224a7a78da5b9a6507aa8c032b148",
+    "audio_hash": "2c35fabb358787d800cdc65a4b542950369d528d603a0778653339c958ab6248",
+    "scores": {
+      "temporal": 0.902084076577614,
+      "pooled_spatial": 0.930132829222981,
+      "broadband_joint": 0.7530219394629571,
+      "factorized_joint": 0.878334927493482
+    }
+  }
+]

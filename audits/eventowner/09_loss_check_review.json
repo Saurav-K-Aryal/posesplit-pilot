@@ -1,0 +1,10 @@
+{
+  "scope": "Independent algebraic non-vacuity verification of a linear coupled-model counterexample, not validation of an implemented trained spectral architecture.",
+  "loss_matches": true,
+  "gradient_matches": true,
+  "computed_loss": 0.01430112331687638,
+  "computed_gradient": -0.16824850961031032,
+  "hard_independent_limit_loss": 0.0,
+  "training_benefit_demonstrated": false,
+  "actual_funded_architecture_gradient_gate_still_required": true
+}

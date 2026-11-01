@@ -1,0 +1,602 @@
+[
+  {
+    "scene_id": "confirmation-000",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-001",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-002",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-003",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-004",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-005",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-006",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-007",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-008",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-009",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-010",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-011",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-012",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-013",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-014",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-015",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-016",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-017",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-018",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-019",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-020",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-021",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-022",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-023",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-024",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-025",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-026",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-027",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-028",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-029",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-030",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-031",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-032",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-033",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-034",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-035",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-036",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-037",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-038",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-039",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-040",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-041",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-042",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-043",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-044",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-045",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-046",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-047",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-048",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-049",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-050",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-051",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-052",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-053",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-054",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-055",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-056",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-057",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-058",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-059",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-060",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-061",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-062",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-063",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-064",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-065",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-066",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-067",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-068",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-069",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-070",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-071",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-072",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-073",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-074",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-075",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-076",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-077",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-078",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-079",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-080",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-081",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-082",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-083",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-084",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-085",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-086",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-087",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-088",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-089",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-090",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-091",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-092",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-093",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-094",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-095",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-096",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-097",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-098",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-099",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-100",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-101",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-102",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-103",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-104",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-105",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-106",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-107",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-108",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-109",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-110",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-111",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-112",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-113",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-114",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-115",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-116",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-117",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-118",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  },
+  {
+    "scene_id": "confirmation-119",
+    "video_exact_marginal_equal": true,
+    "audio_exact_marginal_equal": true
+  }
+]
