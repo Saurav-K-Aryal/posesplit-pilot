@@ -1,0 +1,93 @@
+{
+  "reviewer": "C: independent arithmetic, geometry, decoded PCM and control audit",
+  "status": "approved_for_root_freeze_and_execution",
+  "approved": true,
+  "reviewed_utc": "2026-10-31T22:28:52.198961+00:00",
+  "files": {
+    "source": {
+      "path": "pilots/renewed09/pose_split.py",
+      "sha256": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d"
+    },
+    "protocol": {
+      "path": "work/task09_protocol.json",
+      "sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522"
+    },
+    "selection": {
+      "path": "runs/renewed-09-posesplit-20261031/selection.json",
+      "sha256": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e"
+    },
+    "catalog": {
+      "path": "runs/renewed-09-posesplit-20261031/source_catalog.json",
+      "sha256": "614082da30af7903faaa66aed946c67f0b7a96a9b6faf0d55a9c8fe52f7e4cc0"
+    }
+  },
+  "passed": [
+    "Independent Rz matrix reference agrees with all96cardinal source/microphone/camera rotation chains; maximum component error2.47e-32.",
+    "Six hand-built cardinal ACN/SN3D W,Y,Z,X plane-wave WAVs were actually emitted as16-bit4-channel PCM and decoded through production emit/read_window before feature extraction.",
+    "All24cardinal yaw rotations were serialized as float32 raw PCM and decoded before intensity extraction; direction error<1e-7, coherence agrees with1, W/Z unchanged.",
+    "An independently direction-encoded analytic equirectangular panorama checks every pixel of four cardinal320x320crops; maximum RGB discrepancy<1.1/255. Positiveleft/up geometry agrees with raster signs.",
+    "Sixteen-row artificial cardinal groups show wrong-control6Dinput arrays are exactly identical to correct-arm arrays, preserve each source positive count, and move every positive label. Canonical arm preserves exactly the4audio-feature columns and case count.",
+    "Head input is explicitly decoded-audio intensity/coherence plus known relative sensor yaw; source MoCap, room/class IDs and oracle viewport labels do not enter the head. Gold direction is used for grading and analytic angular error only.",
+    "metrics valid mask gives failed predictions zero correctness in both positive and negative classes; Brier1and clipped maximal loss are explicit failure penalties.",
+    "Synthetic PCM estimate153600000bytes is arithmetically correct:5seeds*(256+64)*12000samples*4channels*2bytes. Small feature/model arrays and one-frame/one-window processing fit a48GBdesign; actual peak must still be measured.",
+    "Selection has23unique recordings,9development and7locked rooms with disjoint room sets; all selected recordings have12windows. Expected276base windows,2208real variant rows and35328prediction rows including analytic plus15heads.",
+    "Ordinary fixed yaw projection is a known mechanism; novelty cannot be claimed from having two pose variables. Interpretation is the controlled training support/evaluation, not a new audio-visual localization or synthesis algorithm."
+  ],
+  "pre_execution_cautions": [
+    "Square3Dfrustum membership is stricter than independent azimuth/elevation thresholds. Real elevation<=45degrees does not ensure exactly one available cardinal view; zero-positive base windows must remain.",
+    "Plane-wave source timing starts at direct arrival; first-order reflection delays are relative to it. Joint peak scaling removes absolute distance/amplitude supervision. This is simplified diffuse-free image-source synthesis, not validated acoustics.",
+    "Known camera pose plus audio localization is the actual preliminary task. Real image crops audit the media interface; no image pixels enter the head, so no learned visual fusion or object binding result follows.",
+    "Official archive MD5strings are source-record metadata only; no full3.4/4.1GBarchive MD5was empirically verified here. Only selected-member CRC,size,SHAreadback can be claimed after fetch.",
+    "Synthetic source noise is a label-independent procedural excitation; no event-semantic recognition, contact-force realism or generative-audio fidelity is tested.",
+    "Camera-only views reuse identical PCM and prediction differences reflect supplied yaw; virtual co-rig rotation changes idealFOAorientation without physical microphone relocation, body scattering or directivity validation."
+  ],
+  "independent_fixture": {
+    "script": "work/task09_cardinal_review_C.py",
+    "result": "work/task09_cardinal_fixture_C_result.json",
+    "result_sha256": "a609b7d316294f7aaeb0158fc296d89a0a24b19096cbac39b121594eafc5ecc6",
+    "source_sha256_at_fixture": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d",
+    "real_media_decoded": 0,
+    "real_scores_computed": 0,
+    "model_training_runs": 0
+  },
+  "primary_sources": [
+    {
+      "url": "https://zenodo.org/records/7880637",
+      "fact": "PinnedSTARSS23v1.1.0record, official splits, 4-channel24kHz16bitFOA, spatiotemporal human/MoCaplabels and source archive checksums."
+    },
+    {
+      "url": "https://github.com/google/spatial-media/blob/master/docs/spatial-audio-rfc.md",
+      "fact": "ACN/SN3D W,Y,Z,X ordering and positive-left azimuth/up elevation conventions."
+    },
+    {
+      "url": "https://github.com/SonyResearch/dcase2025_stereo_seld_data_generator",
+      "pinned_commit": "08e267e5152d37cb7a828f5f52b256f917609132",
+      "local_source_manifest": "work/task09_review_C_sources/source_manifest.json",
+      "fact": "Official rotation code uses newX=cos(deg)X\u2212sin(deg)Y,newY=sin(deg)X+cos(deg)Y and labels az+deg. PoseSplit passive yaw\u03c8 therefore corresponds to official generator deg=\u2212\u03c8."
+    }
+  ],
+  "authorization_boundary": "No heldout real audio/video decoded, synthetic study dataset generated, model fit, bootstrap evaluation, or native inference was run. Only explicit artificial cardinal fixtures and metadata/source inspection.",
+  "resolved_must_fix": [
+    {
+      "id": "C1",
+      "location": "natural_features broad try/except",
+      "issue": "Successful variant rows append immediately. An exception after a subset has appended causes all8failure rows to append as well, duplicating the selected window and changing denominators.",
+      "required": "Build all8rows locally then commit once, or handle errors per variant; assert exactly one row per recording/start_frame/regime/heading and exactly8rows per selected base window. Preserve failed windows with no correctness credit."
+    },
+    {
+      "id": "C2",
+      "location": "summarize paired_camera_only_room_contrasts",
+      "issue": "delta excludes None pairs, but dict(zip(keys,delta)) still uses unfiltered room keys. If a room BA is undefined, subsequent room contrasts can be assigned wrong IDs. Recording/room BA undefined cases are also silently omitted from macro means.",
+      "required": "Construct valid paired room keys and deltas together, report undefined recording/room units and effective unit counts. State the predeclared undefined-class treatment rather than silently presenting7as the effectiveN if fewer contribute."
+    }
+  ],
+  "must_fix": [],
+  "resolution": {
+    "C1": "natural_features now accumulates one temporary8-row block and commits only after it is complete. Every selected audio/media failure writes a ledger and halts before training/scoring; no partial efficacy result is produced.",
+    "C2": "Before freeze the primary estimand was explicitly revised to pooled-confusion BA within seed, averaged across seeds. All7room indices are resampled jointly for2000replicates with the identical draws paired across arms/seeds; all selected cases and room multiplicities remain. Undefined replicates are null and counted without redraw. Per-recording/room descriptive confusions report undefined BA explicitly. The former mis-zipped filtered room means are removed.",
+    "boundary": "Production visible and protocol use the same inclusive1e-9unit-vector tolerance. Cardinal matrix/decoded-PCM/panorama/control fixtures passed again against the exact final source.",
+    "provenance": "Working and planned protocol bytes match5b977a50\u2026, selection remains38ba020d\u2026, refreshed plan_readback binds exact code/protocol/selection. Added raw bootstrap draw/estimate retention is an audit artifact, not a changed estimator."
+  },
+  "primary_statistic_after_prefreeze_revision": "Mean of five seed-specific pooled locked-camera-only balanced accuracies; paired room-cluster bootstrap over7rooms,2000draws, seed9137. All views/windows retained; no frame/seed independence claim.",
+  "approval_scope": "Root may freeze/fetch/run the reviewed exact hashes. Approval is protocol/code arithmetic and fixture correctness only, not a positive result or physical realism claim. No real media decode, model fitting or heldout score was performed by this reviewer."
+}

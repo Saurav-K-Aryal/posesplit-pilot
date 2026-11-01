@@ -1,0 +1,18 @@
+{
+  "status": "generated_from_completed_observed_results",
+  "study": "runs/renewed-09-posesplit-20261031",
+  "source_result_sha256": "97530ffe65662a453fcb04dad9cbbd4a5a96f91c0ff4f695d01ac9d4614ead53",
+  "source_real_features_sha256": "3a48bead7d58bfbb46d6692f792704a6a7c059dc845fcd08a5bb1b76fc6b0d1d",
+  "source_media_audit_sha256": "23c7f62f70fa3c5d7b30b466fee88915b46cc2fbfa033c5268d9588b2ffdc4d5",
+  "generator_sha256": "4469cd9cfdb792de3d55de6e4793102ae4ad35553919725a5a5b48b2eaf6a8b9",
+  "figures": {
+    "pose_availability.png": "7e4bc91f42d2a8e2e740c269c15546dd36b3b62496f4bddb9530458f4602d94a",
+    "real_doa_ecdf.png": "d1e5577d5c2c07767890b305d74b7b09ace631c6c5539ce9be615d3b11e89c64"
+  },
+  "figure_notes": {
+    "pose_availability": "Camera-onlyprimarypooledBAaveragedacross5seeds;analyticbaselineonescore;intervalsresample7roomclustersandarenotindependent-windowuncertainty. Wronglabelsareanintentionallyinvalidnegativecontrol.",
+    "real_doa_ecdf": "DescriptiveECDFof168nestedwindows;sourceannotationsareexternalMoCaplabels;noindependenceclaimorCI.",
+    "montages": "Twofixedlexicographicexamplesdefinedbeforeoutcomes;realpixels,geometryauditonly,noimagefeaturesusedbyhead."
+  },
+  "native_model_calls": 0
+}

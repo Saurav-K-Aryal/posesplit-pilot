@@ -1,0 +1,22 @@
+[
+  {
+    "unix": 1793485575.253946,
+    "reason": "Root/independentpre-executionreview:pooledBAclusterbootstrap,haltbeforetrainingonanydecodefailure,constantfrontbaseline,andNumPyscalarcompatibility. No mediafeaturedecodeorsynthetictraininghadoccurred.",
+    "old_code_sha256": "cf660090e1a109eabc5c8a5218a885009313bdb3b1928224ec8d095d0abdfccb",
+    "new_code_sha256": "354e8f2ae594286ab40675aad327dbfbc9fab8b8926c47370ff2c7f75fe3fce7",
+    "old_protocol_sha256": "0fcefefe0be667de62bd0125e6a1ecc2143ad7593819d9b23212ca9d5480d05b",
+    "new_protocol_sha256": "af8d627a0fe0bb4f860126b1aaec6d44c0bc5e3f29915e2e9095b0a15c700387",
+    "selection_sha256_unchanged": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e",
+    "originals": "pre_freeze_versions/"
+  },
+  {
+    "unix": 1793485696.24279,
+    "reason": "Finalpre-executionreview:inclusive1e-9viewportboundary,explicitall2000bootstrapreplicates,strictmedia-validationbeforeefficacyscoring,emittedcardinalfixturesandNumPyscalarcompatibility. No realmediafeaturedecodeortraining/scoringhasoccurred.",
+    "old_code_sha256": "354e8f2ae594286ab40675aad327dbfbc9fab8b8926c47370ff2c7f75fe3fce7",
+    "new_code_sha256": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d",
+    "old_protocol_sha256": "af8d627a0fe0bb4f860126b1aaec6d44c0bc5e3f29915e2e9095b0a15c700387",
+    "new_protocol_sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522",
+    "selection_sha256_unchanged": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e",
+    "snapshot_before_final_patch": "pre_freeze_versions/code_review_8877877d5a07.py"
+  }
+]

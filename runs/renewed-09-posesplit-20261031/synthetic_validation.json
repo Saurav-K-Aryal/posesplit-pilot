@@ -1,0 +1,527 @@
+[
+  {
+    "seed": 101,
+    "arm": "pose_aware",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.99609375,
+      "sensitivity": 0.984375,
+      "specificity": 1.0,
+      "balanced_accuracy": 0.9921875,
+      "brier": 0.0056010710434847896,
+      "log_loss": 0.022699911476738527
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6882182303456219
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.11717282889078032
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.019329145235733834
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.013180309177948367
+      }
+    ],
+    "model_sha256": "3789d59dc0a219de4c9342095feb32c473dc2e6db3d3fb8cfc73ad0255fcc0f2"
+  },
+  {
+    "seed": 101,
+    "arm": "canonical_matched_orientation",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.6328125,
+      "sensitivity": 0.234375,
+      "specificity": 0.765625,
+      "balanced_accuracy": 0.5,
+      "brier": 0.3621246919355035,
+      "log_loss": 7.100992121453794
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6662625924821443
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.06939771683234915
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.016150722993080572
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.007707283393144221
+      }
+    ],
+    "model_sha256": "e465626449e808f519c57a02b6e3b853a4678a85f245ed0f497f74791e83cf24"
+  },
+  {
+    "seed": 101,
+    "arm": "wrong_pose_negative_control",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.58984375,
+      "sensitivity": 0.0,
+      "specificity": 0.7864583333333334,
+      "balanced_accuracy": 0.3932291666666667,
+      "brier": 0.36042846929044414,
+      "log_loss": 1.8805975992267288
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6978651890670848
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.49138089020933384
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.43694234818420774
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.397676782810821
+      }
+    ],
+    "model_sha256": "272e0473ec87a617b99c0d59adfbef2a006b153e3afe1b879dd0170385bc01d7"
+  },
+  {
+    "seed": 211,
+    "arm": "pose_aware",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 1.0,
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "balanced_accuracy": 1.0,
+      "brier": 0.0005499326526889816,
+      "log_loss": 0.00479449004879317
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6634815176573274
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.10251829121538408
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.014854191906144287
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.010672915620044729
+      }
+    ],
+    "model_sha256": "e1e4e1a9aaa332763b13727359263fd46ed00bcf235f6f26069d9e910572ccc4"
+  },
+  {
+    "seed": 211,
+    "arm": "canonical_matched_orientation",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.60546875,
+      "sensitivity": 0.28125,
+      "specificity": 0.7135416666666666,
+      "balanced_accuracy": 0.4973958333333333,
+      "brier": 0.39210047949178645,
+      "log_loss": 8.283677366098715
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6256882342327754
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.06566786665159671
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.010886169985709748
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.005804877403862166
+      }
+    ],
+    "model_sha256": "970f5f2a514e637150bcf66b0774f762676aa869797c710f6c821eec24ce12a0"
+  },
+  {
+    "seed": 211,
+    "arm": "wrong_pose_negative_control",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.61328125,
+      "sensitivity": 0.0,
+      "specificity": 0.8177083333333334,
+      "balanced_accuracy": 0.4088541666666667,
+      "brier": 0.3553245378097128,
+      "log_loss": 2.2423516577618017
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6571428853299279
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.5003271902855531
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.4274653727088792
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.39064051684211537
+      }
+    ],
+    "model_sha256": "5852df19e7328da87840381eefb6a7207f799461406576ff814ba95292d51918"
+  },
+  {
+    "seed": 307,
+    "arm": "pose_aware",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 1.0,
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "balanced_accuracy": 1.0,
+      "brier": 0.003392297053167268,
+      "log_loss": 0.014920960718104608
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.7687140564631787
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.1279311505147591
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.020905137237644793
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.013963194264629341
+      }
+    ],
+    "model_sha256": "89e4533c02b4f7ac5150a8e1173c03c325f624ac98ea8b5c79123a11460546b5"
+  },
+  {
+    "seed": 307,
+    "arm": "canonical_matched_orientation",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.56640625,
+      "sensitivity": 0.296875,
+      "specificity": 0.65625,
+      "balanced_accuracy": 0.4765625,
+      "brier": 0.4257124085110813,
+      "log_loss": 7.128093484548356
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.7810867025055781
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.08367308912381763
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.016499446275439218
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.009572222444059832
+      }
+    ],
+    "model_sha256": "5eee08a0ec98c5604b46ebc4aa365c4ca3508bf13805b58159db199638a8a975"
+  },
+  {
+    "seed": 307,
+    "arm": "wrong_pose_negative_control",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.640625,
+      "sensitivity": 0.0,
+      "specificity": 0.8541666666666666,
+      "balanced_accuracy": 0.4270833333333333,
+      "brier": 0.35021595737510225,
+      "log_loss": 2.0546189652888813
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.766463907597996
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.517078417436059
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.4436708301895293
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.41861887382361196
+      }
+    ],
+    "model_sha256": "879525fa3a253c7c2cd2efd43ac5a737374f5129a8275c9a64ad777402f91dab"
+  },
+  {
+    "seed": 401,
+    "arm": "pose_aware",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 1.0,
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "balanced_accuracy": 1.0,
+      "brier": 0.0008040090978880322,
+      "log_loss": 0.005976468799792329
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.8302748848095426
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.17082416452887705
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.01778568969636756
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.011919712587625707
+      }
+    ],
+    "model_sha256": "74d1ff2166c1025ce3180b74c34778ba7da684ef9014f5e6f86f840983b826dc"
+  },
+  {
+    "seed": 401,
+    "arm": "canonical_matched_orientation",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.58984375,
+      "sensitivity": 0.296875,
+      "specificity": 0.6875,
+      "balanced_accuracy": 0.4921875,
+      "brier": 0.4077043123729286,
+      "log_loss": 7.884164703323104
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6233005191275454
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.0518366889404934
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.007997234016831934
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.004456350833673252
+      }
+    ],
+    "model_sha256": "cc0aa9f32051f1a3f8e2af0663b30af7365aaa36abefe9847336eab6c70f5830"
+  },
+  {
+    "seed": 401,
+    "arm": "wrong_pose_negative_control",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.59765625,
+      "sensitivity": 0.0,
+      "specificity": 0.796875,
+      "balanced_accuracy": 0.3984375,
+      "brier": 0.3522918096916247,
+      "log_loss": 1.9910616154360783
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.7950870022675954
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.5226686977512548
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.44438670880714154
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.4105911478697366
+      }
+    ],
+    "model_sha256": "117a1e387fc4238a4c5d4a987081308545e3e707989f5b34e54c599675267647"
+  },
+  {
+    "seed": 503,
+    "arm": "pose_aware",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.99609375,
+      "sensitivity": 0.984375,
+      "specificity": 1.0,
+      "balanced_accuracy": 0.9921875,
+      "brier": 0.007037991646684169,
+      "log_loss": 0.029443110746229625
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.7000934456206978
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.1152875348172754
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.01676795998802893
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.01101761680720972
+      }
+    ],
+    "model_sha256": "e944cbd32c0d3be853ef30a1963efe9381c76d4b1f856950b53be91b1698d94f"
+  },
+  {
+    "seed": 503,
+    "arm": "canonical_matched_orientation",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.62109375,
+      "sensitivity": 0.25,
+      "specificity": 0.7447916666666666,
+      "balanced_accuracy": 0.4973958333333333,
+      "brier": 0.36710795822577147,
+      "log_loss": 7.101130241676628
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.7017459141708879
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.05097250185341961
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.007595231819575399
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.0037716148927185566
+      }
+    ],
+    "model_sha256": "7957686280afbb212ccfe72dd01c65ac62006c6d1235d9e0af33fbae986e6772"
+  },
+  {
+    "seed": 503,
+    "arm": "wrong_pose_negative_control",
+    "rows": 256,
+    "metrics": {
+      "cases": 256,
+      "positive": 64,
+      "feature_failures": 0,
+      "accuracy": 0.6328125,
+      "sensitivity": 0.015625,
+      "specificity": 0.8385416666666666,
+      "balanced_accuracy": 0.4270833333333333,
+      "brier": 0.33672554954195255,
+      "log_loss": 1.6778316473813633
+    },
+    "training_history": [
+      {
+        "step": 1,
+        "binary_crossentropy": 0.6975294630743516
+      },
+      {
+        "step": 100,
+        "binary_crossentropy": 0.520212353560772
+      },
+      {
+        "step": 500,
+        "binary_crossentropy": 0.4435753378108423
+      },
+      {
+        "step": 1000,
+        "binary_crossentropy": 0.41657419244788874
+      }
+    ],
+    "model_sha256": "020c2ab8c4a9222f33891d984269e1dd7e2f12577ac5e7fee78b6cce8567a348"
+  }
+]

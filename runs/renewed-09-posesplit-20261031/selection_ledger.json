@@ -1,0 +1,1178 @@
+[
+  {
+    "recording": "fold4_room23_mix001",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room23_mix002",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room23_mix003",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room23_mix004",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room23_mix005",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 97,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix006",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 38,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix007",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 96,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix008",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 58,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix009",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room23_mix010",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 128,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix011",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 168,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix012",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 137,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix013",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 85,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room23_mix014",
+    "room": "room23",
+    "split": "locked",
+    "eligible_windows": 38,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix001",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 77,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix002",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room24_mix003",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 21,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix004",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 19,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix005",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room24_mix006",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 109,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix007",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room24_mix008",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 83,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix009",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 8,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix010",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 36,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix011",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 65,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix012",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 220,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix013",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room24_mix014",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 69,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix015",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 35,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room24_mix016",
+    "room": "room24",
+    "split": "locked",
+    "eligible_windows": 85,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix001",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 153,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix002",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 129,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix003",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 170,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix004",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 118,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix005",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 105,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix006",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 212,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix007",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 137,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix008",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 11,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room10_mix009",
+    "room": "room10",
+    "split": "locked",
+    "eligible_windows": 105,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix001",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 320,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix002",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 326,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix003",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 462,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix004",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 338,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix005",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 111,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix006",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 382,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix007",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 133,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix008",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 173,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room15_mix009",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 5,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold4_room15_mix010",
+    "room": "room15",
+    "split": "locked",
+    "eligible_windows": 776,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix001",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 262,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix002",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 163,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix003",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 97,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix004",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 51,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix005",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 16,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix006",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 212,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix007",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 280,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix008",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 30,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix009",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 66,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix010",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 47,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix011",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 48,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix012",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 106,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix013",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 27,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room16_mix014",
+    "room": "room16",
+    "split": "locked",
+    "eligible_windows": 46,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room2_mix001",
+    "room": "room2",
+    "split": "locked",
+    "eligible_windows": 188,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room2_mix002",
+    "room": "room2",
+    "split": "locked",
+    "eligible_windows": 152,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room2_mix003",
+    "room": "room2",
+    "split": "locked",
+    "eligible_windows": 328,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room2_mix004",
+    "room": "room2",
+    "split": "locked",
+    "eligible_windows": 233,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room2_mix005",
+    "room": "room2",
+    "split": "locked",
+    "eligible_windows": 149,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room2_mix006",
+    "room": "room2",
+    "split": "locked",
+    "eligible_windows": 576,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix001",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 327,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix002",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 198,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix003",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 179,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix004",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 80,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix005",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 262,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix006",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 102,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix007",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 167,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix008",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 159,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold4_room8_mix009",
+    "room": "room8",
+    "split": "locked",
+    "eligible_windows": 549,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix001",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 72,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix002",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 75,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix003",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 78,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix004",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 4,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix005",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 83,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix006",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 55,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix007",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 45,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix008",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 129,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix009",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 13,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix010",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix011",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix012",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 91,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix013",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 23,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix014",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 24,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix015",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 47,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix016",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 54,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix017",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 46,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix018",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 123,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix019",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 21,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix020",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 20,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix021",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix022",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 89,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix023",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room21_mix024",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 118,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix025",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 24,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix026",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 218,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix027",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 128,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix028",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 89,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room21_mix029",
+    "room": "room21",
+    "split": "development",
+    "eligible_windows": 11,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix001",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 43,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix002",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 88,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix003",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 65,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix004",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 98,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix005",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 31,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix006",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 17,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix007",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 193,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix008",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 22,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix009",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 41,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix010",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 78,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room22_mix011",
+    "room": "room22",
+    "split": "development",
+    "eligible_windows": 78,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix001",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 307,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix002",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 298,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix003",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 70,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix004",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 149,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix005",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 41,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix006",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 154,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix007",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 233,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix008",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 68,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room12_mix009",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 2,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room12_mix010",
+    "room": "room12",
+    "split": "development",
+    "eligible_windows": 4,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room13_mix001",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 310,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix002",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 360,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix003",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 201,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix004",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 146,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix005",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room13_mix006",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 389,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix007",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 331,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix008",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 113,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room13_mix009",
+    "room": "room13",
+    "split": "development",
+    "eligible_windows": 0,
+    "status": "too_few_eligible_windows_or_missing_audio_video"
+  },
+  {
+    "recording": "fold3_room14_mix001",
+    "room": "room14",
+    "split": "development",
+    "eligible_windows": 76,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room14_mix002",
+    "room": "room14",
+    "split": "development",
+    "eligible_windows": 47,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room14_mix003",
+    "room": "room14",
+    "split": "development",
+    "eligible_windows": 15,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room14_mix004",
+    "room": "room14",
+    "split": "development",
+    "eligible_windows": 33,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room4_mix001",
+    "room": "room4",
+    "split": "development",
+    "eligible_windows": 122,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room4_mix004",
+    "room": "room4",
+    "split": "development",
+    "eligible_windows": 76,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room4_mix005",
+    "room": "room4",
+    "split": "development",
+    "eligible_windows": 71,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room4_mix006",
+    "room": "room4",
+    "split": "development",
+    "eligible_windows": 271,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room4_mix007",
+    "room": "room4",
+    "split": "development",
+    "eligible_windows": 336,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room4_mix008",
+    "room": "room4",
+    "split": "development",
+    "eligible_windows": 217,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix001",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 301,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix002",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 365,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix003",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 482,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix004",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 458,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix005",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 402,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix006",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 119,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room6_mix007",
+    "room": "room6",
+    "split": "development",
+    "eligible_windows": 182,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room7_mix001",
+    "room": "room7",
+    "split": "development",
+    "eligible_windows": 217,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room7_mix002",
+    "room": "room7",
+    "split": "development",
+    "eligible_windows": 525,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room7_mix003",
+    "room": "room7",
+    "split": "development",
+    "eligible_windows": 84,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room7_mix004",
+    "room": "room7",
+    "split": "development",
+    "eligible_windows": 476,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room7_mix005",
+    "room": "room7",
+    "split": "development",
+    "eligible_windows": 368,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room7_mix006",
+    "room": "room7",
+    "split": "development",
+    "eligible_windows": 284,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix001",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 261,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix002",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 223,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix003",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 136,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix004",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 240,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix005",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 325,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix006",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 198,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix007",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 188,
+    "status": "eligible"
+  },
+  {
+    "recording": "fold3_room9_mix008",
+    "room": "room9",
+    "split": "development",
+    "eligible_windows": 296,
+    "status": "eligible"
+  }
+]

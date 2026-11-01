@@ -1,0 +1,1626 @@
+{
+  "foa": {
+    "foa_dev/dev-train-tau/fold3_room13_mix004.wav": {
+      "bytes": 29871148,
+      "compressed_bytes": 17624790,
+      "crc32": 1953129044
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix003.wav": {
+      "bytes": 68119588,
+      "compressed_bytes": 52629190,
+      "crc32": 2342791049
+    },
+    "foa_dev/dev-train-tau/fold3_room7_mix001.wav": {
+      "bytes": 29682220,
+      "compressed_bytes": 19670109,
+      "crc32": 1635007796
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix001.wav": {
+      "bytes": 48630820,
+      "compressed_bytes": 33517924,
+      "crc32": 925396801
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix010.wav": {
+      "bytes": 37014572,
+      "compressed_bytes": 25846013,
+      "crc32": 1001157237
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix007.wav": {
+      "bytes": 30796332,
+      "compressed_bytes": 19363645,
+      "crc32": 1716294370
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix004.wav": {
+      "bytes": 28125740,
+      "compressed_bytes": 18041462,
+      "crc32": 3663480469
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix006.wav": {
+      "bytes": 28555820,
+      "compressed_bytes": 18378625,
+      "crc32": 3418672109
+    },
+    "foa_dev/dev-train-tau/fold3_room7_mix002.wav": {
+      "bytes": 62482980,
+      "compressed_bytes": 41071379,
+      "crc32": 882484228
+    },
+    "foa_dev/dev-train-tau/fold3_room4_mix006.wav": {
+      "bytes": 34904620,
+      "compressed_bytes": 22307479,
+      "crc32": 1301135992
+    },
+    "foa_dev/dev-train-tau/fold3_room4_mix001.wav": {
+      "bytes": 24783404,
+      "compressed_bytes": 9389981,
+      "crc32": 688796427
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix008.wav": {
+      "bytes": 41064996,
+      "compressed_bytes": 26667462,
+      "crc32": 2455775122
+    },
+    "foa_dev/dev-train-tau/fold3_room4_mix005.wav": {
+      "bytes": 21015068,
+      "compressed_bytes": 12496556,
+      "crc32": 2522822921
+    },
+    "foa_dev/dev-train-tau/fold3_room7_mix004.wav": {
+      "bytes": 63056428,
+      "compressed_bytes": 38540961,
+      "crc32": 1547432290
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix006.wav": {
+      "bytes": 59100204,
+      "compressed_bytes": 37180840,
+      "crc32": 686994424
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix008.wav": {
+      "bytes": 45284396,
+      "compressed_bytes": 30630409,
+      "crc32": 2429880967
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix002.wav": {
+      "bytes": 56962092,
+      "compressed_bytes": 34400911,
+      "crc32": 501922778
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix005.wav": {
+      "bytes": 44128804,
+      "compressed_bytes": 28159708,
+      "crc32": 854754604
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix006.wav": {
+      "bytes": 19479076,
+      "compressed_bytes": 14258890,
+      "crc32": 4265540753
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix005.wav": {
+      "bytes": 52607524,
+      "compressed_bytes": 40110250,
+      "crc32": 1503036857
+    },
+    "foa_dev/dev-train-tau/fold3_room14_mix004.wav": {
+      "bytes": 12606516,
+      "compressed_bytes": 6671351,
+      "crc32": 3765552305
+    },
+    "foa_dev/dev-train-tau/fold3_room7_mix005.wav": {
+      "bytes": 50002468,
+      "compressed_bytes": 31790258,
+      "crc32": 3436051867
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix005.wav": {
+      "bytes": 10255916,
+      "compressed_bytes": 7060379,
+      "crc32": 3860890253
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix003.wav": {
+      "bytes": 61811244,
+      "compressed_bytes": 38162715,
+      "crc32": 2531603716
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix002.wav": {
+      "bytes": 49494572,
+      "compressed_bytes": 34012038,
+      "crc32": 626245311
+    },
+    "foa_dev/dev-train-tau/fold3_room4_mix007.wav": {
+      "bytes": 43059748,
+      "compressed_bytes": 27500513,
+      "crc32": 2179351609
+    },
+    "foa_dev/dev-train-tau/fold3_room14_mix001.wav": {
+      "bytes": 20450340,
+      "compressed_bytes": 10596282,
+      "crc32": 3546485830
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix007.wav": {
+      "bytes": 41200172,
+      "compressed_bytes": 30381327,
+      "crc32": 1185685142
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix004.wav": {
+      "bytes": 64347172,
+      "compressed_bytes": 49123588,
+      "crc32": 3979703426
+    },
+    "foa_dev/dev-train-tau/fold3_room7_mix006.wav": {
+      "bytes": 64629292,
+      "compressed_bytes": 43166177,
+      "crc32": 2886378037
+    },
+    "foa_dev/dev-train-tau/fold3_room14_mix002.wav": {
+      "bytes": 14875692,
+      "compressed_bytes": 7858360,
+      "crc32": 155888398
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix001.wav": {
+      "bytes": 50515492,
+      "compressed_bytes": 30895350,
+      "crc32": 352051009
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix009.wav": {
+      "bytes": 74611756,
+      "compressed_bytes": 51023686,
+      "crc32": 3139189780
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix008.wav": {
+      "bytes": 47062068,
+      "compressed_bytes": 35903985,
+      "crc32": 2396306370
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix009.wav": {
+      "bytes": 19926052,
+      "compressed_bytes": 15769129,
+      "crc32": 3912817520
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix004.wav": {
+      "bytes": 55585316,
+      "compressed_bytes": 41965501,
+      "crc32": 2850211250
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix002.wav": {
+      "bytes": 43146276,
+      "compressed_bytes": 28784132,
+      "crc32": 3908470739
+    },
+    "foa_dev/dev-train-tau/fold3_room7_mix003.wav": {
+      "bytes": 41925156,
+      "compressed_bytes": 28804344,
+      "crc32": 2042326123
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix002.wav": {
+      "bytes": 33073708,
+      "compressed_bytes": 20784726,
+      "crc32": 3196001401
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix001.wav": {
+      "bytes": 34703908,
+      "compressed_bytes": 21877833,
+      "crc32": 3169937640
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix007.wav": {
+      "bytes": 47758372,
+      "compressed_bytes": 33715955,
+      "crc32": 2656458469
+    },
+    "foa_dev/dev-train-tau/fold3_room9_mix003.wav": {
+      "bytes": 31590948,
+      "compressed_bytes": 19499377,
+      "crc32": 91670366
+    },
+    "foa_dev/dev-train-tau/fold3_room6_mix001.wav": {
+      "bytes": 42203700,
+      "compressed_bytes": 29116288,
+      "crc32": 304765665
+    },
+    "foa_dev/dev-train-tau/fold3_room14_mix003.wav": {
+      "bytes": 7846948,
+      "compressed_bytes": 4378949,
+      "crc32": 3095226341
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix006.wav": {
+      "bytes": 29764652,
+      "compressed_bytes": 20602025,
+      "crc32": 4140606776
+    },
+    "foa_dev/dev-train-tau/fold3_room12_mix005.wav": {
+      "bytes": 18209836,
+      "compressed_bytes": 13947520,
+      "crc32": 4280467517
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix007.wav": {
+      "bytes": 46910500,
+      "compressed_bytes": 28060124,
+      "crc32": 2023855914
+    },
+    "foa_dev/dev-train-tau/fold3_room4_mix004.wav": {
+      "bytes": 30669356,
+      "compressed_bytes": 18696781,
+      "crc32": 1487720386
+    },
+    "foa_dev/dev-train-tau/fold3_room13_mix003.wav": {
+      "bytes": 39173164,
+      "compressed_bytes": 23586054,
+      "crc32": 2284096544
+    },
+    "foa_dev/dev-train-tau/fold3_room4_mix008.wav": {
+      "bytes": 31947308,
+      "compressed_bytes": 19581073,
+      "crc32": 3069576814
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix011.wav": {
+      "bytes": 11251244,
+      "compressed_bytes": 8188491,
+      "crc32": 3001671186
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix025.wav": {
+      "bytes": 46656044,
+      "compressed_bytes": 34977593,
+      "crc32": 2464376784
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix023.wav": {
+      "bytes": 21024044,
+      "compressed_bytes": 15275606,
+      "crc32": 1510554102
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix009.wav": {
+      "bytes": 16396844,
+      "compressed_bytes": 11373048,
+      "crc32": 114623858
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix002.wav": {
+      "bytes": 26880044,
+      "compressed_bytes": 18372283,
+      "crc32": 3694273147
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix013.wav": {
+      "bytes": 12480044,
+      "compressed_bytes": 9334189,
+      "crc32": 3891239929
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix008.wav": {
+      "bytes": 18240044,
+      "compressed_bytes": 12812239,
+      "crc32": 3981356336
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix015.wav": {
+      "bytes": 21830444,
+      "compressed_bytes": 16274869,
+      "crc32": 4187947581
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix016.wav": {
+      "bytes": 14438444,
+      "compressed_bytes": 10339742,
+      "crc32": 392149037
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix017.wav": {
+      "bytes": 25344044,
+      "compressed_bytes": 18610384,
+      "crc32": 591173660
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix020.wav": {
+      "bytes": 24499244,
+      "compressed_bytes": 15808200,
+      "crc32": 2319282999
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix014.wav": {
+      "bytes": 13056044,
+      "compressed_bytes": 9667235,
+      "crc32": 3442067123
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix007.wav": {
+      "bytes": 24211244,
+      "compressed_bytes": 17231299,
+      "crc32": 2420883052
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix019.wav": {
+      "bytes": 9408044,
+      "compressed_bytes": 6852868,
+      "crc32": 3479419565
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix006.wav": {
+      "bytes": 11520044,
+      "compressed_bytes": 8534630,
+      "crc32": 439313323
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix006.wav": {
+      "bytes": 7276844,
+      "compressed_bytes": 5188371,
+      "crc32": 673169613
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix024.wav": {
+      "bytes": 16128044,
+      "compressed_bytes": 11841984,
+      "crc32": 1172472686
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix004.wav": {
+      "bytes": 20121644,
+      "compressed_bytes": 14399652,
+      "crc32": 1743004368
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix005.wav": {
+      "bytes": 13056044,
+      "compressed_bytes": 9313473,
+      "crc32": 1000864493
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix018.wav": {
+      "bytes": 24960044,
+      "compressed_bytes": 18001644,
+      "crc32": 1851510255
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix003.wav": {
+      "bytes": 13344044,
+      "compressed_bytes": 9009209,
+      "crc32": 2369938304
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix004.wav": {
+      "bytes": 6240044,
+      "compressed_bytes": 4519544,
+      "crc32": 4000471746
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix008.wav": {
+      "bytes": 29856044,
+      "compressed_bytes": 20761093,
+      "crc32": 1895305242
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix001.wav": {
+      "bytes": 14400044,
+      "compressed_bytes": 9715350,
+      "crc32": 1009803382
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix012.wav": {
+      "bytes": 29721644,
+      "compressed_bytes": 21701085,
+      "crc32": 4234618405
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix029.wav": {
+      "bytes": 39571244,
+      "compressed_bytes": 29904003,
+      "crc32": 1140590776
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix009.wav": {
+      "bytes": 21158444,
+      "compressed_bytes": 15322607,
+      "crc32": 487440527
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix022.wav": {
+      "bytes": 33600044,
+      "compressed_bytes": 22096903,
+      "crc32": 155683716
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix011.wav": {
+      "bytes": 35520044,
+      "compressed_bytes": 24047350,
+      "crc32": 115474880
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix026.wav": {
+      "bytes": 49900844,
+      "compressed_bytes": 37418715,
+      "crc32": 1823679703
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix005.wav": {
+      "bytes": 25632044,
+      "compressed_bytes": 19088298,
+      "crc32": 4116167834
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix028.wav": {
+      "bytes": 19200044,
+      "compressed_bytes": 13861413,
+      "crc32": 2263849882
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix001.wav": {
+      "bytes": 17164844,
+      "compressed_bytes": 11950448,
+      "crc32": 3351285189
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix002.wav": {
+      "bytes": 22944044,
+      "compressed_bytes": 15696761,
+      "crc32": 397514491
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix027.wav": {
+      "bytes": 21369644,
+      "compressed_bytes": 15272006,
+      "crc32": 179545020
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix021.wav": {
+      "bytes": 24960044,
+      "compressed_bytes": 17574686,
+      "crc32": 1862661742
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix003.wav": {
+      "bytes": 22656044,
+      "compressed_bytes": 16285698,
+      "crc32": 1292377532
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix010.wav": {
+      "bytes": 18144044,
+      "compressed_bytes": 13174700,
+      "crc32": 2767457162
+    },
+    "foa_dev/dev-train-sony/fold3_room22_mix010.wav": {
+      "bytes": 43200044,
+      "compressed_bytes": 29759344,
+      "crc32": 3807089352
+    },
+    "foa_dev/dev-train-sony/fold3_room21_mix007.wav": {
+      "bytes": 14745644,
+      "compressed_bytes": 10784665,
+      "crc32": 3593249658
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix006.wav": {
+      "bytes": 32733740,
+      "compressed_bytes": 20401128,
+      "crc32": 3161422585
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix005.wav": {
+      "bytes": 9175596,
+      "compressed_bytes": 5496785,
+      "crc32": 1900048445
+    },
+    "foa_dev/dev-test-tau/fold4_room2_mix003.wav": {
+      "bytes": 48654900,
+      "compressed_bytes": 32902951,
+      "crc32": 1777623612
+    },
+    "foa_dev/dev-test-tau/fold4_room2_mix004.wav": {
+      "bytes": 32705068,
+      "compressed_bytes": 20660229,
+      "crc32": 233805118
+    },
+    "foa_dev/dev-test-tau/fold4_room2_mix002.wav": {
+      "bytes": 52415028,
+      "compressed_bytes": 35339259,
+      "crc32": 979584233
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix006.wav": {
+      "bytes": 57359404,
+      "compressed_bytes": 36445820,
+      "crc32": 3126080902
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix007.wav": {
+      "bytes": 39271468,
+      "compressed_bytes": 21766872,
+      "crc32": 434570672
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix008.wav": {
+      "bytes": 28219948,
+      "compressed_bytes": 17619788,
+      "crc32": 4202766119
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix002.wav": {
+      "bytes": 34659372,
+      "compressed_bytes": 22337759,
+      "crc32": 3591933017
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix004.wav": {
+      "bytes": 27241516,
+      "compressed_bytes": 16349299,
+      "crc32": 2410671410
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix003.wav": {
+      "bytes": 26929708,
+      "compressed_bytes": 14287163,
+      "crc32": 1252024529
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix005.wav": {
+      "bytes": 22276652,
+      "compressed_bytes": 11943468,
+      "crc32": 3518587144
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix002.wav": {
+      "bytes": 27822628,
+      "compressed_bytes": 16993463,
+      "crc32": 1422338575
+    },
+    "foa_dev/dev-test-tau/fold4_room2_mix006.wav": {
+      "bytes": 67021348,
+      "compressed_bytes": 44183479,
+      "crc32": 424628123
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix003.wav": {
+      "bytes": 40995372,
+      "compressed_bytes": 29123432,
+      "crc32": 13499094
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix003.wav": {
+      "bytes": 52341804,
+      "compressed_bytes": 32819830,
+      "crc32": 2398529899
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix007.wav": {
+      "bytes": 44297260,
+      "compressed_bytes": 28205322,
+      "crc32": 2301293331
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix001.wav": {
+      "bytes": 42203700,
+      "compressed_bytes": 24173096,
+      "crc32": 1078199744
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix004.wav": {
+      "bytes": 28428844,
+      "compressed_bytes": 14974599,
+      "crc32": 4175692961
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix007.wav": {
+      "bytes": 25651764,
+      "compressed_bytes": 16841052,
+      "crc32": 621506375
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix008.wav": {
+      "bytes": 32111140,
+      "compressed_bytes": 21466463,
+      "crc32": 2115267939
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix001.wav": {
+      "bytes": 26470948,
+      "compressed_bytes": 17023512,
+      "crc32": 1356734098
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix005.wav": {
+      "bytes": 24374308,
+      "compressed_bytes": 15097787,
+      "crc32": 1354323243
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix002.wav": {
+      "bytes": 36067876,
+      "compressed_bytes": 24494684,
+      "crc32": 812863231
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix004.wav": {
+      "bytes": 55040548,
+      "compressed_bytes": 34245491,
+      "crc32": 674838512
+    },
+    "foa_dev/dev-test-tau/fold4_room2_mix005.wav": {
+      "bytes": 35252780,
+      "compressed_bytes": 23029507,
+      "crc32": 1518817946
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix003.wav": {
+      "bytes": 25181228,
+      "compressed_bytes": 15960674,
+      "crc32": 2341312270
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix009.wav": {
+      "bytes": 31107628,
+      "compressed_bytes": 20307355,
+      "crc32": 4275564240
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix006.wav": {
+      "bytes": 43211308,
+      "compressed_bytes": 29448374,
+      "crc32": 2132948390
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix008.wav": {
+      "bytes": 8739884,
+      "compressed_bytes": 3879102,
+      "crc32": 3734995401
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix001.wav": {
+      "bytes": 31390764,
+      "compressed_bytes": 19227125,
+      "crc32": 1650025711
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix010.wav": {
+      "bytes": 109292588,
+      "compressed_bytes": 64866143,
+      "crc32": 3925149758
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix006.wav": {
+      "bytes": 33783340,
+      "compressed_bytes": 17802771,
+      "crc32": 695837961
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix014.wav": {
+      "bytes": 18435108,
+      "compressed_bytes": 9723735,
+      "crc32": 2172052034
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix011.wav": {
+      "bytes": 33676324,
+      "compressed_bytes": 21870304,
+      "crc32": 707098573
+    },
+    "foa_dev/dev-test-tau/fold4_room2_mix001.wav": {
+      "bytes": 28662324,
+      "compressed_bytes": 19408835,
+      "crc32": 949581552
+    },
+    "foa_dev/dev-test-tau/fold4_room10_mix007.wav": {
+      "bytes": 27712028,
+      "compressed_bytes": 16050251,
+      "crc32": 1580125518
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix005.wav": {
+      "bytes": 33651244,
+      "compressed_bytes": 21274759,
+      "crc32": 961644078
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix008.wav": {
+      "bytes": 29277228,
+      "compressed_bytes": 18374790,
+      "crc32": 1946878729
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix013.wav": {
+      "bytes": 23194660,
+      "compressed_bytes": 12627848,
+      "crc32": 2866187997
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix009.wav": {
+      "bytes": 16141356,
+      "compressed_bytes": 8741112,
+      "crc32": 646873754
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix001.wav": {
+      "bytes": 39963172,
+      "compressed_bytes": 27203748,
+      "crc32": 3585268965
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix004.wav": {
+      "bytes": 20408876,
+      "compressed_bytes": 14083450,
+      "crc32": 3983164248
+    },
+    "foa_dev/dev-test-tau/fold4_room15_mix009.wav": {
+      "bytes": 42957868,
+      "compressed_bytes": 30302175,
+      "crc32": 3195430098
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix010.wav": {
+      "bytes": 25328676,
+      "compressed_bytes": 14893705,
+      "crc32": 2954064365
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix012.wav": {
+      "bytes": 27102244,
+      "compressed_bytes": 15026267,
+      "crc32": 1794616837
+    },
+    "foa_dev/dev-test-tau/fold4_room16_mix002.wav": {
+      "bytes": 24333356,
+      "compressed_bytes": 14539273,
+      "crc32": 3133588831
+    },
+    "foa_dev/dev-test-tau/fold4_room8_mix009.wav": {
+      "bytes": 68958756,
+      "compressed_bytes": 44711135,
+      "crc32": 3083078708
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix011.wav": {
+      "bytes": 22080044,
+      "compressed_bytes": 16557121,
+      "crc32": 2202505294
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix013.wav": {
+      "bytes": 10982444,
+      "compressed_bytes": 8484493,
+      "crc32": 1664402061
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix006.wav": {
+      "bytes": 20102444,
+      "compressed_bytes": 15999347,
+      "crc32": 1924733060
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix008.wav": {
+      "bytes": 18624044,
+      "compressed_bytes": 14023164,
+      "crc32": 2631034839
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix011.wav": {
+      "bytes": 12153644,
+      "compressed_bytes": 9149609,
+      "crc32": 1098231869
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix006.wav": {
+      "bytes": 27072044,
+      "compressed_bytes": 20427557,
+      "crc32": 272408815
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix010.wav": {
+      "bytes": 13958444,
+      "compressed_bytes": 10312164,
+      "crc32": 965518791
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix007.wav": {
+      "bytes": 17088044,
+      "compressed_bytes": 13649946,
+      "crc32": 2037546071
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix005.wav": {
+      "bytes": 14265644,
+      "compressed_bytes": 10439898,
+      "crc32": 2774647770
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix004.wav": {
+      "bytes": 18259244,
+      "compressed_bytes": 14156146,
+      "crc32": 1556128550
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix001.wav": {
+      "bytes": 34348844,
+      "compressed_bytes": 26021704,
+      "crc32": 281483363
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix003.wav": {
+      "bytes": 18681644,
+      "compressed_bytes": 14436841,
+      "crc32": 3643049677
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix001.wav": {
+      "bytes": 11654444,
+      "compressed_bytes": 8690903,
+      "crc32": 6001748
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix015.wav": {
+      "bytes": 13977644,
+      "compressed_bytes": 10353069,
+      "crc32": 749520214
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix009.wav": {
+      "bytes": 12480044,
+      "compressed_bytes": 8778901,
+      "crc32": 3905869667
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix013.wav": {
+      "bytes": 11520044,
+      "compressed_bytes": 8110810,
+      "crc32": 926113685
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix014.wav": {
+      "bytes": 23040044,
+      "compressed_bytes": 16732709,
+      "crc32": 3451289214
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix002.wav": {
+      "bytes": 8582444,
+      "compressed_bytes": 6363667,
+      "crc32": 4247544513
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix008.wav": {
+      "bytes": 10176044,
+      "compressed_bytes": 7521628,
+      "crc32": 726102218
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix012.wav": {
+      "bytes": 30105644,
+      "compressed_bytes": 23681485,
+      "crc32": 1222986443
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix002.wav": {
+      "bytes": 20236844,
+      "compressed_bytes": 15743520,
+      "crc32": 3483844189
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix014.wav": {
+      "bytes": 24115244,
+      "compressed_bytes": 19298260,
+      "crc32": 3239820095
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix005.wav": {
+      "bytes": 26361644,
+      "compressed_bytes": 20035730,
+      "crc32": 442354533
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix010.wav": {
+      "bytes": 13632044,
+      "compressed_bytes": 9966074,
+      "crc32": 3587686251
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix009.wav": {
+      "bytes": 14880044,
+      "compressed_bytes": 11292051,
+      "crc32": 3875612895
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix003.wav": {
+      "bytes": 8064044,
+      "compressed_bytes": 5868245,
+      "crc32": 1463422746
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix007.wav": {
+      "bytes": 24192044,
+      "compressed_bytes": 17409922,
+      "crc32": 1995125941
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix004.wav": {
+      "bytes": 19622444,
+      "compressed_bytes": 14800374,
+      "crc32": 1851362734
+    },
+    "foa_dev/dev-test-sony/fold4_room23_mix012.wav": {
+      "bytes": 18240044,
+      "compressed_bytes": 13568913,
+      "crc32": 2572915672
+    },
+    "foa_dev/dev-test-sony/fold4_room24_mix016.wav": {
+      "bytes": 15321644,
+      "compressed_bytes": 11684541,
+      "crc32": 280946365
+    }
+  },
+  "video": {
+    "video_dev/dev-test-tau/fold4_room2_mix002.mp4": {
+      "bytes": 47366936,
+      "compressed_bytes": 47295311,
+      "crc32": 3895747192
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix002.mp4": {
+      "bytes": 25515778,
+      "compressed_bytes": 25467887,
+      "crc32": 4146582600
+    },
+    "video_dev/dev-test-tau/fold4_room2_mix003.mp4": {
+      "bytes": 44008569,
+      "compressed_bytes": 43941785,
+      "crc32": 889630821
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix001.mp4": {
+      "bytes": 23580757,
+      "compressed_bytes": 23543971,
+      "crc32": 1804762896
+    },
+    "video_dev/dev-test-tau/fold4_room2_mix004.mp4": {
+      "bytes": 29856281,
+      "compressed_bytes": 29811607,
+      "crc32": 3660841516
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix003.mp4": {
+      "bytes": 39338230,
+      "compressed_bytes": 39266442,
+      "crc32": 3349802692
+    },
+    "video_dev/dev-test-tau/fold4_room2_mix005.mp4": {
+      "bytes": 32218613,
+      "compressed_bytes": 32170375,
+      "crc32": 804681856
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix002.mp4": {
+      "bytes": 24808208,
+      "compressed_bytes": 24769944,
+      "crc32": 1768030490
+    },
+    "video_dev/dev-test-tau/fold4_room2_mix006.mp4": {
+      "bytes": 63164187,
+      "compressed_bytes": 63072277,
+      "crc32": 462756823
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix004.mp4": {
+      "bytes": 46215068,
+      "compressed_bytes": 46140301,
+      "crc32": 1833094023
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix001.mp4": {
+      "bytes": 28074954,
+      "compressed_bytes": 28019828,
+      "crc32": 1778022032
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix003.mp4": {
+      "bytes": 24005126,
+      "compressed_bytes": 23968364,
+      "crc32": 1336246749
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix002.mp4": {
+      "bytes": 25631905,
+      "compressed_bytes": 25582162,
+      "crc32": 2979312696
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix005.mp4": {
+      "bytes": 21921095,
+      "compressed_bytes": 21888127,
+      "crc32": 869192966
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix003.mp4": {
+      "bytes": 29314953,
+      "compressed_bytes": 29258050,
+      "crc32": 3922424393
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix004.mp4": {
+      "bytes": 25239215,
+      "compressed_bytes": 25200001,
+      "crc32": 3329647623
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix004.mp4": {
+      "bytes": 14384597,
+      "compressed_bytes": 14356410,
+      "crc32": 511679624
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix006.mp4": {
+      "bytes": 43969871,
+      "compressed_bytes": 43890295,
+      "crc32": 1519501017
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix005.mp4": {
+      "bytes": 23129450,
+      "compressed_bytes": 23081894,
+      "crc32": 1281394811
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix005.mp4": {
+      "bytes": 21561838,
+      "compressed_bytes": 21531711,
+      "crc32": 2111643060
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix006.mp4": {
+      "bytes": 31085234,
+      "compressed_bytes": 31024919,
+      "crc32": 3039858419
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix007.mp4": {
+      "bytes": 37006822,
+      "compressed_bytes": 36946053,
+      "crc32": 1077835634
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix007.mp4": {
+      "bytes": 18255438,
+      "compressed_bytes": 18219205,
+      "crc32": 824905069
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix006.mp4": {
+      "bytes": 29349263,
+      "compressed_bytes": 29303700,
+      "crc32": 3085094610
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix008.mp4": {
+      "bytes": 22479016,
+      "compressed_bytes": 22433606,
+      "crc32": 3821432409
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix008.mp4": {
+      "bytes": 22377225,
+      "compressed_bytes": 22336758,
+      "crc32": 1297184298
+    },
+    "video_dev/dev-test-tau/fold4_room8_mix009.mp4": {
+      "bytes": 48165660,
+      "compressed_bytes": 48069514,
+      "crc32": 965193166
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix007.mp4": {
+      "bytes": 24957618,
+      "compressed_bytes": 24919749,
+      "crc32": 2854705456
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix009.mp4": {
+      "bytes": 36477464,
+      "compressed_bytes": 36419182,
+      "crc32": 1167676445
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix008.mp4": {
+      "bytes": 26895691,
+      "compressed_bytes": 26857869,
+      "crc32": 118963980
+    },
+    "video_dev/dev-test-tau/fold4_room10_mix009.mp4": {
+      "bytes": 30313257,
+      "compressed_bytes": 30271200,
+      "crc32": 1476232388
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix001.mp4": {
+      "bytes": 23884591,
+      "compressed_bytes": 23841415,
+      "crc32": 520020470
+    },
+    "video_dev/dev-test-tau/fold4_room15_mix010.mp4": {
+      "bytes": 83446455,
+      "compressed_bytes": 83295547,
+      "crc32": 2912209527
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix001.mp4": {
+      "bytes": 33637338,
+      "compressed_bytes": 33579547,
+      "crc32": 3354053502
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix002.mp4": {
+      "bytes": 20067817,
+      "compressed_bytes": 20035183,
+      "crc32": 4224123062
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix003.mp4": {
+      "bytes": 22043151,
+      "compressed_bytes": 22008721,
+      "crc32": 1713096533
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix004.mp4": {
+      "bytes": 21831934,
+      "compressed_bytes": 21794657,
+      "crc32": 3559187100
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix005.mp4": {
+      "bytes": 8369204,
+      "compressed_bytes": 8357521,
+      "crc32": 341595991
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix006.mp4": {
+      "bytes": 28027295,
+      "compressed_bytes": 27981202,
+      "crc32": 1789888154
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix007.mp4": {
+      "bytes": 30986578,
+      "compressed_bytes": 30932709,
+      "crc32": 3180883711
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix008.mp4": {
+      "bytes": 7847563,
+      "compressed_bytes": 7836323,
+      "crc32": 3616810927
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix009.mp4": {
+      "bytes": 14015381,
+      "compressed_bytes": 13993768,
+      "crc32": 2021021770
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix010.mp4": {
+      "bytes": 21965948,
+      "compressed_bytes": 21932292,
+      "crc32": 3384304669
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix011.mp4": {
+      "bytes": 29209657,
+      "compressed_bytes": 29164374,
+      "crc32": 1145157365
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix012.mp4": {
+      "bytes": 23971722,
+      "compressed_bytes": 23935408,
+      "crc32": 2378954601
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix013.mp4": {
+      "bytes": 23329713,
+      "compressed_bytes": 23299137,
+      "crc32": 2525849935
+    },
+    "video_dev/dev-test-tau/fold4_room16_mix014.mp4": {
+      "bytes": 15146468,
+      "compressed_bytes": 15122387,
+      "crc32": 2043966043
+    },
+    "video_dev/dev-test-tau/fold4_room2_mix001.mp4": {
+      "bytes": 26931929,
+      "compressed_bytes": 26893357,
+      "crc32": 1434725255
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix005.mp4": {
+      "bytes": 40319083,
+      "compressed_bytes": 40245245,
+      "crc32": 2800288565
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix002.mp4": {
+      "bytes": 27599519,
+      "compressed_bytes": 27538499,
+      "crc32": 1571383514
+    },
+    "video_dev/dev-train-tau/fold3_room4_mix004.mp4": {
+      "bytes": 32108786,
+      "compressed_bytes": 32068003,
+      "crc32": 535101841
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix001.mp4": {
+      "bytes": 30682938,
+      "compressed_bytes": 30614746,
+      "crc32": 824388806
+    },
+    "video_dev/dev-train-tau/fold3_room4_mix005.mp4": {
+      "bytes": 20855117,
+      "compressed_bytes": 20827664,
+      "crc32": 696385006
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix003.mp4": {
+      "bytes": 55240766,
+      "compressed_bytes": 55148037,
+      "crc32": 1544622821
+    },
+    "video_dev/dev-train-tau/fold3_room4_mix006.mp4": {
+      "bytes": 33901250,
+      "compressed_bytes": 33853991,
+      "crc32": 1258005192
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix004.mp4": {
+      "bytes": 51829926,
+      "compressed_bytes": 51742109,
+      "crc32": 442658473
+    },
+    "video_dev/dev-train-tau/fold3_room4_mix007.mp4": {
+      "bytes": 42260327,
+      "compressed_bytes": 42201792,
+      "crc32": 1026227567
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix005.mp4": {
+      "bytes": 13729283,
+      "compressed_bytes": 13704231,
+      "crc32": 167541448
+    },
+    "video_dev/dev-train-tau/fold3_room4_mix008.mp4": {
+      "bytes": 31917503,
+      "compressed_bytes": 31873806,
+      "crc32": 2365957026
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix006.mp4": {
+      "bytes": 19596302,
+      "compressed_bytes": 19555278,
+      "crc32": 220121515
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix001.mp4": {
+      "bytes": 34238842,
+      "compressed_bytes": 34180423,
+      "crc32": 1779070738
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix007.mp4": {
+      "bytes": 34872429,
+      "compressed_bytes": 34806254,
+      "crc32": 3063230455
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix002.mp4": {
+      "bytes": 39728111,
+      "compressed_bytes": 39659216,
+      "crc32": 3197445094
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix008.mp4": {
+      "bytes": 40448852,
+      "compressed_bytes": 40385652,
+      "crc32": 3096850584
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix003.mp4": {
+      "bytes": 49290596,
+      "compressed_bytes": 49204381,
+      "crc32": 2939170179
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix009.mp4": {
+      "bytes": 16782050,
+      "compressed_bytes": 16755235,
+      "crc32": 1378447977
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix004.mp4": {
+      "bytes": 44066334,
+      "compressed_bytes": 43989205,
+      "crc32": 864615397
+    },
+    "video_dev/dev-train-tau/fold3_room12_mix010.mp4": {
+      "bytes": 28210949,
+      "compressed_bytes": 28159431,
+      "crc32": 87494840
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix006.mp4": {
+      "bytes": 18246655,
+      "compressed_bytes": 18220745,
+      "crc32": 2692215929
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix001.mp4": {
+      "bytes": 48807525,
+      "compressed_bytes": 48755773,
+      "crc32": 2591224542
+    },
+    "video_dev/dev-train-tau/fold3_room6_mix007.mp4": {
+      "bytes": 31641469,
+      "compressed_bytes": 31584254,
+      "crc32": 378222472
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix002.mp4": {
+      "bytes": 55424857,
+      "compressed_bytes": 55361232,
+      "crc32": 3849501464
+    },
+    "video_dev/dev-train-tau/fold3_room7_mix001.mp4": {
+      "bytes": 19001112,
+      "compressed_bytes": 18959182,
+      "crc32": 3716583765
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix003.mp4": {
+      "bytes": 37905446,
+      "compressed_bytes": 37856959,
+      "crc32": 318270032
+    },
+    "video_dev/dev-train-tau/fold3_room7_mix002.mp4": {
+      "bytes": 39357258,
+      "compressed_bytes": 39269507,
+      "crc32": 3015045315
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix004.mp4": {
+      "bytes": 27914227,
+      "compressed_bytes": 27878065,
+      "crc32": 2784350940
+    },
+    "video_dev/dev-train-tau/fold3_room7_mix003.mp4": {
+      "bytes": 29048859,
+      "compressed_bytes": 28990500,
+      "crc32": 595386663
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix005.mp4": {
+      "bytes": 9794784,
+      "compressed_bytes": 9782701,
+      "crc32": 1451638541
+    },
+    "video_dev/dev-train-tau/fold3_room7_mix004.mp4": {
+      "bytes": 44271896,
+      "compressed_bytes": 44184416,
+      "crc32": 2173809154
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix006.mp4": {
+      "bytes": 50984035,
+      "compressed_bytes": 50905329,
+      "crc32": 8844724
+    },
+    "video_dev/dev-train-tau/fold3_room7_mix005.mp4": {
+      "bytes": 33416150,
+      "compressed_bytes": 33345946,
+      "crc32": 4009474742
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix007.mp4": {
+      "bytes": 41233075,
+      "compressed_bytes": 41174213,
+      "crc32": 3000268096
+    },
+    "video_dev/dev-train-tau/fold3_room7_mix006.mp4": {
+      "bytes": 43076729,
+      "compressed_bytes": 42987175,
+      "crc32": 1124549499
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix008.mp4": {
+      "bytes": 42982083,
+      "compressed_bytes": 42922196,
+      "crc32": 4273305570
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix001.mp4": {
+      "bytes": 24056840,
+      "compressed_bytes": 24008854,
+      "crc32": 3993143399
+    },
+    "video_dev/dev-train-tau/fold3_room13_mix009.mp4": {
+      "bytes": 67926618,
+      "compressed_bytes": 67825274,
+      "crc32": 959049208
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix002.mp4": {
+      "bytes": 24092045,
+      "compressed_bytes": 24046128,
+      "crc32": 2446330172
+    },
+    "video_dev/dev-train-tau/fold3_room14_mix001.mp4": {
+      "bytes": 18022447,
+      "compressed_bytes": 17995316,
+      "crc32": 112458254
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix003.mp4": {
+      "bytes": 23539259,
+      "compressed_bytes": 23495585,
+      "crc32": 1956706096
+    },
+    "video_dev/dev-train-tau/fold3_room14_mix002.mp4": {
+      "bytes": 12594135,
+      "compressed_bytes": 12574259,
+      "crc32": 1309675899
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix004.mp4": {
+      "bytes": 20308477,
+      "compressed_bytes": 20269104,
+      "crc32": 3866957402
+    },
+    "video_dev/dev-train-tau/fold3_room14_mix003.mp4": {
+      "bytes": 6338429,
+      "compressed_bytes": 6328225,
+      "crc32": 667387443
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix005.mp4": {
+      "bytes": 31897549,
+      "compressed_bytes": 31835603,
+      "crc32": 861217495
+    },
+    "video_dev/dev-train-tau/fold3_room14_mix004.mp4": {
+      "bytes": 12230560,
+      "compressed_bytes": 12214464,
+      "crc32": 2809775550
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix006.mp4": {
+      "bytes": 20187085,
+      "compressed_bytes": 20147873,
+      "crc32": 1566267998
+    },
+    "video_dev/dev-train-tau/fold3_room4_mix001.mp4": {
+      "bytes": 23052523,
+      "compressed_bytes": 23019175,
+      "crc32": 977062239
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix007.mp4": {
+      "bytes": 22902717,
+      "compressed_bytes": 22859960,
+      "crc32": 311456820
+    },
+    "video_dev/dev-train-tau/fold3_room9_mix008.mp4": {
+      "bytes": 31436763,
+      "compressed_bytes": 31379670,
+      "crc32": 233341643
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix008.mp4": {
+      "bytes": 8090579,
+      "compressed_bytes": 8076460,
+      "crc32": 3762072233
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix001.mp4": {
+      "bytes": 10437098,
+      "compressed_bytes": 10421874,
+      "crc32": 3859163066
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix002.mp4": {
+      "bytes": 7740463,
+      "compressed_bytes": 7729224,
+      "crc32": 2191733153
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix003.mp4": {
+      "bytes": 6702303,
+      "compressed_bytes": 6691712,
+      "crc32": 794798904
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix004.mp4": {
+      "bytes": 17684391,
+      "compressed_bytes": 17658058,
+      "crc32": 3082428134
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix005.mp4": {
+      "bytes": 13103394,
+      "compressed_bytes": 13085131,
+      "crc32": 4162552726
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix006.mp4": {
+      "bytes": 17414720,
+      "compressed_bytes": 17388212,
+      "crc32": 24277625
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix007.mp4": {
+      "bytes": 20843697,
+      "compressed_bytes": 20810669,
+      "crc32": 388021398
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix009.mp4": {
+      "bytes": 10550729,
+      "compressed_bytes": 10533507,
+      "crc32": 1520357982
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix010.mp4": {
+      "bytes": 11465120,
+      "compressed_bytes": 11447328,
+      "crc32": 2838901836
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix011.mp4": {
+      "bytes": 19179561,
+      "compressed_bytes": 19149825,
+      "crc32": 338443671
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix012.mp4": {
+      "bytes": 16128336,
+      "compressed_bytes": 16104584,
+      "crc32": 2158378787
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix013.mp4": {
+      "bytes": 9460352,
+      "compressed_bytes": 9445127,
+      "crc32": 1004403801
+    },
+    "video_dev/dev-test-sony/fold4_room23_mix014.mp4": {
+      "bytes": 18804001,
+      "compressed_bytes": 18771996,
+      "crc32": 3065558966
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix001.mp4": {
+      "bytes": 29548469,
+      "compressed_bytes": 29501610,
+      "crc32": 904125602
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix002.mp4": {
+      "bytes": 16936230,
+      "compressed_bytes": 16908718,
+      "crc32": 4029934791
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix003.mp4": {
+      "bytes": 16696875,
+      "compressed_bytes": 16671285,
+      "crc32": 1357552557
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix004.mp4": {
+      "bytes": 15808814,
+      "compressed_bytes": 15783794,
+      "crc32": 2346096498
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix005.mp4": {
+      "bytes": 24227032,
+      "compressed_bytes": 24191596,
+      "crc32": 718548220
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix006.mp4": {
+      "bytes": 24312611,
+      "compressed_bytes": 24276725,
+      "crc32": 535718714
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix007.mp4": {
+      "bytes": 14591998,
+      "compressed_bytes": 14568614,
+      "crc32": 3699814244
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix008.mp4": {
+      "bytes": 15788810,
+      "compressed_bytes": 15763975,
+      "crc32": 3110729370
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix009.mp4": {
+      "bytes": 12919478,
+      "compressed_bytes": 12899100,
+      "crc32": 986677779
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix010.mp4": {
+      "bytes": 12083050,
+      "compressed_bytes": 12064839,
+      "crc32": 449797204
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix011.mp4": {
+      "bytes": 11773527,
+      "compressed_bytes": 11757229,
+      "crc32": 2826514688
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix012.mp4": {
+      "bytes": 30906816,
+      "compressed_bytes": 30867354,
+      "crc32": 30763449
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix013.mp4": {
+      "bytes": 9796872,
+      "compressed_bytes": 9781799,
+      "crc32": 2050761664
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix014.mp4": {
+      "bytes": 22635123,
+      "compressed_bytes": 22603367,
+      "crc32": 1754681043
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix015.mp4": {
+      "bytes": 12655785,
+      "compressed_bytes": 12636975,
+      "crc32": 693021592
+    },
+    "video_dev/dev-test-sony/fold4_room24_mix016.mp4": {
+      "bytes": 15295134,
+      "compressed_bytes": 15275458,
+      "crc32": 2786734875
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix013.mp4": {
+      "bytes": 12461868,
+      "compressed_bytes": 12445419,
+      "crc32": 4196863901
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix014.mp4": {
+      "bytes": 13012724,
+      "compressed_bytes": 12994976,
+      "crc32": 4022866609
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix015.mp4": {
+      "bytes": 22004267,
+      "compressed_bytes": 21974686,
+      "crc32": 4127401816
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix016.mp4": {
+      "bytes": 14592922,
+      "compressed_bytes": 14573631,
+      "crc32": 985138663
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix017.mp4": {
+      "bytes": 26061043,
+      "compressed_bytes": 26026724,
+      "crc32": 3770853560
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix018.mp4": {
+      "bytes": 25070452,
+      "compressed_bytes": 25037801,
+      "crc32": 206592800
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix019.mp4": {
+      "bytes": 8276865,
+      "compressed_bytes": 8264754,
+      "crc32": 330231736
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix020.mp4": {
+      "bytes": 19378756,
+      "compressed_bytes": 19345571,
+      "crc32": 3687252005
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix021.mp4": {
+      "bytes": 20633488,
+      "compressed_bytes": 20599868,
+      "crc32": 2443277800
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix022.mp4": {
+      "bytes": 29879573,
+      "compressed_bytes": 29834318,
+      "crc32": 1374967576
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix023.mp4": {
+      "bytes": 17467366,
+      "compressed_bytes": 17438761,
+      "crc32": 1562802895
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix024.mp4": {
+      "bytes": 13458400,
+      "compressed_bytes": 13436297,
+      "crc32": 2256794769
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix025.mp4": {
+      "bytes": 48616375,
+      "compressed_bytes": 48554846,
+      "crc32": 1116215672
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix026.mp4": {
+      "bytes": 51018493,
+      "compressed_bytes": 50951840,
+      "crc32": 3507426913
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix027.mp4": {
+      "bytes": 17294072,
+      "compressed_bytes": 17264940,
+      "crc32": 2689345067
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix028.mp4": {
+      "bytes": 16448644,
+      "compressed_bytes": 16422352,
+      "crc32": 789325392
+    },
+    "video_dev/dev-train-sony/fold3_room21_mix029.mp4": {
+      "bytes": 37565451,
+      "compressed_bytes": 37511941,
+      "crc32": 1179220897
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix004.mp4": {
+      "bytes": 18189977,
+      "compressed_bytes": 18163288,
+      "crc32": 1442964605
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix001.mp4": {
+      "bytes": 15719899,
+      "compressed_bytes": 15701554,
+      "crc32": 1654158266
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix002.mp4": {
+      "bytes": 23134941,
+      "compressed_bytes": 23104262,
+      "crc32": 2521510228
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix003.mp4": {
+      "bytes": 12490904,
+      "compressed_bytes": 12473102,
+      "crc32": 2877804153
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix005.mp4": {
+      "bytes": 22335569,
+      "compressed_bytes": 22300345,
+      "crc32": 2185492370
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix006.mp4": {
+      "bytes": 10239091,
+      "compressed_bytes": 10223806,
+      "crc32": 236187256
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix007.mp4": {
+      "bytes": 21575565,
+      "compressed_bytes": 21543060,
+      "crc32": 34768600
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix008.mp4": {
+      "bytes": 18531555,
+      "compressed_bytes": 18506935,
+      "crc32": 2527479441
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix009.mp4": {
+      "bytes": 17453013,
+      "compressed_bytes": 17431545,
+      "crc32": 2725463506
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix010.mp4": {
+      "bytes": 47618405,
+      "compressed_bytes": 47560589,
+      "crc32": 2706322570
+    },
+    "video_dev/dev-train-sony/fold3_room22_mix011.mp4": {
+      "bytes": 40576913,
+      "compressed_bytes": 40529546,
+      "crc32": 3641597200
+    }
+  }
+}

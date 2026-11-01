@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "scope": "Software/knownwaveformgeometryfixture,notrealtransfer.",
+  "rows": [
+    {
+      "azimuth": 0,
+      "decoded_pcm_sha256": "ac0ef3390895220ae3981587cdfefa5366d73ba876ad6498f2991b9b4d54aac4",
+      "feature_direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "angular_error_deg": 0.0
+    },
+    {
+      "azimuth": 90,
+      "decoded_pcm_sha256": "8e071d315cf0e280700f982033a3ceeb9b56789e091f72a13f2d306bd4a580a7",
+      "feature_direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "angular_error_deg": 0.0
+    },
+    {
+      "azimuth": 180,
+      "decoded_pcm_sha256": "38bac0a2be910b5fa05e4d059e9e321e8380798811a2d14bd1d47ae812bd4408",
+      "feature_direction": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "angular_error_deg": 0.0
+    },
+    {
+      "azimuth": 270,
+      "decoded_pcm_sha256": "e77da49ccb535198693cca8d8654d3d638067b8823396e98809e1418052b2f1e",
+      "feature_direction": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "angular_error_deg": 0.0
+    }
+  ]
+}

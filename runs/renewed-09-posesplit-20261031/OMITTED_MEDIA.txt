@@ -1,0 +1,8 @@
+This observed-run snapshot omits all source audio/video recordings, synthetic WAVs,
+coordinate-fixture WAVs, and participant-photo montages/crops. Their identifiers,
+checksums and audit outcomes remain in the manifests. The15 small NumPy model
+checkpoints are included. verify_saved_results.py replays saved features, labels,
+checkpoints, probabilities and room-cluster statistics without media downloads.
+run_task09.command regenerates a fresh study from official source media. The
+historical source_readback.json is evidence of the recorded full audit, not a claim
+that this public snapshot contains a local raw-media cache.

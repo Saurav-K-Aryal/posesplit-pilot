@@ -1,0 +1,114 @@
+{
+  "study": "PoseSplit",
+  "version": "1.0-proposed-before-any-real-feature-decode-or-training",
+  "status": "awaiting_root_and_independent_review",
+  "date": "2026-10-31T22:21:53.424923+00:00",
+  "old09": "Preserve old impact/scratch transfer as a negative retired direction. This is a new cohort and task.",
+  "sources": {
+    "record": "https://zenodo.org/records/7880637",
+    "version": "1.1.0",
+    "license": "MIT",
+    "metadata": "work/task09_design_sources/metadata_dev.zip",
+    "metadata_md5": "e73af95a6d5f3f7e009ac6a70804f44a",
+    "foa_url": "https://zenodo.org/api/records/7880637/files/foa_dev.zip/content",
+    "foa_archive_bytes": 3406085425,
+    "foa_archive_md5": "316b834ee6393c22862c314cc3c7ebb0",
+    "video_url": "https://zenodo.org/api/records/7880637/files/video_dev.zip/content",
+    "video_archive_bytes": 4102871214,
+    "video_archive_md5": "b92295e162600adb545ed99bdc0a9c76",
+    "retrieval": "RequireHTTP206;readZIPcentraldirectory and onlyselectedmembers;validateeachmemberCRC/uncompressedsize andSHA256. Neverfullarchivefallback.",
+    "total_source_member_download_cap_bytes": 1500000000
+  },
+  "selection": {
+    "seed": 20261031,
+    "unit": "Originalrecording/session androom;views/seeds/windowsnested.",
+    "rooms": "All9officialdev-trainrooms:oneeligiblelexicographicrecording/room. All7officialdev-testrooms:twoeligiblelexicographicrecordings/room. No outcome screening.",
+    "eligibility": "Metadata-onlynonoverlapping0.5s bins alignedto5frames. Exactlyoneannotatedeventineachof5frames,sameclass/sourceinall5,abselevation<=45deg,andmaxpairwise3Ddirectionmotion<=15deg. Recordingmusthave>=8eligiblebins andmatchingvideoZIPmember.",
+    "windows": "Selectatmost12eligiblebins/recordingbySHA256(PoseSplit-v1:seed:recording:startframe),thenstoreintemporalorder. Retainallselectedbinsregardlessaudibility/localizererror.",
+    "expectation": "23recordings=9development+14lockedtest;9developmentrooms+7lockedrooms. Haltifanyroomcannotmeetquotabeforefeaturedecode;do notreplaceroomsonresults.",
+    "source_caution": "Oneannotatedactiveeventdoesnotruleoutunannotatedinterference. No guaranteedunoccludedvisibleobjectlabel."
+  },
+  "coordinates": {
+    "channels": "ACNorderedW,Y,Z,X;indices0,1,2,3verifiedofficialSonygenerator.",
+    "azimuth": "Counterclockwisepositive,+90degtotheleft;front0;zup. Sourcevector=(cosel*cosaz,cosel*sinaz,sinel).",
+    "poses": "Yawsinworldframepositiveleft. d_mic=Rz(-micYaw)d_world;d_cam=Rz(-(camYaw-micYaw))d_mic.",
+    "audio_rotation": "MicYaw\u03c8 usesXnew=cos\u03c8X+sin\u03c8Y,Ynew=-sin\u03c8X+cos\u03c8Y,W/Zunchanged. Sonygeneratorangledeg=-\u03c8.",
+    "viewport": "Square320x320rectilinear90degreehorizontalandverticalFOV. Geometricavailabilityiffcamera-forwardx>0,abs(y/x)<=1andabs(z/x)<=1. This is geometricviewportmembership,notocclusionoraudibility.",
+    "headings_deg": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "features": {
+    "sample_rate": 24000,
+    "window_seconds": 0.5,
+    "stft_fft": 512,
+    "stft_hop": 256,
+    "hann": "np.hanning(512)",
+    "frequency_band_hz": [
+      300,
+      4500
+    ],
+    "intensity": "I=sum_time,freq Re(conj(W)*[X,Y,Z]);unitI=I/max(normI,1e-12). coherence=clip(normI/sqrt(sum|W|^2*sum(|X|^2+|Y|^2+|Z|^2)),0,1).",
+    "six_inputs": [
+      "unitIx",
+      "unitIy",
+      "unitIz",
+      "coherence",
+      "cos(camYaw-micYaw)",
+      "sin(camYaw-micYaw)"
+    ],
+    "no_inputs": "NoMoCapdirection,distance,eventclass,room/recordingID,filename,viewportgold,orimagepixelsenterslearnedhead. Posesareknownsensorconfiguration."
+  },
+  "synthetic": {
+    "seeds": [
+      101,
+      211,
+      307,
+      401,
+      503
+    ],
+    "base_waveforms_per_seed": {
+      "train": 256,
+      "validation": 64
+    },
+    "pose_cases_per_waveform": 4,
+    "train_cases_per_arm_per_seed": 1024,
+    "validation_cases_per_seed": 256,
+    "audio": "Emit16bit4channelWAVat24kHzthenreadPCMbackbeforefeatures. Sourcecontinuousbandlimitedcolorednoise/tonalmixture. Directplane-waveACN/SN3Dbasis with6first-orderrectangularshoeboximage-sourcepaths,343m/s propagation,source-to-micdistanceattenuation,wallreflectioncoefficients0.15\u20130.65and10\u201330dBsensornoise. Scaleallchannelsjointlytopeak0.45beforePCM. Noeventcontact/impactsemantics.",
+    "geometry": "Roomdimensionsuniformx/y4\u20138m,z2.5\u20133.5m;microomcenterat1.3m;sourceazimuthuniformallaround,elevationuniform-25..25deg,distance0.4\u20131.2m. Rejectsyntheticazimuthwithin1degof45+90kviewportboundaries;eachsourcehasexactlyoneavailableheading. Reflectionpathsareexplicitmirrors,notarbitrarydelaydirections.",
+    "no_real_training": "No realaudioorlabelsusedtoconstructsyntheticwaveforms,fitweights,choosefeaturesortrainthresholds. Realdevreportsarepipelinechecks,notadaptiveoptimization."
+  },
+  "arms": {
+    "pose_aware": "Everydecodedsourcewaveformreusedonceat4knownrelativecameraheadings. Correctprojectionlabelsfromitsindependentlygeneratedsourcepose.",
+    "canonical_matched_orientation": "Eachsameaudiofeaturevectorrepeated4timeswithrelativepose0anditscorrectcanonicalprojectionlabel. Samebaseaudiomultisetandcasebudget,butnoindependentcamera/micposesupport. Callcanonical/matchedorientation,notco-rigunlessactuallyrendered.",
+    "wrong_pose_negative_control": "EXACTsame6Dfeaturemultisetascorrectposearm. Within eachsourceblock cyclicallyshift4projectionlabelsbydeterministicnonzero1\u20133offset;onepositiveensuresitspositionmoves. Thisintentionallyinvalidlabelcontrolisadiagnostic,notacompetitivestrongaugmentationbaseline."
+  },
+  "model": {
+    "architecture": "NumPyonehidden32-unittanhMLP,6inputs,onebinarysigmoidoutput.",
+    "initialization": "Sameinitialweightsforall3armswithinseed. Inputsunitvectors/coherence/sin/cosnotfittedstandardization.",
+    "training": "Fullbatchordinarybinarycrossentropy,Adamlearningrate0.01,beta1=.9,beta2=.999,epsilon1e-8,1000steps,L2weightpenalty1e-4. Fixedlastcheckpoint,noearlystopping,noval-drivenretuning.",
+    "decision": "Probability>=0.5available. Recordallprobabilities,accuracy,balancedaccuracy,sensitivity,specificity,Brierscoreandlogloss;do notclaimcalibrationfromthresholdaccuracy."
+  },
+  "real_evaluation": {
+    "analytic": "StrongbaselinefromaudiointensitypredictedDOAandknowncamera/micgeometry. Noheldoutfit. Primaryaudioendpoint3DangularerrorversusmeanunitMoCapdirectionover5frames,pluswithin20degproportion.",
+    "view_availability": "Camera-onlyregime:micYaw0,camYaw\u03c8,identicalPCMforall4views. Co-rigvirtualregime:micYaw=camYaw=\u03c8,serialize/decodefloat32PCMafterrotatingFOAby-\u03c8;samecameraimagecropas camera-onlybutdifferentmicPCM. Evaluateall4headingsandall15headmodels.",
+    "oracle": "MoCapprojectedviewportlabelsaregradingonly;separateoraclegeometrysanitycheckhasnolearnedAVclaim.",
+    "aggregation": "Primarylockedviewendpointbalancedaccuracyovercamera-onlyvariants;reportaccuracy/Brierandperheading. Comparepose-awarecanonicalandwrongcontrol,withanalyticreference. Meanseedresultperoriginalrecordingthenroom;roomclusterbootstrap2000replicatesseed9137forCIandpaireddifference. Nevercount5seeds,4viewsorframesasindependentrealtrials. Showper-roomrawresultsandbothSony/TAUcoverage.",
+    "failure_policy": "Preserveeveryselectedwindowandfailure.Noresponse/modelcalls. Audiofeaturedecodefailurecountsasfailedpredictionandgetsseparatecategory;noautomaticreplacement. Geometryrotationtestsareunitchecks,notrealtransfer. No requiredpositivetraininggain."
+  },
+  "media_audit": {
+    "samples": "Firstselectedwindowinchronologicalorderperrecording;frameats+0.05,s+0.25,s+0.45seconds,threeframes/file.",
+    "crop": "Extractactual360frameswithffmpeg;fixedNumPybilinearpanorama-to-perspective320x32090x90projectionat4headings. SavepixelshaandPCMsha forcamera-onlyandco-rigregimes;forgiven\u03c8pixelviewsareidenticalacrossregimes.",
+    "montages": "Twofixedexamples:lexicographicfirstdevelopmentandfirstlockedrecording. Includeall4headingsatmiddleframe;nocherry-pickingqualityorlocalizersuccess.",
+    "claim_boundary": "No detector,object-bindingmodel,orimagefeaturesusedbyhead. Realvideoestablishesmedia/geometryinterfaceonly. Preliminarytaskisaudio+knownpose,notlearnedmultimodalfusionornewvisualgenerator."
+  },
+  "resource_boundary": {
+    "device_target": "UserMacBookPro48GB,coreNumPyCPU/ffmpeg,one0.5saudiowindowandoneframeatatime. MeasureprocessRSS/walltime;actualhostisnotassumedexact48GB.",
+    "estimated_synthetic_pcm_bytes": 153600000,
+    "cap": "Source23recordingpairs<=1.5GBorhaltbeforepayload. Allcases/PCM/features/rawpredictionsandtrainedsmallheadsreleasableaspermissionsallow;noexternalmodelweightsrequired."
+  },
+  "review_gate": "Savecode+protocol+labels-onlyselectionthenstop. Rootandindependentreviewapprovebeforefreeze;ANYaudio/videofeaturedecode,synthetictrainingorlockedscoringrequiresfrozenprotocol/source/selectionhashes. No posttesttuning."
+}

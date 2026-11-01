@@ -1,0 +1,80 @@
+{
+  "status": "approved_current_code_and_protocol_before_execution",
+  "reviewer": "paper03_final independent of PoseSplit implementation",
+  "reviewed_utc": "2026-10-31T22:29:04.137176+00:00",
+  "scope": "Full264+line source and protocol, labels-only selected cohort and analytic derivations. No sourceaudio/video decoding, syntheticwaveform feature extraction, training, modelcalls or lockedscore calculation.",
+  "code_sha256": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d",
+  "protocol_sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522",
+  "selection_sha256": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e",
+  "freeze_requirement": "Refresh hash-bound plan/readback after pre-freeze edits; root invokes freeze only if code/protocol hashes still match this review and selection remains identical. Any later implementation change requires review of that change before execution.",
+  "selected_metadata_units": {
+    "recordings": 23,
+    "development_recordings": 9,
+    "locked_recordings": 14,
+    "development_rooms": 9,
+    "locked_rooms": 7,
+    "development_windows": 108,
+    "locked_windows": 168,
+    "all_recordings_have12windows": true,
+    "metadata_only_FOV_support": "Every selectedrecording has both geometricclasses over fourheadings; minimum11positive/48variants. No realfeature outcomes examined."
+  },
+  "issues_fixed_before_execution": [
+    {
+      "issue": "Partial-window successes could be appended before a later variant failure duplicated all8rows.",
+      "resolution": "Atomic localwindow rows,8variantassertion,halt and preservefailedwindowledger before fitting."
+    },
+    {
+      "issue": "Undefined per-record BA values were filtered and pairedroomkeyzip could mislabel deltas.",
+      "resolution": "PrimaryexplicitmeanseedpooledBA; cluster-resampleall7rooms and retain allrows/multiplicity. Undefinedbootstrapreplicatesnull+count/noredraw; descriptivepergroupBA canbenull."
+    },
+    {
+      "issue": "Baseline could rely only on learnedcontrol failures.",
+      "resolution": "StronganalyticFOAlocalizer plus mandatoryconstantfront3Dangularbaseline retained."
+    },
+    {
+      "issue": "Scalar ndarray prediction output risk.",
+      "resolution": "Predictionexplicitlyflattened/extracted to scalar before JSONserialization."
+    }
+  ],
+  "scientific_checks": [
+    "Exactlydefinedsourceclass/activityeligibility frommetadata only; recording/room quotas and fixedlexicographic/hashselection without outcome selection.",
+    "RealFOA intensityfeatureinput plusknownrelativepose only; noMoCapdirection,sourceID,class,filename,roomID,goldFOVlabel orpixels enter learnedhead.",
+    "Proceduralactual4channelPCM is serialized/read back beforetrainingfeatures; primarysyntheticgenerator contains directplane-wave field plus first-order image-source reflectionpaths, not oldimpact/scratchsemantictemplate.",
+    "Correct andwrongarms have exactlysame6Dfeaturemultiset; wrongnonzeroper-sourcecyclicshift preservesclasscounts and is explicitlyinvalidlabeldiagnostic.",
+    "Canonicalarm repeats samebasewaveforms and casebudget; lackingindependent-pose support is a diagnosticcomparison, not strongestuniformindependentaugmentation.",
+    "Camera-only PCM preserved across4views; virtualco-rig uses passiveaudio rotation and matchinglabel/pose frames.",
+    "R(-micYaw) andR(-(camYaw-micYaw)) compose toR(-camYaw); codeACN W,Y,Z,X indexing andpassiveXYrotation matchdeclaredconvention.",
+    "Primaryclassificationtarget is known-source geometric squareFOVmembership, nottrueocclusion,audibility,end-to-endobjectbinding orpixelAVfusion.",
+    "STFT/intensityfeatures mayfail underreverberation/interference; suchunknownperformance is the experiment, not silentlyfiltered.",
+    "Haltonanysourcefeature/mediafailure before fitting; no partialefficacyresult or replacementafterfailure.",
+    "Roombootstrap uses samecluster draw acrossarms andseeds; multiplicity retained via indexedconfusiontensors, noindependentview/seedcounting.",
+    "Analyticlocalizer canwin; no guaranteedMLsuperiority or calibrationfromthresholdaccuracy."
+  ],
+  "claim_boundaries": [
+    "A successful3arm diagnostic only demonstratescurrentpartialrealtransfer andsensitivity tocorrectframecoupling.",
+    "It does not test the proposedtargetedcoverageallocator againstuniformindependentposeaugmentation, norViSAGeconditioningbaseline. Those remain year-oneresearch.",
+    "Atfixedsensororigins separatecamera/microphoneposes reduce torelativeorientation; twoinputposes aloneare not novelty.",
+    "First-orderFOAreorientation is not microphonespatialtranslation ornewroomacousticrendering.",
+    "No nativeLLM,newvisualgenerator,learnedcausalcoherence,exact48GBpeakmemory orenergyclaim."
+  ],
+  "must_fix": [],
+  "new_experiment_calls": 0,
+  "edits_to_experiment_code_by_reviewer": false,
+  "approval_history": [
+    {
+      "code_sha256": "8877877d5a0744f9a0f68a6985c8c41fb87262063c5767833ed555853a4c4235",
+      "protocol_sha256": "af8d627a0fe0bb4f860126b1aaec6d44c0bc5e3f29915e2e9095b0a15c700387",
+      "status": "Previously approved; superseded only by reviewed boundary tolerance and bootstrap audit preservation."
+    }
+  ],
+  "final_delta_review": {
+    "status": "approved",
+    "changes": [
+      "Square FOV uses declared inclusive1e-9 tolerance on unit directions; positive forward condition retained.",
+      "All2000cluster draw indices and per-arm pooled-BA estimates, including nulls, are saved and hashed; same draws reused for paired contrasts."
+    ],
+    "selection_unchanged": true,
+    "syntax_parse": "passed",
+    "new_audio_video_decode_or_training_by_reviewer": false
+  }
+}

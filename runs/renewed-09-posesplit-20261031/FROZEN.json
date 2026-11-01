@@ -1,0 +1,9 @@
+{
+  "status": "frozen_after_root_and_independent_review",
+  "reviewer": "Root must invoke this stage only after both reviews approve.",
+  "code_sha256": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d",
+  "protocol_sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522",
+  "selection_sha256": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e",
+  "source_catalog_sha256": "614082da30af7903faaa66aed946c67f0b7a96a9b6faf0d55a9c8fe52f7e4cc0",
+  "frozen_unix": 1793485740.150811
+}

@@ -1,0 +1,19 @@
+{
+  "status": "labels_only_plan_complete",
+  "source_member_compressed_bytes": 1043107135,
+  "recordings": 23,
+  "development_recordings": 9,
+  "locked_recordings": 14,
+  "development_rooms": 9,
+  "locked_rooms": 7,
+  "windows": {
+    "development": 108,
+    "locked": 168
+  },
+  "code_sha256": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d",
+  "selection_sha256": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e",
+  "protocol_sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522",
+  "no_audio_video_features_decoded": true,
+  "no_training_or_scoring": true,
+  "prefreeze_revision": "root_and_peer_pooled_estimator_halt_policy_corrections"
+}

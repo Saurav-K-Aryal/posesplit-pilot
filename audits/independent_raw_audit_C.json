@@ -1,0 +1,2161 @@
+{
+  "status": "passed",
+  "study": "PoseSplit",
+  "run": "runs/renewed-09-posesplit-20261031",
+  "source_readback_files": 46,
+  "source_uncompressed_bytes_verified": 1291545381,
+  "base_windows": 276,
+  "locked_base_windows": 168,
+  "independently_decoded_real_variants": 2208,
+  "synthetic_emitted_WAVs_verified": 1600,
+  "trained_heads_verified": 15,
+  "predictions_independently_recomputed": 35328,
+  "bootstrap_replicates_per_arm_regime": 2000,
+  "locked_room_clusters": 7,
+  "normalized_view_statistics": [
+    {
+      "arm": "analytic",
+      "regime": "camera_only",
+      "mean_seed_pooled_balanced_accuracy": 0.7817460317460317,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.6775545634920636,
+          0.8839285714285714
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            20,
+            72,
+            0,
+            4
+          ],
+          [
+            11,
+            66,
+            6,
+            13
+          ],
+          [
+            15,
+            66,
+            6,
+            9
+          ],
+          [
+            6,
+            64,
+            8,
+            18
+          ],
+          [
+            20,
+            69,
+            3,
+            4
+          ],
+          [
+            11,
+            61,
+            11,
+            13
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ]
+      ],
+      "seed_order": [
+        null
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 672,
+        "positive": 168,
+        "feature_failures": 0,
+        "accuracy": 0.8571428571428571,
+        "sensitivity": 0.6309523809523809,
+        "specificity": 0.9325396825396826,
+        "balanced_accuracy": 0.7817460317460317,
+        "brier": 0.14285714285714285,
+        "log_loss": 3.9472887308469353
+      }
+    },
+    {
+      "arm": "analytic",
+      "regime": "co_rig_virtual",
+      "mean_seed_pooled_balanced_accuracy": 0.7817460317460317,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.6775545634920636,
+          0.8839285714285714
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            20,
+            72,
+            0,
+            4
+          ],
+          [
+            11,
+            66,
+            6,
+            13
+          ],
+          [
+            15,
+            66,
+            6,
+            9
+          ],
+          [
+            6,
+            64,
+            8,
+            18
+          ],
+          [
+            20,
+            69,
+            3,
+            4
+          ],
+          [
+            11,
+            61,
+            11,
+            13
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ]
+      ],
+      "seed_order": [
+        null
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 672,
+        "positive": 168,
+        "feature_failures": 0,
+        "accuracy": 0.8571428571428571,
+        "sensitivity": 0.6309523809523809,
+        "specificity": 0.9325396825396826,
+        "balanced_accuracy": 0.7817460317460317,
+        "brier": 0.14285714285714285,
+        "log_loss": 3.9472887308469353
+      }
+    },
+    {
+      "arm": "pose_aware",
+      "regime": "camera_only",
+      "mean_seed_pooled_balanced_accuracy": 0.8293650793650793,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.7353174603174605,
+          0.9220238095238095
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            12,
+            60,
+            12,
+            12
+          ],
+          [
+            18,
+            66,
+            6,
+            6
+          ],
+          [
+            16,
+            64,
+            8,
+            8
+          ],
+          [
+            22,
+            70,
+            2,
+            2
+          ],
+          [
+            12,
+            60,
+            12,
+            12
+          ],
+          [
+            22,
+            71,
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            13,
+            59,
+            13,
+            11
+          ],
+          [
+            18,
+            65,
+            7,
+            6
+          ],
+          [
+            16,
+            64,
+            8,
+            8
+          ],
+          [
+            21,
+            69,
+            3,
+            3
+          ],
+          [
+            12,
+            59,
+            13,
+            12
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            14,
+            62,
+            10,
+            10
+          ],
+          [
+            16,
+            62,
+            10,
+            8
+          ],
+          [
+            15,
+            62,
+            10,
+            9
+          ],
+          [
+            21,
+            69,
+            3,
+            3
+          ],
+          [
+            11,
+            59,
+            13,
+            13
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            14,
+            61,
+            11,
+            10
+          ],
+          [
+            16,
+            63,
+            9,
+            8
+          ],
+          [
+            16,
+            64,
+            8,
+            8
+          ],
+          [
+            22,
+            69,
+            3,
+            2
+          ],
+          [
+            12,
+            60,
+            12,
+            12
+          ],
+          [
+            23,
+            70,
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            13,
+            62,
+            10,
+            11
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            21,
+            69,
+            3,
+            3
+          ],
+          [
+            11,
+            59,
+            13,
+            13
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ]
+      ],
+      "seed_order": [
+        101,
+        211,
+        307,
+        401,
+        503
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.8714285714285714,
+        "sensitivity": 0.7452380952380953,
+        "specificity": 0.9134920634920635,
+        "balanced_accuracy": 0.8293650793650793,
+        "brier": 0.11562674937594437,
+        "log_loss": 0.6389262635666485
+      }
+    },
+    {
+      "arm": "pose_aware",
+      "regime": "co_rig_virtual",
+      "mean_seed_pooled_balanced_accuracy": 0.8319444444444445,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.7410714285714286,
+          0.9236160714285714
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            16,
+            59,
+            13,
+            8
+          ],
+          [
+            20,
+            61,
+            11,
+            4
+          ],
+          [
+            16,
+            64,
+            8,
+            8
+          ],
+          [
+            22,
+            69,
+            3,
+            2
+          ],
+          [
+            14,
+            58,
+            14,
+            10
+          ],
+          [
+            23,
+            71,
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            14,
+            59,
+            13,
+            10
+          ],
+          [
+            18,
+            65,
+            7,
+            6
+          ],
+          [
+            16,
+            64,
+            8,
+            8
+          ],
+          [
+            21,
+            69,
+            3,
+            3
+          ],
+          [
+            12,
+            59,
+            13,
+            12
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            12,
+            63,
+            9,
+            12
+          ],
+          [
+            13,
+            65,
+            7,
+            11
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            21,
+            70,
+            2,
+            3
+          ],
+          [
+            11,
+            60,
+            12,
+            13
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            15,
+            60,
+            12,
+            9
+          ],
+          [
+            16,
+            61,
+            11,
+            8
+          ],
+          [
+            16,
+            64,
+            8,
+            8
+          ],
+          [
+            22,
+            69,
+            3,
+            2
+          ],
+          [
+            13,
+            59,
+            13,
+            11
+          ],
+          [
+            23,
+            70,
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            12,
+            62,
+            10,
+            12
+          ],
+          [
+            15,
+            63,
+            9,
+            9
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            21,
+            70,
+            2,
+            3
+          ],
+          [
+            11,
+            59,
+            13,
+            13
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ]
+      ],
+      "seed_order": [
+        101,
+        211,
+        307,
+        401,
+        503
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.8717261904761905,
+        "sensitivity": 0.7523809523809524,
+        "specificity": 0.9115079365079365,
+        "balanced_accuracy": 0.8319444444444444,
+        "brier": 0.11506608419519046,
+        "log_loss": 0.6341777603284319
+      }
+    },
+    {
+      "arm": "canonical_matched_orientation",
+      "regime": "camera_only",
+      "mean_seed_pooled_balanced_accuracy": 0.4799603174603175,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.46408234126984127,
+          0.49404761904761907
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            11,
+            39,
+            33,
+            13
+          ],
+          [
+            22,
+            7,
+            65,
+            2
+          ],
+          [
+            21,
+            10,
+            62,
+            3
+          ],
+          [
+            18,
+            14,
+            58,
+            6
+          ],
+          [
+            23,
+            0,
+            72,
+            1
+          ],
+          [
+            1,
+            69,
+            3,
+            23
+          ],
+          [
+            7,
+            48,
+            24,
+            17
+          ]
+        ],
+        [
+          [
+            11,
+            39,
+            33,
+            13
+          ],
+          [
+            22,
+            6,
+            66,
+            2
+          ],
+          [
+            21,
+            11,
+            61,
+            3
+          ],
+          [
+            17,
+            14,
+            58,
+            7
+          ],
+          [
+            23,
+            0,
+            72,
+            1
+          ],
+          [
+            1,
+            69,
+            3,
+            23
+          ],
+          [
+            6,
+            52,
+            20,
+            18
+          ]
+        ],
+        [
+          [
+            11,
+            38,
+            34,
+            13
+          ],
+          [
+            20,
+            11,
+            61,
+            4
+          ],
+          [
+            17,
+            11,
+            61,
+            7
+          ],
+          [
+            15,
+            18,
+            54,
+            9
+          ],
+          [
+            21,
+            0,
+            72,
+            3
+          ],
+          [
+            1,
+            69,
+            3,
+            23
+          ],
+          [
+            5,
+            51,
+            21,
+            19
+          ]
+        ],
+        [
+          [
+            11,
+            38,
+            34,
+            13
+          ],
+          [
+            21,
+            10,
+            62,
+            3
+          ],
+          [
+            17,
+            11,
+            61,
+            7
+          ],
+          [
+            15,
+            16,
+            56,
+            9
+          ],
+          [
+            23,
+            0,
+            72,
+            1
+          ],
+          [
+            1,
+            69,
+            3,
+            23
+          ],
+          [
+            7,
+            49,
+            23,
+            17
+          ]
+        ],
+        [
+          [
+            11,
+            38,
+            34,
+            13
+          ],
+          [
+            21,
+            8,
+            64,
+            3
+          ],
+          [
+            19,
+            11,
+            61,
+            5
+          ],
+          [
+            15,
+            17,
+            55,
+            9
+          ],
+          [
+            23,
+            0,
+            72,
+            1
+          ],
+          [
+            1,
+            69,
+            3,
+            23
+          ],
+          [
+            7,
+            49,
+            23,
+            17
+          ]
+        ]
+      ],
+      "seed_order": [
+        101,
+        211,
+        307,
+        401,
+        503
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.43065476190476193,
+        "sensitivity": 0.5785714285714286,
+        "specificity": 0.3813492063492063,
+        "balanced_accuracy": 0.4799603174603175,
+        "brier": 0.5588475878392708,
+        "log_loss": 9.963674875538787
+      }
+    },
+    {
+      "arm": "canonical_matched_orientation",
+      "regime": "co_rig_virtual",
+      "mean_seed_pooled_balanced_accuracy": 0.8408730158730158,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.7567460317460318,
+          0.9291765873015874
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            16,
+            57,
+            15,
+            8
+          ],
+          [
+            20,
+            60,
+            12,
+            4
+          ],
+          [
+            18,
+            63,
+            9,
+            6
+          ],
+          [
+            23,
+            69,
+            3,
+            1
+          ],
+          [
+            17,
+            57,
+            15,
+            7
+          ],
+          [
+            23,
+            69,
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            15,
+            58,
+            14,
+            9
+          ],
+          [
+            20,
+            61,
+            11,
+            4
+          ],
+          [
+            17,
+            63,
+            9,
+            7
+          ],
+          [
+            23,
+            68,
+            4,
+            1
+          ],
+          [
+            16,
+            57,
+            15,
+            8
+          ],
+          [
+            23,
+            71,
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            10,
+            66,
+            6,
+            14
+          ],
+          [
+            15,
+            63,
+            9,
+            9
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            21,
+            69,
+            3,
+            3
+          ],
+          [
+            11,
+            60,
+            12,
+            13
+          ],
+          [
+            22,
+            72,
+            0,
+            2
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            13,
+            65,
+            7,
+            11
+          ],
+          [
+            15,
+            63,
+            9,
+            9
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            23,
+            69,
+            3,
+            1
+          ],
+          [
+            13,
+            58,
+            14,
+            11
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            24,
+            72,
+            0,
+            0
+          ],
+          [
+            13,
+            61,
+            11,
+            11
+          ],
+          [
+            17,
+            63,
+            9,
+            7
+          ],
+          [
+            15,
+            64,
+            8,
+            9
+          ],
+          [
+            23,
+            69,
+            3,
+            1
+          ],
+          [
+            13,
+            58,
+            14,
+            11
+          ],
+          [
+            23,
+            72,
+            0,
+            1
+          ]
+        ]
+      ],
+      "seed_order": [
+        101,
+        211,
+        307,
+        401,
+        503
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.8738095238095238,
+        "sensitivity": 0.775,
+        "specificity": 0.9067460317460317,
+        "balanced_accuracy": 0.8408730158730159,
+        "brier": 0.1166944604699,
+        "log_loss": 1.1869770953326226
+      }
+    },
+    {
+      "arm": "wrong_pose_negative_control",
+      "regime": "camera_only",
+      "mean_seed_pooled_balanced_accuracy": 0.40813492063492063,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.3740029761904762,
+          0.4424652777777778
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            0,
+            62,
+            10,
+            24
+          ],
+          [
+            8,
+            56,
+            16,
+            16
+          ],
+          [
+            0,
+            52,
+            20,
+            24
+          ],
+          [
+            7,
+            45,
+            27,
+            17
+          ],
+          [
+            0,
+            47,
+            25,
+            24
+          ],
+          [
+            3,
+            40,
+            32,
+            21
+          ],
+          [
+            1,
+            45,
+            27,
+            23
+          ]
+        ],
+        [
+          [
+            0,
+            46,
+            26,
+            24
+          ],
+          [
+            7,
+            51,
+            21,
+            17
+          ],
+          [
+            0,
+            54,
+            18,
+            24
+          ],
+          [
+            0,
+            59,
+            13,
+            24
+          ],
+          [
+            1,
+            66,
+            6,
+            23
+          ],
+          [
+            6,
+            54,
+            18,
+            18
+          ],
+          [
+            1,
+            46,
+            26,
+            23
+          ]
+        ],
+        [
+          [
+            0,
+            55,
+            17,
+            24
+          ],
+          [
+            0,
+            57,
+            15,
+            24
+          ],
+          [
+            1,
+            57,
+            15,
+            23
+          ],
+          [
+            4,
+            65,
+            7,
+            20
+          ],
+          [
+            1,
+            68,
+            4,
+            23
+          ],
+          [
+            4,
+            50,
+            22,
+            20
+          ],
+          [
+            0,
+            62,
+            10,
+            24
+          ]
+        ],
+        [
+          [
+            0,
+            39,
+            33,
+            24
+          ],
+          [
+            4,
+            49,
+            23,
+            20
+          ],
+          [
+            0,
+            48,
+            24,
+            24
+          ],
+          [
+            3,
+            43,
+            29,
+            21
+          ],
+          [
+            2,
+            42,
+            30,
+            22
+          ],
+          [
+            7,
+            51,
+            21,
+            17
+          ],
+          [
+            3,
+            47,
+            25,
+            21
+          ]
+        ],
+        [
+          [
+            0,
+            40,
+            32,
+            24
+          ],
+          [
+            13,
+            45,
+            27,
+            11
+          ],
+          [
+            2,
+            53,
+            19,
+            22
+          ],
+          [
+            4,
+            43,
+            29,
+            20
+          ],
+          [
+            3,
+            49,
+            23,
+            21
+          ],
+          [
+            7,
+            41,
+            31,
+            17
+          ],
+          [
+            1,
+            51,
+            21,
+            23
+          ]
+        ]
+      ],
+      "seed_order": [
+        101,
+        211,
+        307,
+        401,
+        503
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.5568452380952381,
+        "sensitivity": 0.11071428571428571,
+        "specificity": 0.7055555555555556,
+        "balanced_accuracy": 0.40813492063492063,
+        "brier": 0.3511021826936903,
+        "log_loss": 1.5091680117780994
+      }
+    },
+    {
+      "arm": "wrong_pose_negative_control",
+      "regime": "co_rig_virtual",
+      "mean_seed_pooled_balanced_accuracy": 0.4178571428571428,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.38055059523809526,
+          0.45239087301587294
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "confusion_per_seed_room": [
+        [
+          [
+            0,
+            51,
+            21,
+            24
+          ],
+          [
+            1,
+            53,
+            19,
+            23
+          ],
+          [
+            3,
+            50,
+            22,
+            21
+          ],
+          [
+            7,
+            64,
+            8,
+            17
+          ],
+          [
+            0,
+            45,
+            27,
+            24
+          ],
+          [
+            2,
+            53,
+            19,
+            22
+          ],
+          [
+            0,
+            36,
+            36,
+            24
+          ]
+        ],
+        [
+          [
+            0,
+            62,
+            10,
+            24
+          ],
+          [
+            1,
+            56,
+            16,
+            23
+          ],
+          [
+            1,
+            58,
+            14,
+            23
+          ],
+          [
+            0,
+            71,
+            1,
+            24
+          ],
+          [
+            1,
+            69,
+            3,
+            23
+          ],
+          [
+            3,
+            63,
+            9,
+            21
+          ],
+          [
+            1,
+            53,
+            19,
+            23
+          ]
+        ],
+        [
+          [
+            0,
+            60,
+            12,
+            24
+          ],
+          [
+            2,
+            63,
+            9,
+            22
+          ],
+          [
+            1,
+            63,
+            9,
+            23
+          ],
+          [
+            6,
+            56,
+            16,
+            18
+          ],
+          [
+            1,
+            56,
+            16,
+            23
+          ],
+          [
+            2,
+            60,
+            12,
+            22
+          ],
+          [
+            1,
+            58,
+            14,
+            23
+          ]
+        ],
+        [
+          [
+            0,
+            48,
+            24,
+            24
+          ],
+          [
+            7,
+            49,
+            23,
+            17
+          ],
+          [
+            3,
+            57,
+            15,
+            21
+          ],
+          [
+            3,
+            40,
+            32,
+            21
+          ],
+          [
+            2,
+            61,
+            11,
+            22
+          ],
+          [
+            7,
+            45,
+            27,
+            17
+          ],
+          [
+            1,
+            52,
+            20,
+            23
+          ]
+        ],
+        [
+          [
+            0,
+            28,
+            44,
+            24
+          ],
+          [
+            5,
+            39,
+            33,
+            19
+          ],
+          [
+            6,
+            50,
+            22,
+            18
+          ],
+          [
+            4,
+            48,
+            24,
+            20
+          ],
+          [
+            3,
+            49,
+            23,
+            21
+          ],
+          [
+            10,
+            48,
+            24,
+            14
+          ],
+          [
+            0,
+            40,
+            32,
+            24
+          ]
+        ]
+      ],
+      "seed_order": [
+        101,
+        211,
+        307,
+        401,
+        503
+      ],
+      "room_order": [
+        "room10",
+        "room15",
+        "room16",
+        "room2",
+        "room23",
+        "room24",
+        "room8"
+      ],
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.5767857142857142,
+        "sensitivity": 0.1,
+        "specificity": 0.7357142857142858,
+        "balanced_accuracy": 0.41785714285714287,
+        "brier": 0.3427585400234773,
+        "log_loss": 1.5256431930938645
+      }
+    }
+  ],
+  "normalized_paired_contrasts": [
+    {
+      "contrast": "pose_aware_minus_canonical_matched_orientation",
+      "difference": 0.34940476190476183,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.2517807539682539,
+          0.44008432539682546
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      }
+    },
+    {
+      "contrast": "pose_aware_minus_wrong_pose_negative_control",
+      "difference": 0.4212301587301587,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.3015873015873016,
+          0.5434771825396825
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      }
+    },
+    {
+      "contrast": "pose_aware_minus_analytic",
+      "difference": 0.04761904761904756,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.006746031746031611,
+          0.10376984126984135
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      }
+    }
+  ],
+  "analytic_audio_real_angular_error": {
+    "median_deg": 23.48461318153936,
+    "mean_deg": 30.162341665280874,
+    "within20deg_rate": 0.3630952380952381
+  },
+  "constant_front_real_angular_error": {
+    "median_deg": 50.14336376007786,
+    "mean_deg": 58.10146229319863,
+    "within20deg_rate": 0.19642857142857142
+  },
+  "training_matrix_hashes": [
+    {
+      "seed": 101,
+      "split": "train",
+      "rows": 1024,
+      "correct_feature_sha256": "0cda05743bc9487c6ba1b834d94c13246294dda7ddba7fb3f1bbac93b9f0e1a2",
+      "wrong_feature_sha256": "0cda05743bc9487c6ba1b834d94c13246294dda7ddba7fb3f1bbac93b9f0e1a2",
+      "canonical_audio_sha256": "1c7982d3ce046187bcadbf2d5dcb09428bd3a90b2b160bc81cec3b6f35eb04d0"
+    },
+    {
+      "seed": 101,
+      "split": "validation",
+      "rows": 256,
+      "correct_feature_sha256": "a88eba5de84a46c7f6f0a9ece5e10bc6c25bbf80607f098f1c9d401efa1a8673",
+      "wrong_feature_sha256": "a88eba5de84a46c7f6f0a9ece5e10bc6c25bbf80607f098f1c9d401efa1a8673",
+      "canonical_audio_sha256": "2a4cc1308ae41dd4a7b42fa300185007ca4d73b5dea85634b3164f5106e400cf"
+    },
+    {
+      "seed": 211,
+      "split": "train",
+      "rows": 1024,
+      "correct_feature_sha256": "f2b8751edb0df7e18fc8087da5b5afc370202b695beabfb4b203395aa5fcee33",
+      "wrong_feature_sha256": "f2b8751edb0df7e18fc8087da5b5afc370202b695beabfb4b203395aa5fcee33",
+      "canonical_audio_sha256": "09753c478faecfbf5016db934eee7d1d1e3cde88c8c288e2cfb55b6ddfa3fbd0"
+    },
+    {
+      "seed": 211,
+      "split": "validation",
+      "rows": 256,
+      "correct_feature_sha256": "eab303e64a70e7ce07e63ac9ce54a924ecec346a44cd73a906a81e0015ed2cc6",
+      "wrong_feature_sha256": "eab303e64a70e7ce07e63ac9ce54a924ecec346a44cd73a906a81e0015ed2cc6",
+      "canonical_audio_sha256": "e37d48cf72d3968879a4bc197434b9ac5124b94927689f0daf43fdd086893728"
+    },
+    {
+      "seed": 307,
+      "split": "train",
+      "rows": 1024,
+      "correct_feature_sha256": "27cb7af03fe6b191586aac4614a6d651831306ba8518ce75fd5c76f75afe13ca",
+      "wrong_feature_sha256": "27cb7af03fe6b191586aac4614a6d651831306ba8518ce75fd5c76f75afe13ca",
+      "canonical_audio_sha256": "2eaf0357c51fddcc5097a884ab77bb13644baed369d0ead2729c41342624cd25"
+    },
+    {
+      "seed": 307,
+      "split": "validation",
+      "rows": 256,
+      "correct_feature_sha256": "9c70cfbd507d91279d2e053cfc83a4cd815e77a7bc455d45a7952381cc080632",
+      "wrong_feature_sha256": "9c70cfbd507d91279d2e053cfc83a4cd815e77a7bc455d45a7952381cc080632",
+      "canonical_audio_sha256": "31e85ea6ca9da4a6026d0bb7b27dfb4ef326a6bee47056673785feb5ae54a5f0"
+    },
+    {
+      "seed": 401,
+      "split": "train",
+      "rows": 1024,
+      "correct_feature_sha256": "87b571f3ed0e2354a6bef0710ed02e436b14d1c97ee36876940e5151d9b240d9",
+      "wrong_feature_sha256": "87b571f3ed0e2354a6bef0710ed02e436b14d1c97ee36876940e5151d9b240d9",
+      "canonical_audio_sha256": "2cdba84b752e2e97c6657a02d3064d1f2107cab15f598cadd467c60b22ed024b"
+    },
+    {
+      "seed": 401,
+      "split": "validation",
+      "rows": 256,
+      "correct_feature_sha256": "8415eca51a4c2121b5acc383eec95562dad2c6fd8b0c42fb5923f8a0218c33db",
+      "wrong_feature_sha256": "8415eca51a4c2121b5acc383eec95562dad2c6fd8b0c42fb5923f8a0218c33db",
+      "canonical_audio_sha256": "469473fbca290997092ab3d5cfe66f357863a2a7cfc813e2bd8885297c41efe7"
+    },
+    {
+      "seed": 503,
+      "split": "train",
+      "rows": 1024,
+      "correct_feature_sha256": "dfe1d0a0968fbe1d25b4f7cf079e5de6d4abdcc36c7bfbfd6e65de995a3d9b52",
+      "wrong_feature_sha256": "dfe1d0a0968fbe1d25b4f7cf079e5de6d4abdcc36c7bfbfd6e65de995a3d9b52",
+      "canonical_audio_sha256": "1f2000dcceaa0e5b789118441f5d1195b351303a43a12b667d962c95af76cc43"
+    },
+    {
+      "seed": 503,
+      "split": "validation",
+      "rows": 256,
+      "correct_feature_sha256": "0f08042682b7e71286a6a32085a1f3e20651752a6b1b4aab2a72f025692ff435",
+      "wrong_feature_sha256": "0f08042682b7e71286a6a32085a1f3e20651752a6b1b4aab2a72f025692ff435",
+      "canonical_audio_sha256": "a72bffccd91396c9461eb7133bdfb8f18da397f2384fda74780879fb5b628299"
+    }
+  ],
+  "checks": {
+    "completed frozen study required": 1,
+    "no contradictory failure marker": 1,
+    "frozen protocol.json": 1,
+    "frozen selection.json": 1,
+    "frozen source_catalog.json": 1,
+    "frozen source unchanged": 1,
+    "result binding FROZEN.json": 1,
+    "result binding protocol.json": 1,
+    "result binding selection.json": 1,
+    "result binding source_readback.json": 1,
+    "result binding real_features.json": 1,
+    "result binding predictions.jsonl": 1,
+    "result binding room_bootstrap_replicates.json": 1,
+    "46source members": 1,
+    "exact source membership": 1,
+    "source SHA256": 46,
+    "source CRC/size": 46,
+    "23source recordings": 1,
+    "disjoint9/7room split": 1,
+    "no duplicate recordings": 1,
+    "official metadata MD5": 1,
+    "12windows per source": 23,
+    "selected single-source nonoverlapping bin": 276,
+    "original MoCap CSV target rows": 276,
+    "target eligibility": 276,
+    "nonzero direction": 20428,
+    "selected bounded source motion": 276,
+    "MoCap mean unit direction shape": 276,
+    "MoCap mean unit direction": 276,
+    "276base windows": 1,
+    "2208variant feature rows": 1,
+    "no duplicate real variant keys": 1,
+    "168locked base windows": 1,
+    "WAV contract": 1876,
+    "full selected PCM window": 1876,
+    "independent FOA matrix relation shape": 1104,
+    "independent FOA matrix relation": 1104,
+    "finite decoded audio": 2704,
+    "measurable intensity": 2704,
+    "no feature failure in completed result": 2208,
+    "variant room": 2208,
+    "variant split": 2208,
+    "variant site": 2208,
+    "decoded real acoustic features shape": 2208,
+    "decoded real acoustic features": 2208,
+    "source PCM window SHA": 2208,
+    "serialized rotated float32 PCM SHA": 2208,
+    "camera source float PCM SHA": 2208,
+    "known pose inputs": 2208,
+    "MoCap projection and analytic decision": 2208,
+    "real angular endpoint shape": 2208,
+    "real angular endpoint": 2208,
+    "within20 endpoint": 2208,
+    "FOA rotation equivariance shape": 828,
+    "FOA rotation equivariance": 828,
+    "FOA coherence invariance shape": 828,
+    "FOA coherence invariance": 828,
+    "every real variant independently reconstructed": 1,
+    "276audited raster records": 1,
+    "saved audit raster pixel SHA": 276,
+    "media camera PCM binding": 276,
+    "media rig PCM binding": 276,
+    "shared view declaration": 276,
+    "320synthetic sources per seed": 5,
+    "unique synthetic source ID": 1600,
+    "synthetic emitted WAV SHA": 1600,
+    "synthetic exact0.5second frame count": 1600,
+    "synthetic decoded acoustic features shape": 1600,
+    "synthetic decoded acoustic features": 1600,
+    "synthetic source inside room": 1600,
+    "synthetic source pose shape": 1600,
+    "synthetic source pose": 1600,
+    "shoebox image source geometry shape": 9600,
+    "shoebox image source geometry": 9600,
+    "reflection path length shape": 9600,
+    "reflection path length": 9600,
+    "relative reflection propagation delay": 9600,
+    "synthetic geometric labels": 1600,
+    "nonzero wrong-pose shift": 1600,
+    "synthetic split count": 10,
+    "exact correct/wrong full feature multiset": 10,
+    "canonical exact audio feature multiset": 10,
+    "wrong control source class multiset": 10,
+    "wrong positive moves per source": 10,
+    "1600emitted decoded synthetic WAVs": 1,
+    "15trained head metadata records": 1,
+    "saved head weight SHA": 15,
+    "head parameter architecture": 15,
+    "synthetic validation metric keys": 15,
+    "synthetic validation cases shape": 15,
+    "synthetic validation cases": 15,
+    "synthetic validation positive shape": 15,
+    "synthetic validation positive": 15,
+    "synthetic validation feature_failures shape": 15,
+    "synthetic validation feature_failures": 15,
+    "synthetic validation accuracy shape": 15,
+    "synthetic validation accuracy": 15,
+    "synthetic validation sensitivity shape": 15,
+    "synthetic validation sensitivity": 15,
+    "synthetic validation specificity shape": 15,
+    "synthetic validation specificity": 15,
+    "synthetic validation balanced_accuracy shape": 15,
+    "synthetic validation balanced_accuracy": 15,
+    "synthetic validation brier shape": 15,
+    "synthetic validation brier": 15,
+    "synthetic validation log_loss shape": 15,
+    "synthetic validation log_loss": 15,
+    "15distinct saved heads": 1,
+    "35328prediction rows": 1,
+    "unique prediction key": 35328,
+    "prediction gold": 35328,
+    "prediction recording": 35328,
+    "prediction room": 35328,
+    "prediction split": 35328,
+    "prediction site": 35328,
+    "completed prediction validity": 35328,
+    "independent head probability shape": 35328,
+    "independent head probability": 35328,
+    "independent threshold decision": 35328,
+    "complete16predictions per real variant": 2208,
+    "bootstrap room ordering": 1,
+    "all2000paired room draws": 1,
+    "672locked cases per head regime": 32,
+    "all2000bootstrap estimates shape": 8,
+    "all2000bootstrap estimates": 8,
+    "locked pooled metric keys": 8,
+    "locked pooled cases shape": 8,
+    "locked pooled cases": 8,
+    "locked pooled positive shape": 8,
+    "locked pooled positive": 8,
+    "locked pooled feature_failures shape": 8,
+    "locked pooled feature_failures": 8,
+    "locked pooled accuracy shape": 8,
+    "locked pooled accuracy": 8,
+    "locked pooled sensitivity shape": 8,
+    "locked pooled sensitivity": 8,
+    "locked pooled specificity shape": 8,
+    "locked pooled specificity": 8,
+    "locked pooled balanced_accuracy shape": 8,
+    "locked pooled balanced_accuracy": 8,
+    "locked pooled brier shape": 8,
+    "locked pooled brier": 8,
+    "locked pooled log_loss shape": 8,
+    "locked pooled log_loss": 8,
+    "primary pooled BA shape": 8,
+    "primary pooled BA": 8,
+    "seed pooled BA shape": 8,
+    "seed pooled BA": 8,
+    "bootstrap confidence and undefined count undefined_replicates": 8,
+    "bootstrap confidence and undefined count total_replicates": 8,
+    "bootstrap confidence and undefined count policy": 8,
+    "bootstrap confidence and undefined count quantiles shape": 8,
+    "bootstrap confidence and undefined count quantiles": 8,
+    "paired primary difference shape": 3,
+    "paired primary difference": 3,
+    "paired room bootstrap difference interval undefined_replicates": 3,
+    "paired room bootstrap difference interval total_replicates": 3,
+    "paired room bootstrap difference interval policy": 3,
+    "paired room bootstrap difference interval quantiles shape": 3,
+    "paired room bootstrap difference interval quantiles": 3,
+    "descriptive source/room metric keys": 672,
+    "descriptive source/room cases shape": 672,
+    "descriptive source/room cases": 672,
+    "descriptive source/room positive shape": 672,
+    "descriptive source/room positive": 672,
+    "descriptive source/room feature_failures shape": 672,
+    "descriptive source/room feature_failures": 672,
+    "descriptive source/room accuracy shape": 672,
+    "descriptive source/room accuracy": 672,
+    "descriptive source/room sensitivity shape": 672,
+    "descriptive source/room sensitivity": 672,
+    "descriptive source/room specificity shape": 672,
+    "descriptive source/room specificity": 672,
+    "descriptive source/room balanced_accuracy shape": 672,
+    "descriptive source/room balanced_accuracy": 672,
+    "descriptive source/room brier shape": 672,
+    "descriptive source/room brier": 672,
+    "descriptive source/room log_loss shape": 672,
+    "descriptive source/room log_loss": 672,
+    "descriptive source/room confusion": 672,
+    "analytic_audio_real_angular_error median_deg shape": 1,
+    "analytic_audio_real_angular_error median_deg": 1,
+    "analytic_audio_real_angular_error mean_deg shape": 1,
+    "analytic_audio_real_angular_error mean_deg": 1,
+    "analytic_audio_real_angular_error within20deg_rate shape": 1,
+    "analytic_audio_real_angular_error within20deg_rate": 1,
+    "constant_front_real_angular_error median_deg shape": 1,
+    "constant_front_real_angular_error median_deg": 1,
+    "constant_front_real_angular_error mean_deg shape": 1,
+    "constant_front_real_angular_error mean_deg": 1,
+    "constant_front_real_angular_error within20deg_rate shape": 1,
+    "constant_front_real_angular_error within20deg_rate": 1
+  },
+  "maximum_arithmetic_discrepancies": {
+    "MoCap mean unit direction": 2.220446049250313e-16,
+    "independent FOA matrix relation": 0.0,
+    "decoded real acoustic features": 4.544975507059235e-16,
+    "real angular endpoint": 4.1233683134578314e-13,
+    "FOA rotation equivariance": 3.3306690738754696e-16,
+    "FOA coherence invariance": 1.1102230246251565e-16,
+    "synthetic decoded acoustic features": 5.551115123125783e-16,
+    "synthetic source pose": 8.326672684688674e-16,
+    "shoebox image source geometry": 0.0,
+    "reflection path length": 0.0,
+    "synthetic validation cases": 0.0,
+    "synthetic validation positive": 0.0,
+    "synthetic validation feature_failures": 0.0,
+    "synthetic validation accuracy": 0.0,
+    "synthetic validation sensitivity": 0.0,
+    "synthetic validation specificity": 0.0,
+    "synthetic validation balanced_accuracy": 0.0,
+    "synthetic validation brier": 5.551115123125783e-17,
+    "synthetic validation log_loss": 8.881784197001252e-16,
+    "independent head probability": 3.552713678800501e-15,
+    "all2000bootstrap estimates": 0.0,
+    "locked pooled cases": 0.0,
+    "locked pooled positive": 0.0,
+    "locked pooled feature_failures": 0.0,
+    "locked pooled accuracy": 0.0,
+    "locked pooled sensitivity": 0.0,
+    "locked pooled specificity": 0.0,
+    "locked pooled balanced_accuracy": 0.0,
+    "locked pooled brier": 1.1102230246251565e-16,
+    "locked pooled log_loss": 3.552713678800501e-15,
+    "primary pooled BA": 0.0,
+    "seed pooled BA": 0.0,
+    "bootstrap confidence and undefined count quantiles": 0.0,
+    "paired primary difference": 0.0,
+    "paired room bootstrap difference interval quantiles": 0.0,
+    "descriptive source/room cases": 0.0,
+    "descriptive source/room positive": 0.0,
+    "descriptive source/room feature_failures": 0.0,
+    "descriptive source/room accuracy": 0.0,
+    "descriptive source/room sensitivity": 0.0,
+    "descriptive source/room specificity": 0.0,
+    "descriptive source/room balanced_accuracy": 0.0,
+    "descriptive source/room brier": 2.220446049250313e-16,
+    "descriptive source/room log_loss": 3.552713678800501e-15,
+    "analytic_audio_real_angular_error median_deg": 3.552713678800501e-15,
+    "analytic_audio_real_angular_error mean_deg": 2.1316282072803006e-14,
+    "analytic_audio_real_angular_error within20deg_rate": 0.0,
+    "constant_front_real_angular_error median_deg": 7.105427357601002e-15,
+    "constant_front_real_angular_error mean_deg": 0.0,
+    "constant_front_real_angular_error within20deg_rate": 0.0
+  },
+  "bindings": {
+    "frozen_sha256": "590841cc0eba305f25a30eb09b5be32615a3dc5449bcdbf6d13ec5f707511cd3",
+    "canonical_result_sha256": "97530ffe65662a453fcb04dad9cbbd4a5a96f91c0ff4f695d01ac9d4614ead53",
+    "predictions_sha256": "800658e3d997677b23245e3e2f0a20f4151c30ce885e9e1cf02b0cb667e7d023",
+    "audit_source_sha256": "aaffee92c7c5da83bad1329076f5a5dd9ebe470ab5e5a9c69679a93649db9d6d"
+  },
+  "limitations": [
+    "Seven fixed room clusters support small-sample descriptive inference; seeds and views are nested, not independent real datasets.",
+    "No independent retraining verifies optimization history. Arm matrices are reconstructed from all saved source WAVs/ledgers and their exact defined multisets; saved head outputs are independently re-evaluated.",
+    "Official full-archive MD5strings are metadata; the audit verifies selected-member SHA256,CRC32,size and the complete small metadata ZIP MD5 only.",
+    "All saved audit PNGs are decoded and pixel-hashed; source video frames are not independently re-decoded here. The separate cardinal analytic-panorama fixtures validate projection signs and raster geometry.",
+    "The task is audio plus known pose; no image pixels or oracle targets enter the audited head forward pass. This does not validate learned audiovisual fusion, physical occlusion, generative realism or device energy.",
+    "The virtual FOA yaw is an ideal coordinate rotation, not physical sensor relocation/directivity validation. The authored first-order reflection model has no validated room-fidelity claim."
+  ],
+  "finished_utc": "2026-10-31T22:37:12.058272+00:00",
+  "elapsed_seconds": 3.682558298110962,
+  "native_model_calls": 0,
+  "models_retrained": 0,
+  "host": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "audit_maxrss_native_units": 168132608,
+  "audit_maxrss_unit": "bytes onmacOS;kilobytes onLinux"
+}

@@ -1,0 +1,334 @@
+{
+  "status": "completed",
+  "study": "PoseSplit",
+  "primary_task": "Audio+knownsensorposegeometricviewportavailability;notlearnedAVfusion",
+  "model_calls": 0,
+  "locked_recordings": 14,
+  "locked_rooms": 7,
+  "locked_windows": 168,
+  "analytic_audio_real_angular_error": {
+    "median_deg": 23.48461318153936,
+    "mean_deg": 30.162341665280874,
+    "within20deg_rate": 0.3630952380952381
+  },
+  "constant_front_real_angular_error": {
+    "median_deg": 50.14336376007786,
+    "mean_deg": 58.10146229319863,
+    "within20deg_rate": 0.19642857142857142
+  },
+  "view_metrics": [
+    {
+      "arm": "analytic",
+      "regime": "camera_only",
+      "pooled_metrics": {
+        "cases": 672,
+        "positive": 168,
+        "feature_failures": 0,
+        "accuracy": 0.8571428571428571,
+        "sensitivity": 0.6309523809523809,
+        "specificity": 0.9325396825396826,
+        "balanced_accuracy": 0.7817460317460317,
+        "brier": 0.14285714285714285,
+        "log_loss": 3.9472887308469353
+      },
+      "seed_pooled_balanced_accuracy": {
+        "None": 0.7817460317460317
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.7817460317460317,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.6775545634920636,
+          0.8839285714285714
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "analytic",
+      "regime": "co_rig_virtual",
+      "pooled_metrics": {
+        "cases": 672,
+        "positive": 168,
+        "feature_failures": 0,
+        "accuracy": 0.8571428571428571,
+        "sensitivity": 0.6309523809523809,
+        "specificity": 0.9325396825396826,
+        "balanced_accuracy": 0.7817460317460317,
+        "brier": 0.14285714285714285,
+        "log_loss": 3.9472887308469353
+      },
+      "seed_pooled_balanced_accuracy": {
+        "None": 0.7817460317460317
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.7817460317460317,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.6775545634920636,
+          0.8839285714285714
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "pose_aware",
+      "regime": "camera_only",
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.8714285714285714,
+        "sensitivity": 0.7452380952380953,
+        "specificity": 0.9134920634920635,
+        "balanced_accuracy": 0.8293650793650793,
+        "brier": 0.11562674937594437,
+        "log_loss": 0.6389262635666485
+      },
+      "seed_pooled_balanced_accuracy": {
+        "101": 0.8343253968253967,
+        "211": 0.8343253968253967,
+        "307": 0.8234126984126984,
+        "401": 0.8333333333333333,
+        "503": 0.8214285714285714
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.8293650793650793,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.7353174603174605,
+          0.9220238095238095
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "pose_aware",
+      "regime": "co_rig_virtual",
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.8717261904761905,
+        "sensitivity": 0.7523809523809524,
+        "specificity": 0.9115079365079365,
+        "balanced_accuracy": 0.8319444444444444,
+        "brier": 0.11506608419519046,
+        "log_loss": 0.6341777603284317
+      },
+      "seed_pooled_balanced_accuracy": {
+        "101": 0.8521825396825398,
+        "211": 0.8373015873015872,
+        "307": 0.816468253968254,
+        "401": 0.8353174603174603,
+        "503": 0.8184523809523809
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.8319444444444445,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.7410714285714286,
+          0.9236160714285714
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "canonical_matched_orientation",
+      "regime": "camera_only",
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.43065476190476193,
+        "sensitivity": 0.5785714285714286,
+        "specificity": 0.3813492063492063,
+        "balanced_accuracy": 0.4799603174603175,
+        "brier": 0.5588475878392707,
+        "log_loss": 9.963674875538784
+      },
+      "seed_pooled_balanced_accuracy": {
+        "101": 0.4920634920634921,
+        "211": 0.49007936507936506,
+        "307": 0.4642857142857143,
+        "401": 0.4742063492063492,
+        "503": 0.47916666666666663
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.4799603174603175,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.46408234126984127,
+          0.49404761904761907
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "canonical_matched_orientation",
+      "regime": "co_rig_virtual",
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.8738095238095238,
+        "sensitivity": 0.775,
+        "specificity": 0.9067460317460317,
+        "balanced_accuracy": 0.8408730158730159,
+        "brier": 0.1166944604699,
+        "log_loss": 1.1869770953326226
+      },
+      "seed_pooled_balanced_accuracy": {
+        "101": 0.8630952380952381,
+        "211": 0.8571428571428572,
+        "307": 0.8134920634920635,
+        "401": 0.8343253968253967,
+        "503": 0.8363095238095237
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.8408730158730158,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.7567460317460318,
+          0.9291765873015874
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "wrong_pose_negative_control",
+      "regime": "camera_only",
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.5568452380952381,
+        "sensitivity": 0.11071428571428571,
+        "specificity": 0.7055555555555556,
+        "balanced_accuracy": 0.40813492063492063,
+        "brier": 0.3511021826936903,
+        "log_loss": 1.5091680117780994
+      },
+      "seed_pooled_balanced_accuracy": {
+        "101": 0.4007936507936508,
+        "211": 0.4176587301587302,
+        "307": 0.44047619047619047,
+        "401": 0.373015873015873,
+        "503": 0.4087301587301587
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.40813492063492063,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.3740029761904762,
+          0.4424652777777778
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    },
+    {
+      "arm": "wrong_pose_negative_control",
+      "regime": "co_rig_virtual",
+      "pooled_metrics": {
+        "cases": 3360,
+        "positive": 840,
+        "feature_failures": 0,
+        "accuracy": 0.5767857142857142,
+        "sensitivity": 0.1,
+        "specificity": 0.7357142857142858,
+        "balanced_accuracy": 0.41785714285714287,
+        "brier": 0.3427585400234773,
+        "log_loss": 1.5256431930938648
+      },
+      "seed_pooled_balanced_accuracy": {
+        "101": 0.38789682539682535,
+        "211": 0.44940476190476186,
+        "307": 0.45138888888888884,
+        "401": 0.4176587301587301,
+        "503": 0.3829365079365079
+      },
+      "primary_mean_seed_pooled_balanced_accuracy": 0.4178571428571428,
+      "room_cluster_bootstrap": {
+        "confidence95": [
+          0.38055059523809526,
+          0.45239087301587294
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      },
+      "statistical_units": "7heldoutroomclusters;allcasespooledwithinseedthenaveragedacross5seeds;views/windows/seedsnotindependent."
+    }
+  ],
+  "paired_camera_only_room_contrasts": [
+    {
+      "contrast": "pose_aware_minus_canonical_matched_orientation",
+      "paired_difference_of_mean_seed_pooled_BA": 0.34940476190476183,
+      "paired_room_cluster_bootstrap": {
+        "confidence95": [
+          0.2517807539682539,
+          0.44008432539682546
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      }
+    },
+    {
+      "contrast": "pose_aware_minus_wrong_pose_negative_control",
+      "paired_difference_of_mean_seed_pooled_BA": 0.4212301587301587,
+      "paired_room_cluster_bootstrap": {
+        "confidence95": [
+          0.3015873015873016,
+          0.5434771825396825
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      }
+    },
+    {
+      "contrast": "pose_aware_minus_analytic",
+      "paired_difference_of_mean_seed_pooled_BA": 0.04761904761904756,
+      "paired_room_cluster_bootstrap": {
+        "confidence95": [
+          0.006746031746031611,
+          0.10376984126984135
+        ],
+        "undefined_replicates": 0,
+        "total_replicates": 2000,
+        "policy": "Absentclass=>null;noredraw."
+      }
+    }
+  ],
+  "scope": [
+    "Procedural4channelwaveformtraining;externalrealhuman/MoCaplabelsheldoutbyroom.",
+    "Analyticbaselinecanoutperformlearnedhead;noclaimnewlocalizationalgorithm.",
+    "Cameraonly/co-rigtransformvalidityisseparatefromrealDOAtransfer.",
+    "Noimagefeatures,physicalocclusion,learnedvisualgenerationorfullAVperceptiongain.",
+    "Allviews/seeds/windowsnestedwithinrecordingsandrooms;7roomsallowonlysmall-sampledescriptiveinference."
+  ],
+  "source_hashes": {
+    "FROZEN.json": "590841cc0eba305f25a30eb09b5be32615a3dc5449bcdbf6d13ec5f707511cd3",
+    "protocol.json": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522",
+    "selection.json": "38ba020d654e427a7cd29450c566f0f92a9afbdfccbb31924f5ff87f87f6ff4e",
+    "source_readback.json": "7b17c212efe2bbbbb176083e86d80dfb1c25c836c592d89a15e487193e75d7e1",
+    "real_features.json": "3a48bead7d58bfbb46d6692f792704a6a7c059dc845fcd08a5bb1b76fc6b0d1d",
+    "predictions.jsonl": "800658e3d997677b23245e3e2f0a20f4151c30ce885e9e1cf02b0cb667e7d023",
+    "room_bootstrap_replicates.json": "b2414f4a031968e38b5ba8e8b67a2f56f5547e8bb7f7a9fd9379076d3c9abff3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "wall_seconds": 31.750167846679688,
+  "maxrss_native_units": 348733440,
+  "platform": "Darwin",
+  "mac_maxrss_units": "bytesonmacOS;kilobytesonLinux",
+  "target48GB": "Boundedstreamingdesign;actualhostRAMnotanexact48GBdevicevalidation.",
+  "native_model_calls": 0
+}

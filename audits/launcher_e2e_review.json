@@ -1,0 +1,67 @@
+{
+  "status": "passed_end_to_end_deterministic_reproduction",
+  "checked_utc": "2026-10-31T22:45:54.239922+00:00",
+  "command": "bash run_task09.command",
+  "launcher_exit_code": 0,
+  "launcher_run_count": 1,
+  "canonical_study": "runs/renewed-09-posesplit-20261031",
+  "new_study": "runs/posesplit-replay-20261031-224439-47675",
+  "log": "work/posesplit_launcher_logs/posesplit-replay-20261031-224439-47675.log",
+  "launcher_sha256": "923cb3c70ab62ac651e6a27079dba7697b945b2267e4cec856ebfdd3b8462b49",
+  "driver_sha256": "e907f66db8bc6ad8b1227a5c43c84aa838c5a29a274c2c4923b3d575fa337651",
+  "frozen_code_sha256": "bcd90a51205349cf71007ea4f8b86181888ee3148c89aed385dc8f14099f939d",
+  "protocol_sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522",
+  "canonical_result_sha256_unchanged": "97530ffe65662a453fcb04dad9cbbd4a5a96f91c0ff4f695d01ac9d4614ead53",
+  "new_result_sha256": "f1ac7ec3b024af7d95b77580f5d3a393bea3bf67feb6c62c10963fc9eed080bf",
+  "expected_nonidentity": "The new freeze timestamp changes FROZEN.json and result source-hash provenance. Scientific case IDs, outputs and metric semantics match.",
+  "checks": {
+    "source_cache_files_copied_and_reverified": 46,
+    "symlinks_created": 0,
+    "all_prediction_rows_compared": 35328,
+    "all_unique_case_ids_exact": true,
+    "probability_absolute_tolerance": 1e-12,
+    "maximum_probability_difference": 0.0,
+    "metric_and_replay_numeric_cells_compared": 139753,
+    "maximum_metric_or_replay_numeric_difference": 0.0,
+    "same_media_audit_and_cardinal_fixture_records": true,
+    "same_bootstrap_room_draws_and_estimates": true,
+    "same_reviewed_source_protocol_selection": true,
+    "canonical_observed_run_unchanged": true,
+    "source_model_or_protocol_edits_by_this_check": false
+  },
+  "environment": {
+    "python": "3.14.2 (main, Dec  5 2025, 16:49:16) [Clang 16.0.0 (clang-1600.0.26.6)]",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "dependencies": {
+      "numpy": "2.5.4",
+      "Pillow": "12.3.0",
+      "fsspec": "2026.9.0",
+      "aiohttp": "3.14.5"
+    },
+    "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+    "reproduction_driver_sha256": "e907f66db8bc6ad8b1227a5c43c84aa838c5a29a274c2c4923b3d575fa337651",
+    "same_reviewed_source_protocol_and_selection": true
+  },
+  "resources": {
+    "wall_seconds": 31.78084087371826,
+    "maxrss_native_units": 348667904,
+    "platform": "Darwin",
+    "mac_maxrss_units": "bytesonmacOS;kilobytesonLinux",
+    "target48GB": "Boundedstreamingdesign;actualhostRAMnotanexact48GBdevicevalidation.",
+    "native_model_calls": 0
+  },
+  "inference_cost": {
+    "native_language_or_vision_model_calls": 0,
+    "paid_cloud_calls": 0,
+    "network_scope": "Public dataset metadata/ZIP catalogs; all46 complete source members reused from the verified local cache."
+  },
+  "scientific_interpretation": {
+    "independent_trial": false,
+    "new_independent_sample_size": 0,
+    "same_locked_windows": 168,
+    "same_locked_recordings": 14,
+    "same_locked_rooms": 7,
+    "statement": "This validates the one-command reproduction path and deterministic computations. It does not increase scientific N or constitute an independent real-data replication."
+  },
+  "must_fix": []
+}

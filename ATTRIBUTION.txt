@@ -1,0 +1,25 @@
+PoseSplit new code: Saurav K. Aryal, Howard University, 2026; MIT License.
+
+STARSS23 annotations and source metadata:
+Kazuki Shimada, Archontis Politis, Parthasaarathy Sudarsanam, Daniel Krause,
+Kengo Uchida, Sharath Adavanne, Aapo Hakala, Yuichiro Koyama, Naoya Takahashi,
+Shusuke Takahashi, Tuomas Virtanen, and Yuki Mitsufuji. STARSS23: An Audio-Visual
+Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations
+of Sound Events. NeurIPS 2023 Datasets and Benchmarks.
+https://arxiv.org/abs/2306.09126
+Immutable data snapshot: https://zenodo.org/records/7880637 (version1.1.0).
+The source MIT copyright/license notice is retained verbatim in
+work/task09_design_sources/LICENSE. Its attribution applies to the annotation
+archive and source metadata included here; generated recording-window selection
+and pose labels are separately identified. Source audio/video, synthetic WAVs,
+and participant-photo derivatives are not redistributed.
+
+Channel and coordinate conventions were checked against Sony Research's MIT
+DCASE2025 Stereo SELD Data Generator:
+https://github.com/SonyResearch/dcase2025_stereo_seld_data_generator
+The frozen PoseSplit code independently implements its documented rotation and
+projection mathematics; it does not claim to invent those established operations.
+
+Numerical figures contain aggregate results only. The small trained NumPy heads,
+raw predicted probabilities, and procedural-generation parameters are research
+outputs of PoseSplit; no foundation-model weights are included.

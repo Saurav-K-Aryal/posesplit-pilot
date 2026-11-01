@@ -1,0 +1,65 @@
+{
+  "status": "passed_all_four_images_visual_qa",
+  "reviewed_utc": "2026-10-31T22:39:08.300660+00:00",
+  "reviewer": "paper05_final",
+  "study_result_sha256": "97530ffe65662a453fcb04dad9cbbd4a5a96f91c0ff4f695d01ac9d4614ead53",
+  "figure_generator": "pilots/renewed09/plot_results.py",
+  "figure_generator_sha256": "3701aca1ceb7951bf0561784ae9264dcf5bba1d0448b630628d73148d2326335",
+  "figures": {
+    "pose_availability.png": {
+      "sha256": "7e4bc91f42d2a8e2e740c269c15546dd36b3b62496f4bddb9530458f4602d94a",
+      "visually_inspected": true
+    },
+    "real_doa_ecdf.png": {
+      "sha256": "d1e5577d5c2c07767890b305d74b7b09ace631c6c5539ce9be615d3b11e89c64",
+      "visually_inspected": true
+    },
+    "media_montage_development.png": {
+      "sha256": "181f3527ba7f985d9e79ffdc630d7ae185de5bedd81eeb50597e9d884b057f19",
+      "visually_inspected": true
+    },
+    "media_montage_locked.png": {
+      "sha256": "7f1732529730c8600511e043c55fa77137966a9ab9c20430d562c059b9e0d06a",
+      "visually_inspected": true
+    }
+  },
+  "visual_findings": [
+    "The primary bar plot labels and seven-room intervals are legible and unclipped; the title explicitly identifies the camera-only regime.",
+    "The descriptive DOA ECDF uses the full0\u2013180 degree axis and correct analytic/constant-front labels and medians.",
+    "The development montage is the fixed fold3_room12_mix001 example; the locked montage is fold4_room10_mix001. All four yaw views and labels are visible. Faces are already blurred in the source STARSS23 video.",
+    "The montages demonstrate changes in actual image views; they do not demonstrate learned visual perception or human-validated object visibility."
+  ],
+  "source_or_model_changes": false,
+  "training_reruns": 0,
+  "new_native_model_calls": 0,
+  "results_audit_status": "Independent C scientific/artifact audit was pending at figure generation; this pass covers recorded numbers and visual layout.",
+  "numerical_scope": {
+    "test_windows": 168,
+    "test_recordings": 14,
+    "test_rooms": 7,
+    "views_per_regime": 672,
+    "positive_view_labels": 168,
+    "training_seeds": 5,
+    "camera_only_pose_aware_BA": 0.8293650793650793,
+    "camera_only_canonical_BA": 0.4799603174603175,
+    "co_rig_pose_aware_BA": 0.8319444444444445,
+    "co_rig_canonical_BA": 0.8408730158730158,
+    "analytic_BA_both_regimes": 0.7817460317460317,
+    "camera_only_pose_minus_canonical": 0.34940476190476183,
+    "co_rig_pose_minus_canonical": -0.008928571428571286
+  },
+  "interpretation": {
+    "defensible": "Procedural waveform training covering independent camera and microphone orientations supports audio-plus-known-pose viewport prediction in held-out real rooms. The matched-orientation head fails when camera-only pose variation introduces a shift beyond its training support; pose-aware training largely avoids that failure.",
+    "necessary_counter_result": "Canonical matched-orientation training is descriptively higher in the co-rig regime with relative pose zero:0.8409 versus 0.8319. The pose-aware curriculum is therefore not universally better. The co-rig regime matches the canonical training support.",
+    "analytic_reference": "Analytic intensity plus known pose already achieves 0.7817 balanced accuracy without head training. The pose-aware camera-only gain is 0.04762; the paired seven-room percentile interval is 0.00675\u20130.10377, conditional on these prespecified rooms. Seven clusters and one benchmark support a bounded preliminary claim, without universal superiority or population guarantees.",
+    "localization_separation": "The median angular error of 23.48 degrees versus 50.14 for constant front measures analytic FOA localization. The MLP predicts only binary viewport availability; its curriculum cannot be credited with improving continuous DOA estimation.",
+    "pose_support": "Pose-aware training and test both use the four headings 0/90/180/270. This is transfer to real acoustics and rooms, not generalization to unseen continuous yaw or unknown extrinsics. The canonical baseline sees relative pose zero only, so its inability to learn a pose interaction is expected.",
+    "negative_control": "The cyclic wrong-pose labels intentionally make training data invalid. Their failure is a specificity/sanity check, not evidence of superiority over a competitive augmentation method.",
+    "task_and_class_balance": "The target is geometric viewport availability from external source-position labels and known pose. It does not establish unoccluded visibility, audibility, object identity, distance estimation, unknown-pose calibration, or learned audiovisual fusion. View positivity is 25%; raw accuracy alone would be misleading, while balanced accuracy has a 0.5 constant-class reference.",
+    "dependence": "Both regimes reuse the original sound field and windows. Equal analytic scores across regimes reflect equivariance, not independent replication. The five learned seeds are not five independent real datasets.",
+    "year1_bridge": "Future work should test actual visual features/source binding, unseen angles and extrinsics, and matched synthetic-generator alternatives. The present results justify feasibility and a precise curriculum question; they do not establish a new photorealistic audiovisual synthesis capability."
+  },
+  "recommended_proposal_paragraph": "On 168 prespecified half-second windows from 14 real recordings in 7 held-out rooms, a head trained with procedural audio and independent camera poses achieved 0.829 balanced accuracy for geometric viewport availability under camera-only reframing, versus 0.480 for matched-orientation training and 0.782 for an analytic intensity baseline. Under co-rig rotation, which matches the canonical training pose support, canonical training reached 0.841 versus 0.832 for pose-aware training. These results support the feasibility of explicit camera\u2013microphone pose control and real-room measurement. They do not establish universal curriculum superiority or learned audiovisual fusion.",
+  "must_fix": [],
+  "recommendation": "Include both regimes in the proposal text or table; do not present the camera-only plot without its co-rig counter-result."
+}
