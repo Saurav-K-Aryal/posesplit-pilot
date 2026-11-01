@@ -12,7 +12,8 @@
     "Added portable orchestration, a saved-result verifier, fresh numerical plots and a new ACM single-column manuscript.",
     "Only two lossless procedural scenes and one illustrative preview accompany the compact release; other procedural media regenerate from state.",
     "Real raw recordings and participant photographs are not redistributed.",
-    "Bibliography checked against primary arXiv, Sony and NVIDIA records; FlatSounds first author is Tingle Li and SAVGBench/STARSS23 first author Kazuki Shimada."
+    "Bibliography checked against primary arXiv, Sony and NVIDIA records; FlatSounds first author is Tingle Li and SAVGBench/STARSS23 first author Kazuki Shimada.",
+    "Added a Methods AI-assistance disclosure for Codex use under the author\u2019s direction; no other manuscript source, bibliography, figures, code or experimental data changed."
   ],
   "files": [
     {
@@ -242,13 +243,13 @@
     },
     {
       "path": "overleaf.zip",
-      "bytes": 151042,
-      "sha256": "cb3fcdaba0f607080af340cce87830a36a294007a0b5d131a0c4a271fe5cf350"
+      "bytes": 151105,
+      "sha256": "e36d12235864dbab924f658729179be2c6fd8ab639c6db5371faf603db4ddae8"
     },
     {
       "path": "paper.pdf",
-      "bytes": 477163,
-      "sha256": "8bdcedf70395dc8bce03328e95fa82d992cf2d438f55cf416a5973d1d83685cf"
+      "bytes": 477464,
+      "sha256": "042407c3331ecc7b79b1a1f0993e9d2837f9a009784bf0b8c7c81558a924bb20"
     },
     {
       "path": "pilots/__init__.py",
@@ -759,6 +760,13 @@
       "path": "work/task09_protocol.json",
       "bytes": 9349,
       "sha256": "5b977a500959d4e5aeda2d81f5f0fbc13a307de642bfa0167f1129aeecaf6522"
+    }
+  ],
+  "amendments": [
+    {
+      "date": "2026-11-01",
+      "base_commit": "15e1b6ca10bc81c0f744e2e6d70832a7ae1886be",
+      "change": "AI-assistance disclosure added at end of Methods before Results. Title, abstract, keywords and scientific claims are unchanged."
     }
   ]
 }
